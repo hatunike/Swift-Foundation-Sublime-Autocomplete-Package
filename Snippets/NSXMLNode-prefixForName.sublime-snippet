@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLNode.prefixForName(${1:String})]]></content>
+	<tabTrigger>NSXMLNode.prefixForName</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSXMLNode -> String?</description></snippet>

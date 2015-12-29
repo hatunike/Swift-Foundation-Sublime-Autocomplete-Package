@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+insertObjects(${1:[AnyObject]}, atIndexes:${2:NSIndexSet})]]></content>
+	<tabTrigger>insertObjects</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

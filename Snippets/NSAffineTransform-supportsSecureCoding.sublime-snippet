@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSAffineTransform.supportsSecureCoding(${1:})]]></content>
+	<tabTrigger>NSAffineTransform.supportsSecureCoding</tabTrigger>
+	<scope>source.swift</scope>	<description>static NSAffineTransform -> Bool</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSEnumerationOptions
+]]></content>
+	<tabTrigger>NSEnumerationOptions</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

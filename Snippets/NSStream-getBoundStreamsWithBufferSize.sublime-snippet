@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSStream.getBoundStreamsWithBufferSize(${1:Int}, inputStream:${2:AutoreleasingUnsafeMutablePointer<NSInputStream?>}, outputStream:${3:AutoreleasingUnsafeMutablePointer<NSOutputStream?>})]]></content>
+	<tabTrigger>NSStream.getBoundStreamsWithBufferSize</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSStream -> void</description></snippet>

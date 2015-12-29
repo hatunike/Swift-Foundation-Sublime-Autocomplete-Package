@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+unsignedLongValue
+]]></content>
+	<tabTrigger>unsignedLongValue</tabTrigger>
+	<scope>source.swift</scope>	<description>UInt</description></snippet>

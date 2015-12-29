@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+pause(${1:})]]></content>
+	<tabTrigger>pause</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSProgress -> void</description></snippet>

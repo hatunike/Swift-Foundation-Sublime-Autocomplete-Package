@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLElement(${1:NSXMLNodeKind}, options:${2:Int})]]></content>
+	<tabTrigger>NSXMLElement</tabTrigger>
+	<scope>source.swift</scope>	<description>kind: options:</description></snippet>

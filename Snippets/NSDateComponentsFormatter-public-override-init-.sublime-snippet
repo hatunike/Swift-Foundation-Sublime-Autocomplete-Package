@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDateComponentsFormatter(${1:})]]></content>
+	<tabTrigger>NSDateComponentsFormatter</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

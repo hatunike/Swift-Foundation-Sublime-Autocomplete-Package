@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSThread.exit(${1:})]]></content>
+	<tabTrigger>NSThread.exit</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSThread -> void</description></snippet>

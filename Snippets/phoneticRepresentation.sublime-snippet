@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+phoneticRepresentation
+]]></content>
+	<tabTrigger>phoneticRepresentation</tabTrigger>
+	<scope>source.swift</scope>	<description>NSPersonNameComponents</description></snippet>

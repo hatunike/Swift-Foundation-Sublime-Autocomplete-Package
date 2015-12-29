@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+localizedFailureReason
+]]></content>
+	<tabTrigger>localizedFailureReason</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+mutableCopyWithZone(${1:NSZone})]]></content>
+	<tabTrigger>mutableCopyWithZone</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSAttributedString -> AnyObject</description></snippet>

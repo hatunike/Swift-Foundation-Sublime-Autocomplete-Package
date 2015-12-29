@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSObject.classFallbacksForKeyedArchiver(${1:})]]></content>
+	<tabTrigger>NSObject.classFallbacksForKeyedArchiver</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSObject -> [String]</description></snippet>

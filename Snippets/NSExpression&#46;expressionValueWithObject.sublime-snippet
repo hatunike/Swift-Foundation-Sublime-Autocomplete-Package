@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+expressionValueWithObject(${1:AnyObject?}, context:${2:NSMutableDictionary?})]]></content>
+	<tabTrigger>expressionValueWithObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSExpression -> AnyObject</description></snippet>

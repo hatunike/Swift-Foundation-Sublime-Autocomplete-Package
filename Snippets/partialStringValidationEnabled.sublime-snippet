@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+partialStringValidationEnabled
+]]></content>
+	<tabTrigger>partialStringValidationEnabled</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

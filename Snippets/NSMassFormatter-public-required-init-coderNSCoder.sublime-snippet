@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMassFormatter(${1:NSCoder})]]></content>
+	<tabTrigger>NSMassFormatter</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

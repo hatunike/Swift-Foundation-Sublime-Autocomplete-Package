@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+HTTPShouldSetCookies
+]]></content>
+	<tabTrigger>HTTPShouldSetCookies</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

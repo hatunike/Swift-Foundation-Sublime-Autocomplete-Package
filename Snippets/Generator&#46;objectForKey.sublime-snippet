@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectForKey(${1:AnyObject})]]></content>
+	<tabTrigger>objectForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> AnyObject?</description></snippet>

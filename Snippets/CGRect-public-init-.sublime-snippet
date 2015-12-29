@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+CGRect(${1:})]]></content>
+	<tabTrigger>CGRect</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

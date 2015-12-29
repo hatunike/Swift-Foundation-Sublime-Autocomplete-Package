@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+cancel(${1:})]]></content>
+	<tabTrigger>cancel</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSOperation -> void</description></snippet>

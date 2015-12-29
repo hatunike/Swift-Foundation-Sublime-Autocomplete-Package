@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+childCount
+]]></content>
+	<tabTrigger>childCount</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

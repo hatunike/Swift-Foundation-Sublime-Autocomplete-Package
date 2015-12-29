@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringByReplacingOccurrencesOfString(${1:String}, withString:${2:String})]]></content>
+	<tabTrigger>stringByReplacingOccurrencesOfString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

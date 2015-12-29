@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+hasPrefix(${1:String})]]></content>
+	<tabTrigger>hasPrefix</tabTrigger>
+	<scope>source.swift</scope>	<description>func String -> Bool</description></snippet>

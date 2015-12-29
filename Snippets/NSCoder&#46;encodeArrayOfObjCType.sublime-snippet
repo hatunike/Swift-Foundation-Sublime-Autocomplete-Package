@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+encodeArrayOfObjCType(${1:UnsafePointer<Int8>}, count:${2:Int}, at:${3:UnsafePointer<Void>})]]></content>
+	<tabTrigger>encodeArrayOfObjCType</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

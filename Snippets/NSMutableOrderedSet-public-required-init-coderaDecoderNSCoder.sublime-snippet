@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMutableOrderedSet(coder:${1:NSCoder})]]></content>
+	<tabTrigger>NSMutableOrderedSet</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

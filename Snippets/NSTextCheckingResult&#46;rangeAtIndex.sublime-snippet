@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+rangeAtIndex(${1:Int})]]></content>
+	<tabTrigger>rangeAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSTextCheckingResult -> NSRange</description></snippet>

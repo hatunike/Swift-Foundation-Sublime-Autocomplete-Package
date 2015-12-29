@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+serverTrust
+]]></content>
+	<tabTrigger>serverTrust</tabTrigger>
+	<scope>source.swift</scope>	<description>SecTrust</description></snippet>

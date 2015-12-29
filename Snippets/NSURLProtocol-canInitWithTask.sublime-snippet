@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLProtocol.canInitWithTask(${1:NSURLSessionTask})]]></content>
+	<tabTrigger>NSURLProtocol.canInitWithTask</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLProtocol -> Bool</description></snippet>

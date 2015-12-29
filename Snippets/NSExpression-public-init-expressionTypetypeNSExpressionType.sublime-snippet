@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSExpression(expressionType:${1:NSExpressionType})]]></content>
+	<tabTrigger>NSExpression</tabTrigger>
+	<scope>source.swift</scope>	<description>expressionType:</description></snippet>

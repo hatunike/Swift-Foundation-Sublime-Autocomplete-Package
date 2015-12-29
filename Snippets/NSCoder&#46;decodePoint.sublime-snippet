@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+decodePoint(${1:})]]></content>
+	<tabTrigger>decodePoint</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> NSPoint</description></snippet>

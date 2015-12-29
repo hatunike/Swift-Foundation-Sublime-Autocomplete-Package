@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDivideRect(${1:NSRect}, _:${2:UnsafeMutablePointer<NSRect>}, _:${3:UnsafeMutablePointer<NSRect>}, _:${4:CGFloat}, _:${5:NSRectEdge})]]></content>
+	<tabTrigger>NSDivideRect</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> void</description></snippet>

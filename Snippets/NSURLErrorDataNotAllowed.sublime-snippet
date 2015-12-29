@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorDataNotAllowed
+]]></content>
+	<tabTrigger>NSURLErrorDataNotAllowed</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

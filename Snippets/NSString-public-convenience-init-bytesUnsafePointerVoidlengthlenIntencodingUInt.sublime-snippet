@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString(${1:UnsafePointer<Void>}, length:${2:Int}, encoding:${3:UInt})]]></content>
+	<tabTrigger>NSString</tabTrigger>
+	<scope>source.swift</scope>	<description>bytes: length: encoding:</description></snippet>

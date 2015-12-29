@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+readInBackgroundAndNotify(${1:})]]></content>
+	<tabTrigger>readInBackgroundAndNotify</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileHandle -> void</description></snippet>

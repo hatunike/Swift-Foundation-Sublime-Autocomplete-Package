@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+replaceItemAtURL(${1:NSURL}, withItemAtURL:${2:NSURL}, backupItemName:${3:String?}, options:${4:NSFileManagerItemReplacementOptions})]]></content>
+	<tabTrigger>replaceItemAtURL</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> NSURL</description></snippet>

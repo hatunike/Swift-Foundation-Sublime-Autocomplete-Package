@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+linkItemAtPath(${1:String}, toPath:${2:String})]]></content>
+	<tabTrigger>linkItemAtPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

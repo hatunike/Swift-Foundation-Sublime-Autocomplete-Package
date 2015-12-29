@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+supportsSecureCoding(${1:})]]></content>
+	<tabTrigger>supportsSecureCoding</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURL -> Bool</description></snippet>

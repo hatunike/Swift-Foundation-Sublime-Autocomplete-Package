@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorBackgroundTaskCancelledReasonKey
+]]></content>
+	<tabTrigger>NSURLErrorBackgroundTaskCancelledReasonKey</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

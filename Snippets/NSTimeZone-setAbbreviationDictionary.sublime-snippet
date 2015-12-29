@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSTimeZone.setAbbreviationDictionary(${1:[String })]]></content>
+	<tabTrigger>NSTimeZone.setAbbreviationDictionary</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSTimeZone -> void</description></snippet>

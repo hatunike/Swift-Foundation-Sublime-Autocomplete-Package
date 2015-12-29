@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSEnumerator
+]]></content>
+	<tabTrigger>NSEnumerator</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

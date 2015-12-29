@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSNumber(float:${1:Float})]]></content>
+	<tabTrigger>NSNumber</tabTrigger>
+	<scope>source.swift</scope>	<description>float:</description></snippet>

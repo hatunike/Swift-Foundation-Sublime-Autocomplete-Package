@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSXMLNodePreserveNamespaceOrder
+]]></content>
+	<tabTrigger>NSXMLNodePreserveNamespaceOrder</tabTrigger>
+	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

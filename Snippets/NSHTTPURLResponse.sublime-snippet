@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSHTTPURLResponse
+]]></content>
+	<tabTrigger>NSHTTPURLResponse</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

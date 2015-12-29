@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSExpression.expressionForEvaluatedObject(${1:})]]></content>
+	<tabTrigger>NSExpression.expressionForEvaluatedObject</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSExpression -> NSExpression</description></snippet>

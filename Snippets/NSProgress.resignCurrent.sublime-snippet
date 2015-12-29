@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+resignCurrent(${1:})]]></content>
+	<tabTrigger>resignCurrent</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSProgress -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+copyWithZone(${1:NSZone})]]></content>
+	<tabTrigger>copyWithZone</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSNotification -> AnyObject</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSSearchPathDirectory
+]]></content>
+	<tabTrigger>NSSearchPathDirectory</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString(string:${1:String})]]></content>
+	<tabTrigger>NSString</tabTrigger>
+	<scope>source.swift</scope>	<description>string:</description></snippet>

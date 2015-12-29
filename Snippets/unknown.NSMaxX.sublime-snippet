@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMaxX(${1:NSRect})]]></content>
+	<tabTrigger>NSMaxX</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> CGFloat</description></snippet>

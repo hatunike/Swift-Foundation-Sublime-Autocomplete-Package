@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+Generator(${1:AnyObject}, forKey:${2:NSCopying})]]></content>
+	<tabTrigger>Generator</tabTrigger>
+	<scope>source.swift</scope>	<description>object: forKey:</description></snippet>

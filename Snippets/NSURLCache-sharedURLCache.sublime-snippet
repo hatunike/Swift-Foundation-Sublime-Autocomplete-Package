@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLCache.sharedURLCache(${1:})]]></content>
+	<tabTrigger>NSURLCache.sharedURLCache</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLCache -> NSURLCache</description></snippet>

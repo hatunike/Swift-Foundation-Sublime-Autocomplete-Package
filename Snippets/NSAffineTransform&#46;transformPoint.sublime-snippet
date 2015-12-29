@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+transformPoint(${1:NSPoint})]]></content>
+	<tabTrigger>transformPoint</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSAffineTransform -> NSPoint</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSThread(${1:Void -> Void})]]></content>
+	<tabTrigger>NSThread</tabTrigger>
+	<scope>source.swift</scope>	<description>_:</description></snippet>

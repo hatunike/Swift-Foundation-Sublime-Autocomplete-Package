@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+unitStyle
+]]></content>
+	<tabTrigger>unitStyle</tabTrigger>
+	<scope>source.swift</scope>	<description>NSFormattingUnitStyle</description></snippet>

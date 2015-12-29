@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSEnumerationOptions(${1:UInt})]]></content>
+	<tabTrigger>NSEnumerationOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

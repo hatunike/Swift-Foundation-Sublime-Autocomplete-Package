@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+readDataOfLength(${1:Int})]]></content>
+	<tabTrigger>readDataOfLength</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileHandle -> NSData</description></snippet>

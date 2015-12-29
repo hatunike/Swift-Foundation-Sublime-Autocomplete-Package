@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+applyTransform(${1:String}, reverse:${2:Bool}, range:${3:NSRange}, updatedRange:${4:NSRangePointer})]]></content>
+	<tabTrigger>applyTransform</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableString -> Bool</description></snippet>

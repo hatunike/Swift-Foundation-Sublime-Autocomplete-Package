@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+year
+]]></content>
+	<tabTrigger>year</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

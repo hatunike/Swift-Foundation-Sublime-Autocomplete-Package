@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+launchPath
+]]></content>
+	<tabTrigger>launchPath</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

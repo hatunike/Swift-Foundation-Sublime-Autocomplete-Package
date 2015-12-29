@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+lengthOfBytesUsingEncoding(${1:UInt})]]></content>
+	<tabTrigger>lengthOfBytesUsingEncoding</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> Int</description></snippet>

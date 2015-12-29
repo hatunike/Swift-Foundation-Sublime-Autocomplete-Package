@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+canonicalXMLStringPreservingComments(${1:Bool})]]></content>
+	<tabTrigger>canonicalXMLStringPreservingComments</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLNode -> String</description></snippet>

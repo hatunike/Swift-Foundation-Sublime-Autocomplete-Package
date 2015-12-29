@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setChildren(${1:[NSXMLNode]?})]]></content>
+	<tabTrigger>setChildren</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLElement -> void</description></snippet>

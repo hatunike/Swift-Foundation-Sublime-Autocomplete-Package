@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+hasSuffix(${1:String})]]></content>
+	<tabTrigger>hasSuffix</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> Bool</description></snippet>

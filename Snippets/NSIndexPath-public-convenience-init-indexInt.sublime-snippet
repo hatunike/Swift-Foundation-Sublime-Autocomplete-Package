@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSIndexPath(${1:Int})]]></content>
+	<tabTrigger>NSIndexPath</tabTrigger>
+	<scope>source.swift</scope>	<description>index:</description></snippet>

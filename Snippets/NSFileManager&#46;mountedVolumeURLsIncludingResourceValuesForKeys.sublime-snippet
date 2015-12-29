@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+mountedVolumeURLsIncludingResourceValuesForKeys(${1:[String]?}, options:${2:NSVolumeEnumerationOptions})]]></content>
+	<tabTrigger>mountedVolumeURLsIncludingResourceValuesForKeys</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> [NSURL]?</description></snippet>

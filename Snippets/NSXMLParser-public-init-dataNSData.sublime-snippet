@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLParser(${1:NSData})]]></content>
+	<tabTrigger>NSXMLParser</tabTrigger>
+	<scope>source.swift</scope>	<description>data:</description></snippet>

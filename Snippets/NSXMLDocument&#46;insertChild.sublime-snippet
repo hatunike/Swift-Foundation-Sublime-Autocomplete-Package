@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+insertChild(${1:NSXMLNode}, atIndex:${2:Int})]]></content>
+	<tabTrigger>insertChild</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLDocument -> void</description></snippet>

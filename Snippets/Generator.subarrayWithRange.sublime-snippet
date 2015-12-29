@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+subarrayWithRange(${1:NSRange})]]></content>
+	<tabTrigger>subarrayWithRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> [AnyObject]</description></snippet>

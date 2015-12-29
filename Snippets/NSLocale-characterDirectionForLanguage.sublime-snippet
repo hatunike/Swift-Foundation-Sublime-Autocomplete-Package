@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSLocale.characterDirectionForLanguage(${1:String})]]></content>
+	<tabTrigger>NSLocale.characterDirectionForLanguage</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSLocale -> NSLocaleLanguageDirection</description></snippet>

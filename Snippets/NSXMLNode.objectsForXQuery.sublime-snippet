@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectsForXQuery(${1:String})]]></content>
+	<tabTrigger>objectsForXQuery</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLNode -> [AnyObject]</description></snippet>

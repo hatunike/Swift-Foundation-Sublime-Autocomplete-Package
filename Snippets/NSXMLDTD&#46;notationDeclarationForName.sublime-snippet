@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+notationDeclarationForName(${1:String})]]></content>
+	<tabTrigger>notationDeclarationForName</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLDTD -> NSXMLDTDNode?</description></snippet>

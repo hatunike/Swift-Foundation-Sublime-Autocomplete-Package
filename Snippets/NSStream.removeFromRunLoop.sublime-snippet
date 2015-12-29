@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeFromRunLoop(${1:NSRunLoop}, forMode:${2:String})]]></content>
+	<tabTrigger>removeFromRunLoop</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSStream -> void</description></snippet>

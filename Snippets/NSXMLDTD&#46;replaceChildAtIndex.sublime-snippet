@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+replaceChildAtIndex(${1:Int}, withNode:${2:NSXMLNode})]]></content>
+	<tabTrigger>replaceChildAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLDTD -> void</description></snippet>

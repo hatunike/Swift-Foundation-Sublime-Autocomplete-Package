@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSNotification(${1:})]]></content>
+	<tabTrigger>NSNotification</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

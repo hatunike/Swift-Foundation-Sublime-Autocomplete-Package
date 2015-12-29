@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+completedUnitCount
+]]></content>
+	<tabTrigger>completedUnitCount</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

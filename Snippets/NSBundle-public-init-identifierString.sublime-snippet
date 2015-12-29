@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSBundle(${1:String})]]></content>
+	<tabTrigger>NSBundle</tabTrigger>
+	<scope>source.swift</scope>	<description>identifier:</description></snippet>

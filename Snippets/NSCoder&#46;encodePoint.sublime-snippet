@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+encodePoint(${1:NSPoint}, forKey:${2:String})]]></content>
+	<tabTrigger>encodePoint</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

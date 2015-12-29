@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+twoDigitStartDate
+]]></content>
+	<tabTrigger>twoDigitStartDate</tabTrigger>
+	<scope>source.swift</scope>	<description>NSDate</description></snippet>

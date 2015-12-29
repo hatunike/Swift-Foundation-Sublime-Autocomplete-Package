@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSStreamSocketSecurityLevelNone
+]]></content>
+	<tabTrigger>NSStreamSocketSecurityLevelNone</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

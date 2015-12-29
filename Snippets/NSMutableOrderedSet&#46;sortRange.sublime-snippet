@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+sortRange(${1:NSRange}, options:${2:NSSortOptions}, usingComparator:${3:NSComparator})]]></content>
+	<tabTrigger>sortRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

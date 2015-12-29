@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+XMLStringWithOptions(${1:Int})]]></content>
+	<tabTrigger>XMLStringWithOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLNode -> String</description></snippet>

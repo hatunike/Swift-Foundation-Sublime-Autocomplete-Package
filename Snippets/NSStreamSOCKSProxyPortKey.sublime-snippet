@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSStreamSOCKSProxyPortKey
+]]></content>
+	<tabTrigger>NSStreamSOCKSProxyPortKey</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

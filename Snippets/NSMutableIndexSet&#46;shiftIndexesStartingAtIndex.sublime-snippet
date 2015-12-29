@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+shiftIndexesStartingAtIndex(${1:Int}, by:${2:Int})]]></content>
+	<tabTrigger>shiftIndexesStartingAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableIndexSet -> void</description></snippet>

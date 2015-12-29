@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+minimumRangeOfUnit(${1:NSCalendarUnit})]]></content>
+	<tabTrigger>minimumRangeOfUnit</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> NSRange</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+==\<T:(${1:T}, rhs:${2:T})]]></content>
+	<tabTrigger>==T:</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

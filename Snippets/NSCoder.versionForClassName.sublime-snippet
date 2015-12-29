@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+versionForClassName(${1:String})]]></content>
+	<tabTrigger>versionForClassName</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> Int</description></snippet>

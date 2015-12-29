@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSHost.currentHost(${1:})]]></content>
+	<tabTrigger>NSHost.currentHost</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSHost -> NSHost</description></snippet>

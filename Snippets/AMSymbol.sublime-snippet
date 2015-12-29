@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+AMSymbol
+]]></content>
+	<tabTrigger>AMSymbol</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

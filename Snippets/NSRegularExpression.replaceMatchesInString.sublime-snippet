@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+replaceMatchesInString(${1:NSMutableString}, options:${2:NSMatchingOptions}, range:${3:NSRange}, withTemplate:${4:String})]]></content>
+	<tabTrigger>replaceMatchesInString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSRegularExpression -> Int</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isCoderError
+]]></content>
+	<tabTrigger>isCoderError</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

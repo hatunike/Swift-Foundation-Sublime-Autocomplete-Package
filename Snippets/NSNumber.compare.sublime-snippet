@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+compare(${1:NSNumber})]]></content>
+	<tabTrigger>compare</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSNumber -> NSComparisonResult</description></snippet>

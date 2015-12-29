@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLCache(${1:Int}, diskCapacity:${2:Int}, diskPath:${3:String?})]]></content>
+	<tabTrigger>NSURLCache</tabTrigger>
+	<scope>source.swift</scope>	<description>memoryCapacity: diskCapacity: diskPath:</description></snippet>

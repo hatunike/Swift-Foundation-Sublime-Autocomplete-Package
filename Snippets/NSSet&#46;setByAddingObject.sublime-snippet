@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setByAddingObject(${1:AnyObject})]]></content>
+	<tabTrigger>setByAddingObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSSet -> Set NSObject </description></snippet>

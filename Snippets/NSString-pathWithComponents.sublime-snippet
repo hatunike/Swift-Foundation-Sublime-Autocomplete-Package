@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString.pathWithComponents(${1:[String]})]]></content>
+	<tabTrigger>NSString.pathWithComponents</tabTrigger>
+	<scope>source.swift</scope>	<description>static NSString -> String</description></snippet>

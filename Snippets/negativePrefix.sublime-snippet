@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+negativePrefix
+]]></content>
+	<tabTrigger>negativePrefix</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

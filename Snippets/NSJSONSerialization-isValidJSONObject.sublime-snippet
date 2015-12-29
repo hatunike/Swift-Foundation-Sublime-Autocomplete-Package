@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSJSONSerialization.isValidJSONObject(${1:Any})]]></content>
+	<tabTrigger>NSJSONSerialization.isValidJSONObject</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSJSONSerialization -> Bool</description></snippet>

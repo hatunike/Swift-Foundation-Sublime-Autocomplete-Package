@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+replaceOccurrencesOfString(${1:String}, withString:${2:String}, options:${3:NSStringCompareOptions}, range:${4:NSRange})]]></content>
+	<tabTrigger>replaceOccurrencesOfString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableString -> Int</description></snippet>

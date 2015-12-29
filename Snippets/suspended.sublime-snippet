@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+suspended
+]]></content>
+	<tabTrigger>suspended</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

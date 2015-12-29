@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLDTDNode(XMLString:${1:String})]]></content>
+	<tabTrigger>NSXMLDTDNode</tabTrigger>
+	<scope>source.swift</scope>	<description>XMLString:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+attributesAtIndex(${1:Int}, longestEffectiveRange:${2:NSRangePointer}, inRange:${3:NSRange})]]></content>
+	<tabTrigger>attributesAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSAttributedString -> [String</description></snippet>

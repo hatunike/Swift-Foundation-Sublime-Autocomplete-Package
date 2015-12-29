@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSFileHandle(${1:NSCoder})]]></content>
+	<tabTrigger>NSFileHandle</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

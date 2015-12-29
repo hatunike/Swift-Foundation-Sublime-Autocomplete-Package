@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setStringValue(${1:String}, resolvingEntities:${2:Bool})]]></content>
+	<tabTrigger>setStringValue</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLNode -> void</description></snippet>

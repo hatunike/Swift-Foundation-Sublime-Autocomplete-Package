@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPredicate(format:${1:String}, argumentArray:${2:[AnyObject]?})]]></content>
+	<tabTrigger>NSPredicate</tabTrigger>
+	<scope>source.swift</scope>	<description>format: argumentArray:</description></snippet>

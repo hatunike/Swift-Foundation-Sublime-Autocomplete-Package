@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+multiplier
+]]></content>
+	<tabTrigger>multiplier</tabTrigger>
+	<scope>source.swift</scope>	<description>NSNumber</description></snippet>

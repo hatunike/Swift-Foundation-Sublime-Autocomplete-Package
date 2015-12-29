@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLNode.predefinedNamespaceForPrefix(${1:String})]]></content>
+	<tabTrigger>NSXMLNode.predefinedNamespaceForPrefix</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSXMLNode -> NSXMLNode?</description></snippet>

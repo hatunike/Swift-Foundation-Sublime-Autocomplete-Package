@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+bitmapRepresentation
+]]></content>
+	<tabTrigger>bitmapRepresentation</tabTrigger>
+	<scope>source.swift</scope>	<description>NSData</description></snippet>

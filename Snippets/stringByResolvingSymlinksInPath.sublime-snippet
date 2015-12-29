@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+stringByResolvingSymlinksInPath
+]]></content>
+	<tabTrigger>stringByResolvingSymlinksInPath</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

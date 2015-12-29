@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+currentDiskUsage
+]]></content>
+	<tabTrigger>currentDiskUsage</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

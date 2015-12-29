@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalNumber(string:${1:String?}, locale:${2:AnyObject?})]]></content>
+	<tabTrigger>NSDecimalNumber</tabTrigger>
+	<scope>source.swift</scope>	<description>string: locale:</description></snippet>

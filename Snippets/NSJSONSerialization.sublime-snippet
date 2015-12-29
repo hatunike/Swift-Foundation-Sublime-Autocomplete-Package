@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSJSONSerialization
+]]></content>
+	<tabTrigger>NSJSONSerialization</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

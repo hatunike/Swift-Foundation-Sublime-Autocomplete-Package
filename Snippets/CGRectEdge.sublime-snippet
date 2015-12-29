@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+CGRectEdge
+]]></content>
+	<tabTrigger>CGRectEdge</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

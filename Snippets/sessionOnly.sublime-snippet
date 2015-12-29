@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+sessionOnly
+]]></content>
+	<tabTrigger>sessionOnly</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

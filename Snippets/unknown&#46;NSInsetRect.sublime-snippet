@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSInsetRect(${1:NSRect}, _:${2:CGFloat}, _:${3:CGFloat})]]></content>
+	<tabTrigger>NSInsetRect</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSRect</description></snippet>

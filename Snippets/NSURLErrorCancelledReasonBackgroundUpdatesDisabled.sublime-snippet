@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorCancelledReasonBackgroundUpdatesDisabled
+]]></content>
+	<tabTrigger>NSURLErrorCancelledReasonBackgroundUpdatesDisabled</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+resultType
+]]></content>
+	<tabTrigger>resultType</tabTrigger>
+	<scope>source.swift</scope>	<description>NSTextCheckingType</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+scanFloat(${1:})]]></content>
+	<tabTrigger>scanFloat</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSScanner -> Float?</description></snippet>

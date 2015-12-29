@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSEnergyFormatter(${1:NSCoder})]]></content>
+	<tabTrigger>NSEnergyFormatter</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

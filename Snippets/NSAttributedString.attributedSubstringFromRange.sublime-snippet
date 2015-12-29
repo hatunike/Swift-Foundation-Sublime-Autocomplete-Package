@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+attributedSubstringFromRange(${1:NSRange})]]></content>
+	<tabTrigger>attributedSubstringFromRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSAttributedString -> NSAttributedString</description></snippet>

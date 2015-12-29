@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+loadAndReturnError(${1:})]]></content>
+	<tabTrigger>loadAndReturnError</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSBundle -> void</description></snippet>

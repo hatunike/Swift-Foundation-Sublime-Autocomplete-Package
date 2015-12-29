@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDataSearchOptions(${1:UInt})]]></content>
+	<tabTrigger>NSDataSearchOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

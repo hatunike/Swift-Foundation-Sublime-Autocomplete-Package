@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+addIndexes(${1:NSIndexSet})]]></content>
+	<tabTrigger>addIndexes</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableIndexSet -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+seekToEndOfFile(${1:})]]></content>
+	<tabTrigger>seekToEndOfFile</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileHandle -> UInt64</description></snippet>

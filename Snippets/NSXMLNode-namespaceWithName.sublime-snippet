@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLNode.namespaceWithName(${1:String}, stringValue:${2:String})]]></content>
+	<tabTrigger>NSXMLNode.namespaceWithName</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSXMLNode -> AnyObject</description></snippet>

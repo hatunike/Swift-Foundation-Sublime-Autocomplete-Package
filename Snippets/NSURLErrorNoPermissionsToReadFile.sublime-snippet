@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorNoPermissionsToReadFile
+]]></content>
+	<tabTrigger>NSURLErrorNoPermissionsToReadFile</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSVolumeEnumerationOptions(${1:UInt})]]></content>
+	<tabTrigger>NSVolumeEnumerationOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

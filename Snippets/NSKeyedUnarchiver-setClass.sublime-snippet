@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSKeyedUnarchiver.setClass(${1:AnyClass?}, forClassName:${2:String})]]></content>
+	<tabTrigger>NSKeyedUnarchiver.setClass</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSKeyedUnarchiver -> void</description></snippet>

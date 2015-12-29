@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+pathsForResourcesOfType(${1:String?}, inDirectory:${2:String?}, forLocalization:${3:String?})]]></content>
+	<tabTrigger>pathsForResourcesOfType</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSBundle -> [String]</description></snippet>

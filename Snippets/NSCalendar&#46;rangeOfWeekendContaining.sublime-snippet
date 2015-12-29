@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+rangeOfWeekendContaining(${1:NSDate})]]></content>
+	<tabTrigger>rangeOfWeekendContaining</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> NSDateInterval?</description></snippet>

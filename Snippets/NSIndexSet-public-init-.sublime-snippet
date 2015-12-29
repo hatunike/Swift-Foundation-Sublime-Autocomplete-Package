@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSIndexSet(${1:})]]></content>
+	<tabTrigger>NSIndexSet</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

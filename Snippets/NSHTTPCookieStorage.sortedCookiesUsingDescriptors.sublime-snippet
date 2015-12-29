@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+sortedCookiesUsingDescriptors(${1:[NSSortDescriptor]})]]></content>
+	<tabTrigger>sortedCookiesUsingDescriptors</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSHTTPCookieStorage -> [NSHTTPCookie]</description></snippet>

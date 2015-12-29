@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSOutputStream(toFileAtPath:${1:String}, append:${2:Bool})]]></content>
+	<tabTrigger>NSOutputStream</tabTrigger>
+	<scope>source.swift</scope>	<description>toFileAtPath: append:</description></snippet>

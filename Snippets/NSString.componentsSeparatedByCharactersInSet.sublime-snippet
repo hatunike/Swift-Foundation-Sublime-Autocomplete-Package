@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+componentsSeparatedByCharactersInSet(${1:NSCharacterSet})]]></content>
+	<tabTrigger>componentsSeparatedByCharactersInSet</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> [String]</description></snippet>

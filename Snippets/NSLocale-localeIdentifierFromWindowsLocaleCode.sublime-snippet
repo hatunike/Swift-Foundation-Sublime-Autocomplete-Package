@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSLocale.localeIdentifierFromWindowsLocaleCode(${1:UInt32})]]></content>
+	<tabTrigger>NSLocale.localeIdentifierFromWindowsLocaleCode</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSLocale -> String?</description></snippet>

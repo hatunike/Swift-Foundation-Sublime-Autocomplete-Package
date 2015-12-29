@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLSession.sharedSession(${1:})]]></content>
+	<tabTrigger>NSURLSession.sharedSession</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLSession -> NSURLSession</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+doubleForKey(${1:String})]]></content>
+	<tabTrigger>doubleForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> Double</description></snippet>

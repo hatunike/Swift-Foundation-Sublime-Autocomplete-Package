@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMakePoint(${1:CGFloat}, _:${2:CGFloat})]]></content>
+	<tabTrigger>NSMakePoint</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSPoint</description></snippet>

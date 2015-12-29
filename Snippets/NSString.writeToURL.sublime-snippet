@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+writeToURL(${1:NSURL}, atomically:${2:Bool}, encoding:${3:UInt})]]></content>
+	<tabTrigger>writeToURL</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> void</description></snippet>

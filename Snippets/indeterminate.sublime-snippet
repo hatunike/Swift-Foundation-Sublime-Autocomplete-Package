@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+indeterminate
+]]></content>
+	<tabTrigger>indeterminate</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSKeyedArchiver.archiveRootObject(${1:AnyObject}, toFile:${2:String})]]></content>
+	<tabTrigger>NSKeyedArchiver.archiveRootObject</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSKeyedArchiver -> Bool</description></snippet>

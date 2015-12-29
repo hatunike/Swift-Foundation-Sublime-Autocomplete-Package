@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+lock(${1:})]]></content>
+	<tabTrigger>lock</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSRecursiveLock -> void</description></snippet>

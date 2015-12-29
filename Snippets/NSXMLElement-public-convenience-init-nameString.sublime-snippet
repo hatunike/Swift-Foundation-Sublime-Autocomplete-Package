@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLElement(${1:String})]]></content>
+	<tabTrigger>NSXMLElement</tabTrigger>
+	<scope>source.swift</scope>	<description>name:</description></snippet>

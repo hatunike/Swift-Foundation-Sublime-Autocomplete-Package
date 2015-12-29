@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+invert(${1:})]]></content>
+	<tabTrigger>invert</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableCharacterSet -> void</description></snippet>

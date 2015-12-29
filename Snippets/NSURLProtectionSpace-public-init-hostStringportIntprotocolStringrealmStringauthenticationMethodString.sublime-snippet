@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLProtectionSpace(${1:String}, port:${2:Int}, `protocol`:${3:String?}, realm:${4:String?}, authenticationMethod:${5:String?})]]></content>
+	<tabTrigger>NSURLProtectionSpace</tabTrigger>
+	<scope>source.swift</scope>	<description>host: port: `protocol`: realm: authenticationMethod:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+resetBytesInRange(${1:NSRange})]]></content>
+	<tabTrigger>resetBytesInRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableData -> void</description></snippet>

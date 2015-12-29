@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLProtocol.setProperty(${1:AnyObject}, forKey:${2:String}, inRequest:${3:NSMutableURLRequest})]]></content>
+	<tabTrigger>NSURLProtocol.setProperty</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLProtocol -> void</description></snippet>

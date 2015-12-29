@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+copyItemAtURL(${1:NSURL}, toURL:${2:NSURL})]]></content>
+	<tabTrigger>copyItemAtURL</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

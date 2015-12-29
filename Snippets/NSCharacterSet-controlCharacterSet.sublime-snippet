@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCharacterSet.controlCharacterSet(${1:})]]></content>
+	<tabTrigger>NSCharacterSet.controlCharacterSet</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSCharacterSet -> NSCharacterSet</description></snippet>

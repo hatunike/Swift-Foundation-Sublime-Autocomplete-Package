@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSUnionRect(${1:NSRect}, _:${2:NSRect})]]></content>
+	<tabTrigger>NSUnionRect</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSRect</description></snippet>

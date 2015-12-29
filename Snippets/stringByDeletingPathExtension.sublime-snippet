@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+stringByDeletingPathExtension
+]]></content>
+	<tabTrigger>stringByDeletingPathExtension</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

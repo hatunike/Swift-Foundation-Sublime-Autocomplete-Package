@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectForInfoDictionaryKey(${1:String})]]></content>
+	<tabTrigger>objectForInfoDictionaryKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSBundle -> AnyObject?</description></snippet>

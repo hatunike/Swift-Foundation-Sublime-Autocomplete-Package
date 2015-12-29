@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCharacterSet(range:${1:NSRange})]]></content>
+	<tabTrigger>NSCharacterSet</tabTrigger>
+	<scope>source.swift</scope>	<description>range:</description></snippet>

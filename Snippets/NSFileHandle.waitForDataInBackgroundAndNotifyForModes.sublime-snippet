@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+waitForDataInBackgroundAndNotifyForModes(${1:[String]?})]]></content>
+	<tabTrigger>waitForDataInBackgroundAndNotifyForModes</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileHandle -> void</description></snippet>

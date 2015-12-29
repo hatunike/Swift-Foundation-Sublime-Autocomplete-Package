@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+standardInput
+]]></content>
+	<tabTrigger>standardInput</tabTrigger>
+	<scope>source.swift</scope>	<description>AnyObject</description></snippet>

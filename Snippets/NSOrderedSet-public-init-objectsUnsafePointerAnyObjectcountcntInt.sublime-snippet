@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSOrderedSet(${1:UnsafePointer<AnyObject?>}, count:${2:Int})]]></content>
+	<tabTrigger>NSOrderedSet</tabTrigger>
+	<scope>source.swift</scope>	<description>objects: count:</description></snippet>

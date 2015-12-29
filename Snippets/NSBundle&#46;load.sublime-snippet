@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+load(${1:})]]></content>
+	<tabTrigger>load</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSBundle -> Bool</description></snippet>

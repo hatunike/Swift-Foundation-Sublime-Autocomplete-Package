@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSZeroRect
+]]></content>
+	<tabTrigger>NSZeroRect</tabTrigger>
+	<scope>source.swift</scope>	<description>NSRect</description></snippet>

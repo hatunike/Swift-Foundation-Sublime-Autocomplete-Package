@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSZeroPoint
+]]></content>
+	<tabTrigger>NSZeroPoint</tabTrigger>
+	<scope>source.swift</scope>	<description>NSPoint</description></snippet>

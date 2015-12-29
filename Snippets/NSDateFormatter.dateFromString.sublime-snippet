@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+dateFromString(${1:String})]]></content>
+	<tabTrigger>dateFromString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSDateFormatter -> NSDate?</description></snippet>

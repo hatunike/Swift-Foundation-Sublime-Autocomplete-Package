@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSLocale.currentLocale(${1:})]]></content>
+	<tabTrigger>NSLocale.currentLocale</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSLocale -> NSLocale</description></snippet>

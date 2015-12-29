@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+scanDecimal(${1:UnsafeMutablePointer<NSDecimal>})]]></content>
+	<tabTrigger>scanDecimal</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSScanner -> Bool</description></snippet>

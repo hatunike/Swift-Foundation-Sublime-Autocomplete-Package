@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+URLCache
+]]></content>
+	<tabTrigger>URLCache</tabTrigger>
+	<scope>source.swift</scope>	<description>NSURLCache</description></snippet>

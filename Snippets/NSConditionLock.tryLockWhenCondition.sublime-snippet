@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+tryLockWhenCondition(${1:Int})]]></content>
+	<tabTrigger>tryLockWhenCondition</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSConditionLock -> Bool</description></snippet>

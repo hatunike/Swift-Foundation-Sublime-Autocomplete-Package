@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+finishDecoding(${1:})]]></content>
+	<tabTrigger>finishDecoding</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSKeyedUnarchiver -> void</description></snippet>

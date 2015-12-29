@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+predicate
+]]></content>
+	<tabTrigger>predicate</tabTrigger>
+	<scope>source.swift</scope>	<description>NSPredicate</description></snippet>

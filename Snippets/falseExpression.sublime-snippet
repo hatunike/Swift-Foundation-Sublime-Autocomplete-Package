@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+falseExpression
+]]></content>
+	<tabTrigger>falseExpression</tabTrigger>
+	<scope>source.swift</scope>	<description>NSExpression</description></snippet>

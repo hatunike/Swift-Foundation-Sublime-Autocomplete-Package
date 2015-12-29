@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLAuthenticationChallenge
+]]></content>
+	<tabTrigger>NSURLAuthenticationChallenge</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

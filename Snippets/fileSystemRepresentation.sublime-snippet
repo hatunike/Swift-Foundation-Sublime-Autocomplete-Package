@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+fileSystemRepresentation
+]]></content>
+	<tabTrigger>fileSystemRepresentation</tabTrigger>
+	<scope>source.swift</scope>	<description>UnsafePointer</description></snippet>

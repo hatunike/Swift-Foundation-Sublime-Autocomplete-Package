@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMutableArray(${1:UnsafePointer<AnyObject?>}, count:${2:Int})]]></content>
+	<tabTrigger>NSMutableArray</tabTrigger>
+	<scope>source.swift</scope>	<description>objects: count:</description></snippet>

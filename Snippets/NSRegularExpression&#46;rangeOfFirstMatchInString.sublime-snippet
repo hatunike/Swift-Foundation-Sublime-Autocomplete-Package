@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+rangeOfFirstMatchInString(${1:String}, options:${2:NSMatchingOptions}, range:${3:NSRange})]]></content>
+	<tabTrigger>rangeOfFirstMatchInString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSRegularExpression -> NSRange</description></snippet>

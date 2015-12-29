@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+Generator(contentsOfFile:${1:String})]]></content>
+	<tabTrigger>Generator</tabTrigger>
+	<scope>source.swift</scope>	<description>contentsOfFile:</description></snippet>

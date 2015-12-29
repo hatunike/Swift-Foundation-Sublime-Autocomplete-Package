@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSFileHandle(fileDescriptor:${1:Int32})]]></content>
+	<tabTrigger>NSFileHandle</tabTrigger>
+	<scope>source.swift</scope>	<description>fileDescriptor:</description></snippet>

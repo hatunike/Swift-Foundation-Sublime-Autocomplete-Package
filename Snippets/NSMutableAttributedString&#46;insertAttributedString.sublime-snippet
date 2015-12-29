@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+insertAttributedString(${1:NSAttributedString}, atIndex:${2:Int})]]></content>
+	<tabTrigger>insertAttributedString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableAttributedString -> void</description></snippet>

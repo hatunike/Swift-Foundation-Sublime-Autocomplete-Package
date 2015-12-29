@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+close(${1:})]]></content>
+	<tabTrigger>close</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSStream -> void</description></snippet>

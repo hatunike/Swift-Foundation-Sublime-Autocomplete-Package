@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+maximumSignificantDigits
+]]></content>
+	<tabTrigger>maximumSignificantDigits</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeObjectsInRange(${1:NSRange})]]></content>
+	<tabTrigger>removeObjectsInRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

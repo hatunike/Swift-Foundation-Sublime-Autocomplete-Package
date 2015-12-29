@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSIntersectsRect(${1:NSRect}, _:${2:NSRect})]]></content>
+	<tabTrigger>NSIntersectsRect</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

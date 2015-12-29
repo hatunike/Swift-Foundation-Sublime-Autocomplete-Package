@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCompoundPredicate(notPredicateWithSubpredicate:${1:NSPredicate})]]></content>
+	<tabTrigger>NSCompoundPredicate</tabTrigger>
+	<scope>source.swift</scope>	<description>notPredicateWithSubpredicate:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURL(fileURLWithFileSystemRepresentation:${1:UnsafePointer<Int8>}, isDirectory:${2:Bool}, relativeToURL:${3:NSURL?})]]></content>
+	<tabTrigger>NSURL</tabTrigger>
+	<scope>source.swift</scope>	<description>fileURLWithFileSystemRepresentation: isDirectory: relativeToURL:</description></snippet>

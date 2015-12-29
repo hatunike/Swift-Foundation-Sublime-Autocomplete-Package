@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMakeSize(${1:CGFloat}, _:${2:CGFloat})]]></content>
+	<tabTrigger>NSMakeSize</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSSize</description></snippet>

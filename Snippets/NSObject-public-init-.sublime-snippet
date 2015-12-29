@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSObject(${1:})]]></content>
+	<tabTrigger>NSObject</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

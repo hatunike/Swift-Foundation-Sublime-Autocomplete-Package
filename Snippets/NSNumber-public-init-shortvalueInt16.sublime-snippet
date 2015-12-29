@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSNumber(short:${1:Int16})]]></content>
+	<tabTrigger>NSNumber</tabTrigger>
+	<scope>source.swift</scope>	<description>short:</description></snippet>

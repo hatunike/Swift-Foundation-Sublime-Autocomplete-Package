@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSAlignmentOptions(${1:UInt64})]]></content>
+	<tabTrigger>NSAlignmentOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

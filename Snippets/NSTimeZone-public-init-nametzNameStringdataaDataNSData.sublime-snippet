@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSTimeZone(name:${1:String}, data:${2:NSData?})]]></content>
+	<tabTrigger>NSTimeZone</tabTrigger>
+	<scope>source.swift</scope>	<description>name: data:</description></snippet>

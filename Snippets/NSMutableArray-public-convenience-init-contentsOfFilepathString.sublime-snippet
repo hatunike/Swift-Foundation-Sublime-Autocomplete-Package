@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMutableArray(contentsOfFile:${1:String})]]></content>
+	<tabTrigger>NSMutableArray</tabTrigger>
+	<scope>source.swift</scope>	<description>contentsOfFile:</description></snippet>

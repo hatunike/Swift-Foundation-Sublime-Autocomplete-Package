@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+shouldResolveExternalEntities
+]]></content>
+	<tabTrigger>shouldResolveExternalEntities</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

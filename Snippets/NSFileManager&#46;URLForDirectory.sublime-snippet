@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+URLForDirectory(${1:NSSearchPathDirectory}, inDomain:${2:NSSearchPathDomainMask}, appropriateForURL:${3:NSURL?}, create:${4:Bool})]]></content>
+	<tabTrigger>URLForDirectory</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> NSURL</description></snippet>

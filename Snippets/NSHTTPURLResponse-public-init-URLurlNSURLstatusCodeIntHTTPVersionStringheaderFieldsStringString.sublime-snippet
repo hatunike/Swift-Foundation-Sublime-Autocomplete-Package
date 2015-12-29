@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSHTTPURLResponse(URL:${1:NSURL}, statusCode:${2:Int}, HTTPVersion:${3:String?}, headerFields:${4:[String })]]></content>
+	<tabTrigger>NSHTTPURLResponse</tabTrigger>
+	<scope>source.swift</scope>	<description>URL: statusCode: HTTPVersion: headerFields:</description></snippet>

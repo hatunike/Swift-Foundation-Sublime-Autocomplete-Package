@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringFromDate(${1:NSDate}, toDate:${2:NSDate})]]></content>
+	<tabTrigger>stringFromDate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSDateIntervalFormatter -> String</description></snippet>

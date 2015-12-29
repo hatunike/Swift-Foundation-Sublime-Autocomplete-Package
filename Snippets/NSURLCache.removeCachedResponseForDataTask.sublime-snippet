@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeCachedResponseForDataTask(${1:NSURLSessionDataTask})]]></content>
+	<tabTrigger>removeCachedResponseForDataTask</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLCache -> void</description></snippet>

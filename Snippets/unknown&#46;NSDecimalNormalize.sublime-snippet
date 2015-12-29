@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalNormalize(${1:UnsafeMutablePointer<NSDecimal>}, _:${2:UnsafeMutablePointer<NSDecimal>}, _:${3:NSRoundingMode})]]></content>
+	<tabTrigger>NSDecimalNormalize</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSCalculationError</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+earlierDate(${1:NSDate})]]></content>
+	<tabTrigger>earlierDate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSDate -> NSDate</description></snippet>

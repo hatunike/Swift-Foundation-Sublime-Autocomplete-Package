@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSComparisonPredicateModifier
+]]></content>
+	<tabTrigger>NSComparisonPredicateModifier</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSTimeZone(forSecondsFromGMT:${1:Int})]]></content>
+	<tabTrigger>NSTimeZone</tabTrigger>
+	<scope>source.swift</scope>	<description>forSecondsFromGMT:</description></snippet>

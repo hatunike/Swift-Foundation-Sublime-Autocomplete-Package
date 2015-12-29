@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+rangeOfString(${1:String}, options:${2:NSStringCompareOptions}, range:${3:NSRange}, locale:${4:NSLocale?})]]></content>
+	<tabTrigger>rangeOfString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> NSRange</description></snippet>

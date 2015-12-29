@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMatchingFlags(${1:UInt})]]></content>
+	<tabTrigger>NSMatchingFlags</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

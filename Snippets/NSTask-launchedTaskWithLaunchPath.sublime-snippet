@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSTask.launchedTaskWithLaunchPath(${1:String}, arguments:${2:[String]})]]></content>
+	<tabTrigger>NSTask.launchedTaskWithLaunchPath</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSTask -> NSTask</description></snippet>

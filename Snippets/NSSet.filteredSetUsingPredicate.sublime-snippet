@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+filteredSetUsingPredicate(${1:NSPredicate})]]></content>
+	<tabTrigger>filteredSetUsingPredicate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSSet -> Set NSObject </description></snippet>

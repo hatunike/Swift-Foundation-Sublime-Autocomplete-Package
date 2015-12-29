@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSNumber(int:${1:Int32})]]></content>
+	<tabTrigger>NSNumber</tabTrigger>
+	<scope>source.swift</scope>	<description>int:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLProtocol.registerClass(${1:AnyClass})]]></content>
+	<tabTrigger>NSURLProtocol.registerClass</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLProtocol -> Bool</description></snippet>

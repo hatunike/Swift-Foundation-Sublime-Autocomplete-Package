@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLProtocol.canonicalRequestForRequest(${1:NSURLRequest})]]></content>
+	<tabTrigger>NSURLProtocol.canonicalRequestForRequest</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLProtocol -> NSURLRequest</description></snippet>

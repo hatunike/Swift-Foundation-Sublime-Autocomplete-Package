@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSIndexPath(coder:${1:NSCoder})]]></content>
+	<tabTrigger>NSIndexPath</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

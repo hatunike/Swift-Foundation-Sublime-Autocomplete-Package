@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+scheduleInRunLoop(${1:NSRunLoop}, forMode:${2:String})]]></content>
+	<tabTrigger>scheduleInRunLoop</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSStream -> void</description></snippet>

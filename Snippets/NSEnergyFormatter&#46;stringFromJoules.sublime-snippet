@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringFromJoules(${1:Double})]]></content>
+	<tabTrigger>stringFromJoules</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSEnergyFormatter -> String</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSTaskTerminationReason
+]]></content>
+	<tabTrigger>NSTaskTerminationReason</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

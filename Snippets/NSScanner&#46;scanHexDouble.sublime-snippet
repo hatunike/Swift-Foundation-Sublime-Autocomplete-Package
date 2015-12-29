@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+scanHexDouble(${1:})]]></content>
+	<tabTrigger>scanHexDouble</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSScanner -> Double?</description></snippet>

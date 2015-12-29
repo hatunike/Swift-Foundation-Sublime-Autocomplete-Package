@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectValue(${1:String}, inout:${2:NSRange})]]></content>
+	<tabTrigger>objectValue</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSNumberFormatter -> AnyObject?</description></snippet>

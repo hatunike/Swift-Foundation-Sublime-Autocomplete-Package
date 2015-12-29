@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+childAtIndex(${1:Int})]]></content>
+	<tabTrigger>childAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLNode -> NSXMLNode?</description></snippet>

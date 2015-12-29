@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+DTDKind
+]]></content>
+	<tabTrigger>DTDKind</tabTrigger>
+	<scope>source.swift</scope>	<description>NSXMLDTDNodeKind</description></snippet>

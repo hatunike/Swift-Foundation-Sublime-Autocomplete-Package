@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSValue(coder:${1:NSCoder})]]></content>
+	<tabTrigger>NSValue</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

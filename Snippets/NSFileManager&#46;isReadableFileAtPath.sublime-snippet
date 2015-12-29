@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isReadableFileAtPath(${1:String})]]></content>
+	<tabTrigger>isReadableFileAtPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> Bool</description></snippet>

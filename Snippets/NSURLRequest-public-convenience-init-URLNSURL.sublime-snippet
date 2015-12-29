@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLRequest(${1:NSURL})]]></content>
+	<tabTrigger>NSURLRequest</tabTrigger>
+	<scope>source.swift</scope>	<description>URL:</description></snippet>

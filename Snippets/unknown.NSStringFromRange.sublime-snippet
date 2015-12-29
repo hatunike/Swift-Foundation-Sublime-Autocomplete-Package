@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSStringFromRange(${1:NSRange})]]></content>
+	<tabTrigger>NSStringFromRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> String</description></snippet>

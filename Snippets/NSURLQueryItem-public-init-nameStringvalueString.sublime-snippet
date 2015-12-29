@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLQueryItem(${1:String}, value:${2:String?})]]></content>
+	<tabTrigger>NSURLQueryItem</tabTrigger>
+	<scope>source.swift</scope>	<description>name: value:</description></snippet>

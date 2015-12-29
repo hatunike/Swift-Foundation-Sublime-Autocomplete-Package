@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+nextObject(${1:})]]></content>
+	<tabTrigger>nextObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSEnumerator -> AnyObject?</description></snippet>

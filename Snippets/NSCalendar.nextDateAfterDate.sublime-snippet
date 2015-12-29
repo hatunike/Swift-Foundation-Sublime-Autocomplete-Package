@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+nextDateAfterDate(${1:NSDate}, matchingHour:${2:Int}, minute:${3:Int}, second:${4:Int}, options:${5:NSCalendarOptions})]]></content>
+	<tabTrigger>nextDateAfterDate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> NSDate?</description></snippet>

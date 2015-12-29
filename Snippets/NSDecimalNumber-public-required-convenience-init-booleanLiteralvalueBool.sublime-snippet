@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalNumber(booleanLiteral:${1:Bool})]]></content>
+	<tabTrigger>NSDecimalNumber</tabTrigger>
+	<scope>source.swift</scope>	<description>booleanLiteral:</description></snippet>

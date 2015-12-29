@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSOperationQueuePriority
+]]></content>
+	<tabTrigger>NSOperationQueuePriority</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

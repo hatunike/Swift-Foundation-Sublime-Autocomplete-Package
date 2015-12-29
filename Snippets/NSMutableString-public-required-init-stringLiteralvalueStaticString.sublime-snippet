@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMutableString(stringLiteral:${1:StaticString})]]></content>
+	<tabTrigger>NSMutableString</tabTrigger>
+	<scope>source.swift</scope>	<description>stringLiteral:</description></snippet>

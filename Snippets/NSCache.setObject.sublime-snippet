@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setObject(${1:AnyObject}, forKey:${2:AnyObject}, cost:${3:Int})]]></content>
+	<tabTrigger>setObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCache -> void</description></snippet>

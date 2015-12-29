@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+sortUsingFunction(compare:${1:@conventionc AnyObject}, AnyObject:${2:}, UnsafeMutablePointer<Void>:${3:}, context:${4:UnsafeMutablePointer<Void>})]]></content>
+	<tabTrigger>sortUsingFunction</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableArray -> Int,</description></snippet>

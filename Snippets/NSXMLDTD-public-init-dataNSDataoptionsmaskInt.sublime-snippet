@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLDTD(${1:NSData}, options:${2:Int})]]></content>
+	<tabTrigger>NSXMLDTD</tabTrigger>
+	<scope>source.swift</scope>	<description>data: options:</description></snippet>

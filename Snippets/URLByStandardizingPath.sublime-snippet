@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+URLByStandardizingPath
+]]></content>
+	<tabTrigger>URLByStandardizingPath</tabTrigger>
+	<scope>source.swift</scope>	<description>NSURL</description></snippet>

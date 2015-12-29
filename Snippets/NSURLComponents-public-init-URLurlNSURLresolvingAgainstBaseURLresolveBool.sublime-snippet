@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLComponents(URL:${1:NSURL}, resolvingAgainstBaseURL:${2:Bool})]]></content>
+	<tabTrigger>NSURLComponents</tabTrigger>
+	<scope>source.swift</scope>	<description>URL: resolvingAgainstBaseURL:</description></snippet>

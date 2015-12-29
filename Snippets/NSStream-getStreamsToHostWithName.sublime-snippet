@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSStream.getStreamsToHostWithName(${1:String}, port:${2:Int}, inputStream:${3:AutoreleasingUnsafeMutablePointer<NSInputStream?>}, outputStream:${4:AutoreleasingUnsafeMutablePointer<NSOutputStream?>})]]></content>
+	<tabTrigger>NSStream.getStreamsToHostWithName</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSStream -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSHost(${1:String?})]]></content>
+	<tabTrigger>NSHost</tabTrigger>
+	<scope>source.swift</scope>	<description>name:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setBool(${1:Bool}, forKey:${2:String})]]></content>
+	<tabTrigger>setBool</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

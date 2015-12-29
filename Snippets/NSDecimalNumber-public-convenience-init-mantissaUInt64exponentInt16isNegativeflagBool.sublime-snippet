@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalNumber(${1:UInt64}, exponent:${2:Int16}, isNegative:${3:Bool})]]></content>
+	<tabTrigger>NSDecimalNumber</tabTrigger>
+	<scope>source.swift</scope>	<description>mantissa: exponent: isNegative:</description></snippet>

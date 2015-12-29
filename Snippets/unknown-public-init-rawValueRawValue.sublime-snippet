@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+unknown(${1:RawValue})]]></content>
+	<tabTrigger>unknown</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

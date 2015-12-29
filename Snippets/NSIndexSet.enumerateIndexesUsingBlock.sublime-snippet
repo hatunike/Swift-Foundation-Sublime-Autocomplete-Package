@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+enumerateIndexesUsingBlock(${1:Int}, UnsafeMutablePointer<ObjCBool>:${2:})]]></content>
+	<tabTrigger>enumerateIndexesUsingBlock</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSIndexSet -> Void)</description></snippet>

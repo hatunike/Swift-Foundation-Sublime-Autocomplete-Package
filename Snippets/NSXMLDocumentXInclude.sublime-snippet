@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSXMLDocumentXInclude
+]]></content>
+	<tabTrigger>NSXMLDocumentXInclude</tabTrigger>
+	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

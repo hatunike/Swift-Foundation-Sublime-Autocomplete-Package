@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString.localizedNameOfStringEncoding(${1:UInt})]]></content>
+	<tabTrigger>NSString.localizedNameOfStringEncoding</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSString -> String</description></snippet>

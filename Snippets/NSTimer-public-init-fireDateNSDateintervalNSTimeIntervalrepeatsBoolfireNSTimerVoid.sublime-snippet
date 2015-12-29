@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSTimer(${1:NSDate}, interval:${2:NSTimeInterval}, repeats:${3:Bool}, fire:${4:NSTimer -> Void })]]></content>
+	<tabTrigger>NSTimer</tabTrigger>
+	<scope>source.swift</scope>	<description>fireDate: interval: repeats: fire:</description></snippet>

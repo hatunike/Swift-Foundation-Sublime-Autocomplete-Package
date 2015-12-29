@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+UInt._forceBridgeFromObject(${1:NSNumber}, inout:${2:UInt?})]]></content>
+	<tabTrigger>UInt._forceBridgeFromObject</tabTrigger>
+	<scope>source.swift</scope>	<description>static UInt -> void</description></snippet>

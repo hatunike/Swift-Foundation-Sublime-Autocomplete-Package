@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isProxy(${1:})]]></content>
+	<tabTrigger>isProxy</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSObject -> Bool</description></snippet>

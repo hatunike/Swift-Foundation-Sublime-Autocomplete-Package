@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSRectFromString(${1:String})]]></content>
+	<tabTrigger>NSRectFromString</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSRect</description></snippet>

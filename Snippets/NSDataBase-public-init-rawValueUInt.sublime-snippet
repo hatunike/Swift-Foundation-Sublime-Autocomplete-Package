@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDataBase(${1:UInt})]]></content>
+	<tabTrigger>NSDataBase</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLNode.localNameForName(${1:String})]]></content>
+	<tabTrigger>NSXMLNode.localNameForName</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSXMLNode -> String</description></snippet>

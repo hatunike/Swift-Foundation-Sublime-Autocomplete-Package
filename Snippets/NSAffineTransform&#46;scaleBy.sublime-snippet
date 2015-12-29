@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+scaleBy(${1:CGFloat})]]></content>
+	<tabTrigger>scaleBy</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSAffineTransform -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPredicate(${1:Bool})]]></content>
+	<tabTrigger>NSPredicate</tabTrigger>
+	<scope>source.swift</scope>	<description>value:</description></snippet>

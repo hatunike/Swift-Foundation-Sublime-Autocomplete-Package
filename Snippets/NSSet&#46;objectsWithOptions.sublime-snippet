@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectsWithOptions(${1:NSEnumerationOptions}, passingTest:${2:AnyObject}, UnsafeMutablePointer<ObjCBool>:${3:})]]></content>
+	<tabTrigger>objectsWithOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSSet -> Bool)</description></snippet>

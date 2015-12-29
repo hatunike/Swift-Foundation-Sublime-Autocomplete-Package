@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPredicate.supportsSecureCoding(${1:})]]></content>
+	<tabTrigger>NSPredicate.supportsSecureCoding</tabTrigger>
+	<scope>source.swift</scope>	<description>static NSPredicate -> Bool</description></snippet>

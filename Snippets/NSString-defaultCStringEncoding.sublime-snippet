@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString.defaultCStringEncoding(${1:})]]></content>
+	<tabTrigger>NSString.defaultCStringEncoding</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSString -> UInt</description></snippet>

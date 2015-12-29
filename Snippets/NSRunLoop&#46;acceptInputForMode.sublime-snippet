@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+acceptInputForMode(${1:String}, beforeDate:${2:NSDate})]]></content>
+	<tabTrigger>acceptInputForMode</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSRunLoop -> void</description></snippet>

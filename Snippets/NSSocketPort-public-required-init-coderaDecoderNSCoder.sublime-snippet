@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSSocketPort(coder:${1:NSCoder})]]></content>
+	<tabTrigger>NSSocketPort</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

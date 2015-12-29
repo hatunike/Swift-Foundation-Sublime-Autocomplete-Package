@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+unknown(unicodeScalarLiteral:${1:UnicodeScalar})]]></content>
+	<tabTrigger>unknown</tabTrigger>
+	<scope>source.swift</scope>	<description>unicodeScalarLiteral:</description></snippet>

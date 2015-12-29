@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalCompact(${1:UnsafeMutablePointer<NSDecimal>})]]></content>
+	<tabTrigger>NSDecimalCompact</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+addObserverForName(${1:String?}, object:${2:AnyObject?}, queue:${3:NSOperationQueue?}, usingBlock:${4:NSNotification -> Void})]]></content>
+	<tabTrigger>addObserverForName</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSNotificationCenter -> Void)</description></snippet>

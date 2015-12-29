@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+dataUsingEncoding(${1:UInt})]]></content>
+	<tabTrigger>dataUsingEncoding</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> NSData?</description></snippet>

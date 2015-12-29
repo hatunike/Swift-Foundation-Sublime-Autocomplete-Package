@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+resume(${1:})]]></content>
+	<tabTrigger>resume</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLSessionTask -> void</description></snippet>

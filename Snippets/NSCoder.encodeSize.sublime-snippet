@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+encodeSize(${1:NSSize}, forKey:${2:String})]]></content>
+	<tabTrigger>encodeSize</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

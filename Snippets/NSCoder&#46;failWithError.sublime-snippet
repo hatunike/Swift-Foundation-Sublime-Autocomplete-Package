@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+failWithError(${1:NSError})]]></content>
+	<tabTrigger>failWithError</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

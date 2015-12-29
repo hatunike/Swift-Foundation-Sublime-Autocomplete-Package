@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+sendBeforeDate(${1:NSDate})]]></content>
+	<tabTrigger>sendBeforeDate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSPortMessage -> Bool</description></snippet>

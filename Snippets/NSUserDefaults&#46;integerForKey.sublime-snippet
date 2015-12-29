@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+integerForKey(${1:String})]]></content>
+	<tabTrigger>integerForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> Int</description></snippet>

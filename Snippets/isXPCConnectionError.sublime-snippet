@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isXPCConnectionError
+]]></content>
+	<tabTrigger>isXPCConnectionError</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

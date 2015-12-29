@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+lineRangeForRange(${1:NSRange})]]></content>
+	<tabTrigger>lineRangeForRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> NSRange</description></snippet>

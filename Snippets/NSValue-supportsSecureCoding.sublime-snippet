@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSValue.supportsSecureCoding(${1:})]]></content>
+	<tabTrigger>NSValue.supportsSecureCoding</tabTrigger>
+	<scope>source.swift</scope>	<description>static NSValue -> Bool</description></snippet>

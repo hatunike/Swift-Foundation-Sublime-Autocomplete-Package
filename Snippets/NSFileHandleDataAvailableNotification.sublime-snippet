@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSFileHandleDataAvailableNotification
+]]></content>
+	<tabTrigger>NSFileHandleDataAvailableNotification</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

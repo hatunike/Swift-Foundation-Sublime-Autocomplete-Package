@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPointFromString(${1:String})]]></content>
+	<tabTrigger>NSPointFromString</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSPoint</description></snippet>

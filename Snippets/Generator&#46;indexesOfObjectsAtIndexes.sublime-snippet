@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+indexesOfObjectsAtIndexes(${1:NSIndexSet}, options:${2:NSEnumerationOptions}, passingTest:${3:AnyObject}, Int:${4:}, UnsafeMutablePointer<ObjCBool>:${5:})]]></content>
+	<tabTrigger>indexesOfObjectsAtIndexes</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> Bool)</description></snippet>

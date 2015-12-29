@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLDocument(contentsOfURL:${1:NSURL}, options:${2:Int})]]></content>
+	<tabTrigger>NSXMLDocument</tabTrigger>
+	<scope>source.swift</scope>	<description>contentsOfURL: options:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+rangeOfComposedCharacterSequencesForRange(${1:NSRange})]]></content>
+	<tabTrigger>rangeOfComposedCharacterSequencesForRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> NSRange</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+TLSMaximumSupportedProtocol
+]]></content>
+	<tabTrigger>TLSMaximumSupportedProtocol</tabTrigger>
+	<scope>source.swift</scope>	<description>SSLProtocol</description></snippet>

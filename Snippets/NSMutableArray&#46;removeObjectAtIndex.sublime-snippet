@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeObjectAtIndex(${1:Int})]]></content>
+	<tabTrigger>removeObjectAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableArray -> void</description></snippet>

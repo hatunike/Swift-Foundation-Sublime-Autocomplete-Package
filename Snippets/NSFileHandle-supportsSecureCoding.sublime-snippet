@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSFileHandle.supportsSecureCoding(${1:})]]></content>
+	<tabTrigger>NSFileHandle.supportsSecureCoding</tabTrigger>
+	<scope>source.swift</scope>	<description>static NSFileHandle -> Bool</description></snippet>

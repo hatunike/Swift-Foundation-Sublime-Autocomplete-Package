@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringFromByteCount(${1:Int64})]]></content>
+	<tabTrigger>stringFromByteCount</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSByteCountFormatter -> String</description></snippet>

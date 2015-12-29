@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSAffineTransformStruct(${1:CGFloat}, m12:${2:CGFloat}, m21:${3:CGFloat}, m22:${4:CGFloat}, tX:${5:CGFloat}, tY:${6:CGFloat})]]></content>
+	<tabTrigger>NSAffineTransformStruct</tabTrigger>
+	<scope>source.swift</scope>	<description>m11: m12: m21: m22: tX: tY:</description></snippet>

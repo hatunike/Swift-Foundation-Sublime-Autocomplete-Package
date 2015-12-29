@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSBundle.mainBundle(${1:})]]></content>
+	<tabTrigger>NSBundle.mainBundle</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSBundle -> NSBundle</description></snippet>

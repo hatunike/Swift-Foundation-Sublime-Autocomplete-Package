@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+firstMatchInString(${1:String}, options:${2:NSMatchingOptions}, range:${3:NSRange})]]></content>
+	<tabTrigger>firstMatchInString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSRegularExpression -> NSTextCheckingResult?</description></snippet>

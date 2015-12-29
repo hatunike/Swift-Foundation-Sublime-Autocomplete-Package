@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+enumerateObjectsAtIndexes(${1:NSIndexSet}, options:${2:NSEnumerationOptions}, usingBlock:${3:AnyObject}, Int:${4:}, UnsafeMutablePointer<ObjCBool>:${5:})]]></content>
+	<tabTrigger>enumerateObjectsAtIndexes</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> Void)</description></snippet>

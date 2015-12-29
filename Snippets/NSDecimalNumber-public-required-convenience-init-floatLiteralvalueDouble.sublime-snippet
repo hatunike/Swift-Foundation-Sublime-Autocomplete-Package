@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalNumber(floatLiteral:${1:Double})]]></content>
+	<tabTrigger>NSDecimalNumber</tabTrigger>
+	<scope>source.swift</scope>	<description>floatLiteral:</description></snippet>

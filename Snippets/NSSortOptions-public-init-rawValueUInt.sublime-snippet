@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSSortOptions(${1:UInt})]]></content>
+	<tabTrigger>NSSortOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

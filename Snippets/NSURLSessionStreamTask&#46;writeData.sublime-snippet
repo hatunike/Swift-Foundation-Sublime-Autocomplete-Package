@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+writeData(${1:NSData}, timeout:${2:NSTimeInterval}, completionHandler:${3:NSError? -> Void})]]></content>
+	<tabTrigger>writeData</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLSessionStreamTask -> Void)</description></snippet>

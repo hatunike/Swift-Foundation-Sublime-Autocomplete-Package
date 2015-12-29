@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setAttributes(${1:[String }, ofItemAtPath:${2:String})]]></content>
+	<tabTrigger>setAttributes</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

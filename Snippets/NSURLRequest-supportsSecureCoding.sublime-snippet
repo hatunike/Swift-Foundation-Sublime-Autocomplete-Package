@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLRequest.supportsSecureCoding(${1:})]]></content>
+	<tabTrigger>NSURLRequest.supportsSecureCoding</tabTrigger>
+	<scope>source.swift</scope>	<description>static NSURLRequest -> Bool</description></snippet>

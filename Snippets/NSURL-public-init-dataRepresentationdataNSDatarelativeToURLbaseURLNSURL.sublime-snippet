@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURL(dataRepresentation:${1:NSData}, relativeToURL:${2:NSURL?})]]></content>
+	<tabTrigger>NSURL</tabTrigger>
+	<scope>source.swift</scope>	<description>dataRepresentation: relativeToURL:</description></snippet>

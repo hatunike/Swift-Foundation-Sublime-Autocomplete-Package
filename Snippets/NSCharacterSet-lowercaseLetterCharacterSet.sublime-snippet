@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCharacterSet.lowercaseLetterCharacterSet(${1:})]]></content>
+	<tabTrigger>NSCharacterSet.lowercaseLetterCharacterSet</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSCharacterSet -> NSCharacterSet</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSZone(${1:})]]></content>
+	<tabTrigger>NSZone</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

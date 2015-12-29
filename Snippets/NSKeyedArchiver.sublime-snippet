@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSKeyedArchiver
+]]></content>
+	<tabTrigger>NSKeyedArchiver</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

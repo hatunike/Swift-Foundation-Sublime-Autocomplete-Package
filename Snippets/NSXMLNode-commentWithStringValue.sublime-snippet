@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLNode.commentWithStringValue(${1:String})]]></content>
+	<tabTrigger>NSXMLNode.commentWithStringValue</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSXMLNode -> AnyObject</description></snippet>

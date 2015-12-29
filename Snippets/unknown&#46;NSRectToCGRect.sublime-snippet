@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSRectToCGRect(${1:NSRect})]]></content>
+	<tabTrigger>NSRectToCGRect</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> CGRect</description></snippet>

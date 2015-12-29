@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSDateComponentsFormatterZeroFormattingBehavior
+]]></content>
+	<tabTrigger>NSDateComponentsFormatterZeroFormattingBehavior</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

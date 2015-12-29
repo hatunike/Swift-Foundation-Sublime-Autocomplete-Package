@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setFloat(${1:Float}, forKey:${2:String})]]></content>
+	<tabTrigger>setFloat</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

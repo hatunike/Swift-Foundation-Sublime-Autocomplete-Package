@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+main(${1:})]]></content>
+	<tabTrigger>main</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSOperation -> void</description></snippet>

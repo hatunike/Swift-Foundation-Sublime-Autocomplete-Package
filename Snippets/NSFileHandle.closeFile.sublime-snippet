@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+closeFile(${1:})]]></content>
+	<tabTrigger>closeFile</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileHandle -> void</description></snippet>

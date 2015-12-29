@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSProgress(parent:${1:NSProgress?}, userInfo:${2:[NSObject })]]></content>
+	<tabTrigger>NSProgress</tabTrigger>
+	<scope>source.swift</scope>	<description>parent: userInfo:</description></snippet>

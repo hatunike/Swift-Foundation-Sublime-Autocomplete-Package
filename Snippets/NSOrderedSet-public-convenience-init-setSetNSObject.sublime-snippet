@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSOrderedSet(${1:Set<NSObject>})]]></content>
+	<tabTrigger>NSOrderedSet</tabTrigger>
+	<scope>source.swift</scope>	<description>set:</description></snippet>

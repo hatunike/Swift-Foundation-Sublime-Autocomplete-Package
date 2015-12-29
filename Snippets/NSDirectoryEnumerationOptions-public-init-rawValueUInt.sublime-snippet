@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDirectoryEnumerationOptions(${1:UInt})]]></content>
+	<tabTrigger>NSDirectoryEnumerationOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

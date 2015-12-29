@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSRegularExpression(${1:String}, options:${2:NSRegularExpressionOptions})]]></content>
+	<tabTrigger>NSRegularExpression</tabTrigger>
+	<scope>source.swift</scope>	<description>pattern: options:</description></snippet>

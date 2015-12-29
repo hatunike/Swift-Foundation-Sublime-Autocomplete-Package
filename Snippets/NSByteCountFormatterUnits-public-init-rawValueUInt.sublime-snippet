@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSByteCountFormatterUnits(${1:UInt})]]></content>
+	<tabTrigger>NSByteCountFormatterUnits</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

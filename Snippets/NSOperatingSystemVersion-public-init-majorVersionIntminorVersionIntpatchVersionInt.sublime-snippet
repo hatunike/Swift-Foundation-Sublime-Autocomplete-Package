@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSOperatingSystemVersion(${1:Int}, minorVersion:${2:Int}, patchVersion:${3:Int})]]></content>
+	<tabTrigger>NSOperatingSystemVersion</tabTrigger>
+	<scope>source.swift</scope>	<description>majorVersion: minorVersion: patchVersion:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCharacterSet(charactersInString:${1:String})]]></content>
+	<tabTrigger>NSCharacterSet</tabTrigger>
+	<scope>source.swift</scope>	<description>charactersInString:</description></snippet>

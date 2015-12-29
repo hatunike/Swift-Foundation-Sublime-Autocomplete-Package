@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMaxRange(${1:NSRange})]]></content>
+	<tabTrigger>NSMaxRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> Int</description></snippet>

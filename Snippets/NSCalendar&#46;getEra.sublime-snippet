@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+getEra(${1:UnsafeMutablePointer<Int>}, yearForWeekOfYear:${2:UnsafeMutablePointer<Int>}, weekOfYear:${3:UnsafeMutablePointer<Int>}, weekday:${4:UnsafeMutablePointer<Int>}, fromDate:${5:NSDate})]]></content>
+	<tabTrigger>getEra</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSHTTPCookie(${1:[String })]]></content>
+	<tabTrigger>NSHTTPCookie</tabTrigger>
+	<scope>source.swift</scope>	<description>properties:</description></snippet>

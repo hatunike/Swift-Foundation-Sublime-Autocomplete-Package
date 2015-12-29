@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSTextCheckingType(${1:UInt64})]]></content>
+	<tabTrigger>NSTextCheckingType</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

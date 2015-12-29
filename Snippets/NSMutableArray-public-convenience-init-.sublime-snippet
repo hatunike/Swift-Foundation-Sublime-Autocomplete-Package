@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMutableArray(${1:})]]></content>
+	<tabTrigger>NSMutableArray</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

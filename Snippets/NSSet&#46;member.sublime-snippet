@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+member(${1:AnyObject})]]></content>
+	<tabTrigger>member</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSSet -> AnyObject?</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSKeyedUnarchiver(forReadingWithData:${1:NSData})]]></content>
+	<tabTrigger>NSKeyedUnarchiver</tabTrigger>
+	<scope>source.swift</scope>	<description>forReadingWithData:</description></snippet>

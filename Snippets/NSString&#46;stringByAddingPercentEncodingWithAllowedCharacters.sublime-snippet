@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringByAddingPercentEncodingWithAllowedCharacters(${1:NSCharacterSet})]]></content>
+	<tabTrigger>stringByAddingPercentEncodingWithAllowedCharacters</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> String?</description></snippet>

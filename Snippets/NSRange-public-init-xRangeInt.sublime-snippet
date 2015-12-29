@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSRange(_:${1:Range<Int>})]]></content>
+	<tabTrigger>NSRange</tabTrigger>
+	<scope>source.swift</scope>	<description>_:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString(bytesNoCopy:${1:UnsafeMutablePointer<Void>}, length:${2:Int}, encoding:${3:UInt}, freeWhenDone:${4:Bool})]]></content>
+	<tabTrigger>NSString</tabTrigger>
+	<scope>source.swift</scope>	<description>bytesNoCopy: length: encoding: freeWhenDone:</description></snippet>

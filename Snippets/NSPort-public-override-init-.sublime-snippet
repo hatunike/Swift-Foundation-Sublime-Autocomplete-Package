@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPort(${1:})]]></content>
+	<tabTrigger>NSPort</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

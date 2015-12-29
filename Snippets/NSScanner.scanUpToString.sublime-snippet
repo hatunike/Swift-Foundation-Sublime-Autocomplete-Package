@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+scanUpToString(${1:String})]]></content>
+	<tabTrigger>scanUpToString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSScanner -> String?</description></snippet>

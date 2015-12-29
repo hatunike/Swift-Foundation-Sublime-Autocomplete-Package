@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPersonNameComponentsFormatter.localizedStringFromPersonNameComponents(${1:NSPersonNameComponents}, style:${2:NSPersonNameComponentsFormatterStyle}, options:${3:NSPersonNameComponentsFormatterOptions})]]></content>
+	<tabTrigger>NSPersonNameComponentsFormatter.localizedStringFromPersonNameComponents</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSPersonNameComponentsFormatter -> String</description></snippet>

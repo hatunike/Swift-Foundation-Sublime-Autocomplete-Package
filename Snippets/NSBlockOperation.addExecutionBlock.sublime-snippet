@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+addExecutionBlock(${1: -> Void})]]></content>
+	<tabTrigger>addExecutionBlock</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSBlockOperation -> Void)</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setLocalizedDateFormatFromTemplate(${1:String})]]></content>
+	<tabTrigger>setLocalizedDateFormatFromTemplate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSDateFormatter -> void</description></snippet>

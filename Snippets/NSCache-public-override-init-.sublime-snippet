@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCache(${1:})]]></content>
+	<tabTrigger>NSCache</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

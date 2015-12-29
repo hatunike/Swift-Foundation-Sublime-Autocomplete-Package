@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSOperationQueue(${1:})]]></content>
+	<tabTrigger>NSOperationQueue</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

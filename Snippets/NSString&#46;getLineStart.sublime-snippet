@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+getLineStart(${1:UnsafeMutablePointer<Int>}, end:${2:UnsafeMutablePointer<Int>}, contentsEnd:${3:UnsafeMutablePointer<Int>}, forRange:${4:NSRange})]]></content>
+	<tabTrigger>getLineStart</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> void</description></snippet>

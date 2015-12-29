@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSProgress.discreteProgressWithTotalUnitCount(${1:Int64})]]></content>
+	<tabTrigger>NSProgress.discreteProgressWithTotalUnitCount</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSProgress -> NSProgress</description></snippet>

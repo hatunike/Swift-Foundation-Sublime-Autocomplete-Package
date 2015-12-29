@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+resolvePrefixForNamespaceURI(${1:String})]]></content>
+	<tabTrigger>resolvePrefixForNamespaceURI</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLElement -> String?</description></snippet>

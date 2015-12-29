@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+allowedClasses
+]]></content>
+	<tabTrigger>allowedClasses</tabTrigger>
+	<scope>source.swift</scope>	<description>Set</description></snippet>

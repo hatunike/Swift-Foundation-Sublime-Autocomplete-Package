@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSJSONSerialization.JSONObjectWithStream(${1:NSInputStream}, options:${2:NSJSONReadingOptions})]]></content>
+	<tabTrigger>NSJSONSerialization.JSONObjectWithStream</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSJSONSerialization -> AnyObject</description></snippet>

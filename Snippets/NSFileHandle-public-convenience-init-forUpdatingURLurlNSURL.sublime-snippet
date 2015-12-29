@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSFileHandle(forUpdatingURL:${1:NSURL})]]></content>
+	<tabTrigger>NSFileHandle</tabTrigger>
+	<scope>source.swift</scope>	<description>forUpdatingURL:</description></snippet>

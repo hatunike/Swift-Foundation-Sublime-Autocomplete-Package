@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+decodeBytesWithReturnedLength(${1:UnsafeMutablePointer<Int>})]]></content>
+	<tabTrigger>decodeBytesWithReturnedLength</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> UnsafeMutablePointer Void </description></snippet>

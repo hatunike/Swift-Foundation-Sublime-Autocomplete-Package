@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+addEntriesFromDictionary(${1:[NSObject })]]></content>
+	<tabTrigger>addEntriesFromDictionary</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableDictionary -> void</description></snippet>

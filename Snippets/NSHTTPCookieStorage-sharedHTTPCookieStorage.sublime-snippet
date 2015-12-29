@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSHTTPCookieStorage.sharedHTTPCookieStorage(${1:})]]></content>
+	<tabTrigger>NSHTTPCookieStorage.sharedHTTPCookieStorage</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSHTTPCookieStorage -> NSHTTPCookieStorage</description></snippet>

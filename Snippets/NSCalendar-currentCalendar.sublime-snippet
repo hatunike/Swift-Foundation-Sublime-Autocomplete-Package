@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCalendar.currentCalendar(${1:})]]></content>
+	<tabTrigger>NSCalendar.currentCalendar</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSCalendar -> NSCalendar</description></snippet>

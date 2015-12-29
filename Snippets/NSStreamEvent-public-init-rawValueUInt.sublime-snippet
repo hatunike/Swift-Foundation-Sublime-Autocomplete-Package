@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSStreamEvent(${1:UInt})]]></content>
+	<tabTrigger>NSStreamEvent</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

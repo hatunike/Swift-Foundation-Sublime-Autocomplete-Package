@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSKeyedArchiver(forWritingWithMutableData:${1:NSMutableData})]]></content>
+	<tabTrigger>NSKeyedArchiver</tabTrigger>
+	<scope>source.swift</scope>	<description>forWritingWithMutableData:</description></snippet>

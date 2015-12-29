@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+mutableCopy(${1:})]]></content>
+	<tabTrigger>mutableCopy</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableCopying -> AnyObject</description></snippet>

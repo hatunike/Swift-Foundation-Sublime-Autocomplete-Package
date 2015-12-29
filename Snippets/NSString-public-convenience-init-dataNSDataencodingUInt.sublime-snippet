@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString(${1:NSData}, encoding:${2:UInt})]]></content>
+	<tabTrigger>NSString</tabTrigger>
+	<scope>source.swift</scope>	<description>data: encoding:</description></snippet>

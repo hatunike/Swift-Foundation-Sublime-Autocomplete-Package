@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+changeCurrentDirectoryPath(${1:String})]]></content>
+	<tabTrigger>changeCurrentDirectoryPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> Bool</description></snippet>

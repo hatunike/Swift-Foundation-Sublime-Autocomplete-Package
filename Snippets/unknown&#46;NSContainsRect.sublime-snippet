@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSContainsRect(${1:NSRect}, _:${2:NSRect})]]></content>
+	<tabTrigger>NSContainsRect</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

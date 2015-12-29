@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeObserver(${1:AnyObject}, name:${2:String?}, object:${3:AnyObject?})]]></content>
+	<tabTrigger>removeObserver</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSNotificationCenter -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+storeCachedResponse(${1:NSCachedURLResponse}, forDataTask:${2:NSURLSessionDataTask})]]></content>
+	<tabTrigger>storeCachedResponse</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLCache -> void</description></snippet>

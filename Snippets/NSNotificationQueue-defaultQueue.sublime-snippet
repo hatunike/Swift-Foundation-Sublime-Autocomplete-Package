@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSNotificationQueue.defaultQueue(${1:})]]></content>
+	<tabTrigger>NSNotificationQueue.defaultQueue</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSNotificationQueue -> NSNotificationQueue</description></snippet>

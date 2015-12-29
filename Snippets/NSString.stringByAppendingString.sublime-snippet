@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringByAppendingString(${1:String})]]></content>
+	<tabTrigger>stringByAppendingString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

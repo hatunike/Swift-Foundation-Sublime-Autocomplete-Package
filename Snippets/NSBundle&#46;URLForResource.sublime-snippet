@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+URLForResource(${1:String?}, withExtension:${2:String?}, subdirectory:${3:String?}, localization:${4:String?})]]></content>
+	<tabTrigger>URLForResource</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSBundle -> NSURL?</description></snippet>

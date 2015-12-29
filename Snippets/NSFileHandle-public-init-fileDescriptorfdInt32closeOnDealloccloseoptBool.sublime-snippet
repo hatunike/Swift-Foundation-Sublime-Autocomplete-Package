@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSFileHandle(fileDescriptor:${1:Int32}, closeOnDealloc:${2:Bool})]]></content>
+	<tabTrigger>NSFileHandle</tabTrigger>
+	<scope>source.swift</scope>	<description>fileDescriptor: closeOnDealloc:</description></snippet>

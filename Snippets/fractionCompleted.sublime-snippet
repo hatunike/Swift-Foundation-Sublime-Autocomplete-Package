@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+fractionCompleted
+]]></content>
+	<tabTrigger>fractionCompleted</tabTrigger>
+	<scope>source.swift</scope>	<description>Double</description></snippet>

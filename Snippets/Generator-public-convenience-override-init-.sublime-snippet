@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+Generator(${1:})]]></content>
+	<tabTrigger>Generator</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSUserDefaults(${1:})]]></content>
+	<tabTrigger>NSUserDefaults</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

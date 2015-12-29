@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+CGSize
+]]></content>
+	<tabTrigger>CGSize</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

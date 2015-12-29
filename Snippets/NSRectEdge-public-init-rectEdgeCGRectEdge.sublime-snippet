@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSRectEdge(${1:CGRectEdge})]]></content>
+	<tabTrigger>NSRectEdge</tabTrigger>
+	<scope>source.swift</scope>	<description>rectEdge:</description></snippet>

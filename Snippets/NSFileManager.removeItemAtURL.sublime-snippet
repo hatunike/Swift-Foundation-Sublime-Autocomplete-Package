@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeItemAtURL(${1:NSURL})]]></content>
+	<tabTrigger>removeItemAtURL</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

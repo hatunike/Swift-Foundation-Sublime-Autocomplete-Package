@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isEqual(${1:AnyObject?})]]></content>
+	<tabTrigger>isEqual</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSObject -> Bool</description></snippet>

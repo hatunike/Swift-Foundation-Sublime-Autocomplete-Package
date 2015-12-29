@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+attributesOfFileSystemForPath(${1:String})]]></content>
+	<tabTrigger>attributesOfFileSystemForPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> [String</description></snippet>

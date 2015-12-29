@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+evaluateWithObject(${1:AnyObject?}, substitutionVariables:${2:[String })]]></content>
+	<tabTrigger>evaluateWithObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSPredicate -> Bool</description></snippet>

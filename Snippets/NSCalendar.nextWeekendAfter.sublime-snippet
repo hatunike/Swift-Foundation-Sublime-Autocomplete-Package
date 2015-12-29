@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+nextWeekendAfter(${1:NSDate}, options:${2:NSCalendarOptions})]]></content>
+	<tabTrigger>nextWeekendAfter</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> NSDateInterval?</description></snippet>

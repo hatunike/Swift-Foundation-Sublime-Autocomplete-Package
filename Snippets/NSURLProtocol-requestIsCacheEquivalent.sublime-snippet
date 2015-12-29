@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLProtocol.requestIsCacheEquivalent(${1:NSURLRequest}, toRequest:${2:NSURLRequest})]]></content>
+	<tabTrigger>NSURLProtocol.requestIsCacheEquivalent</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLProtocol -> Bool</description></snippet>

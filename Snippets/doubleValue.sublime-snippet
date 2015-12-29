@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+doubleValue
+]]></content>
+	<tabTrigger>doubleValue</tabTrigger>
+	<scope>source.swift</scope>	<description>Double</description></snippet>

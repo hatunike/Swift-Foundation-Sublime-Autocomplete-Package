@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPipe(${1:})]]></content>
+	<tabTrigger>NSPipe</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

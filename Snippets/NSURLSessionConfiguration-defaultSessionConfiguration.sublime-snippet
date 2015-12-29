@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLSessionConfiguration.defaultSessionConfiguration(${1:})]]></content>
+	<tabTrigger>NSURLSessionConfiguration.defaultSessionConfiguration</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLSessionConfiguration -> NSURLSessionConfiguration</description></snippet>

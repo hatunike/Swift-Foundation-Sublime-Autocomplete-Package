@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+addDependency(${1:NSOperation})]]></content>
+	<tabTrigger>addDependency</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSOperation -> void</description></snippet>

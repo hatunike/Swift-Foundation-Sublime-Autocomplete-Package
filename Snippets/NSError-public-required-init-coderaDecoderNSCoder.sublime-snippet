@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSError(coder:${1:NSCoder})]]></content>
+	<tabTrigger>NSError</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

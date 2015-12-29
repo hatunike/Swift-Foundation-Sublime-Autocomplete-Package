@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSDataReadingOptions
+]]></content>
+	<tabTrigger>NSDataReadingOptions</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

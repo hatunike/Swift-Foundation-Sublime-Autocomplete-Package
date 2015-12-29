@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+String.availableStringEncodings(${1:})]]></content>
+	<tabTrigger>String.availableStringEncodings</tabTrigger>
+	<scope>source.swift</scope>	<description>static String -> [NSStringEncoding]</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSOrderedSet(orderedSet:${1:NSOrderedSet}, copyItems:${2:Bool})]]></content>
+	<tabTrigger>NSOrderedSet</tabTrigger>
+	<scope>source.swift</scope>	<description>orderedSet: copyItems:</description></snippet>

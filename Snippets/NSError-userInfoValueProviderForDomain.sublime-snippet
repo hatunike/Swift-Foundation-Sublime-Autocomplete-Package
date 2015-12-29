@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSError.userInfoValueProviderForDomain(${1:String -> NSError}, String:${2:})]]></content>
+	<tabTrigger>NSError.userInfoValueProviderForDomain</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSError -> ((NSError,</description></snippet>

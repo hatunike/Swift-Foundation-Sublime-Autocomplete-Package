@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString(extendedGraphemeClusterLiteral:${1:StaticString})]]></content>
+	<tabTrigger>NSString</tabTrigger>
+	<scope>source.swift</scope>	<description>extendedGraphemeClusterLiteral:</description></snippet>

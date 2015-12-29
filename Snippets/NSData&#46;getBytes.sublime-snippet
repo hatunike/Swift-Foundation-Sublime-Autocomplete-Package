@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+getBytes(${1:UnsafeMutablePointer<Void>}, range:${2:NSRange})]]></content>
+	<tabTrigger>getBytes</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSData -> void</description></snippet>

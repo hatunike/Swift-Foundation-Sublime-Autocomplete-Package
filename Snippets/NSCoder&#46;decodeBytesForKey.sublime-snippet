@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+decodeBytesForKey(${1:String}, returnedLength:${2:UnsafeMutablePointer<Int>})]]></content>
+	<tabTrigger>decodeBytesForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> UnsafePointer UInt8 </description></snippet>

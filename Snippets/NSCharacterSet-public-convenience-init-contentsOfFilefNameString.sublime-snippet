@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCharacterSet(contentsOfFile:${1:String})]]></content>
+	<tabTrigger>NSCharacterSet</tabTrigger>
+	<scope>source.swift</scope>	<description>contentsOfFile:</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+evictsObjectsWithDiscardedContent
+]]></content>
+	<tabTrigger>evictsObjectsWithDiscardedContent</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

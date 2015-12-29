@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+addCharactersInRange(${1:NSRange})]]></content>
+	<tabTrigger>addCharactersInRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableCharacterSet -> void</description></snippet>

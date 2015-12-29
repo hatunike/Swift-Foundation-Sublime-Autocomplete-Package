@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+encodeBool(${1:Bool}, forKey:${2:String})]]></content>
+	<tabTrigger>encodeBool</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

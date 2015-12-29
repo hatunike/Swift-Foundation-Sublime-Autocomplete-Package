@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+moveObjectsAtIndexes(${1:NSIndexSet}, toIndex:${2:Int})]]></content>
+	<tabTrigger>moveObjectsAtIndexes</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

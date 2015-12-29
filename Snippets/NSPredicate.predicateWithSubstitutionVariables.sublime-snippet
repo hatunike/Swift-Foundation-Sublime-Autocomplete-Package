@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+predicateWithSubstitutionVariables(${1:[String })]]></content>
+	<tabTrigger>predicateWithSubstitutionVariables</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSPredicate -> Self</description></snippet>

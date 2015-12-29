@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSStringEncodingConversionOptions(${1:UInt})]]></content>
+	<tabTrigger>NSStringEncodingConversionOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

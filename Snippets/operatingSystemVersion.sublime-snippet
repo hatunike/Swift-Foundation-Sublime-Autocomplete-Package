@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+operatingSystemVersion
+]]></content>
+	<tabTrigger>operatingSystemVersion</tabTrigger>
+	<scope>source.swift</scope>	<description>NSOperatingSystemVersion</description></snippet>

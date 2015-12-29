@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+increaseLengthBy(${1:Int})]]></content>
+	<tabTrigger>increaseLengthBy</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableData -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+maximumRangeOfUnit(${1:NSCalendarUnit})]]></content>
+	<tabTrigger>maximumRangeOfUnit</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> NSRange</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSTask
+]]></content>
+	<tabTrigger>NSTask</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

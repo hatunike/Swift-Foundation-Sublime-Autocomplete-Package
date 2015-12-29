@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorRequestBodyStreamExhausted
+]]></content>
+	<tabTrigger>NSURLErrorRequestBodyStreamExhausted</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

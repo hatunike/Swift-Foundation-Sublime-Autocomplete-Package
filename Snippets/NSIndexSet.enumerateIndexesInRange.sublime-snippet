@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+enumerateIndexesInRange(${1:NSRange}, options:${2:NSEnumerationOptions}, usingBlock:${3:Int}, UnsafeMutablePointer<ObjCBool>:${4:})]]></content>
+	<tabTrigger>enumerateIndexesInRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSIndexSet -> Void)</description></snippet>

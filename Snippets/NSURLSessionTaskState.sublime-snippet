@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLSessionTaskState
+]]></content>
+	<tabTrigger>NSURLSessionTaskState</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

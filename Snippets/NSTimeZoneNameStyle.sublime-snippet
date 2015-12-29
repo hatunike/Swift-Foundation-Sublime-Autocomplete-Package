@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSTimeZoneNameStyle
+]]></content>
+	<tabTrigger>NSTimeZoneNameStyle</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

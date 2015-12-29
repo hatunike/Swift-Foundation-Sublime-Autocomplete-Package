@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+bridge(${1:})]]></content>
+	<tabTrigger>bridge</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

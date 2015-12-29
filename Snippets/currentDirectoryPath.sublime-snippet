@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+currentDirectoryPath
+]]></content>
+	<tabTrigger>currentDirectoryPath</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

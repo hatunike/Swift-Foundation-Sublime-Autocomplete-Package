@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringByAppendingPathExtension(${1:String})]]></content>
+	<tabTrigger>stringByAppendingPathExtension</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> String?</description></snippet>

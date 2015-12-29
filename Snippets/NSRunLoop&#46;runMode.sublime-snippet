@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+runMode(${1:String}, beforeDate:${2:NSDate})]]></content>
+	<tabTrigger>runMode</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSRunLoop -> Bool</description></snippet>

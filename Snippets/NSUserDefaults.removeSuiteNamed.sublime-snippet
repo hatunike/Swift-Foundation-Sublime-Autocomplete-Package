@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeSuiteNamed(${1:String})]]></content>
+	<tabTrigger>removeSuiteNamed</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

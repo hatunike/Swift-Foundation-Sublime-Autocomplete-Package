@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+indexesOfObjectsWithOptions(${1:NSEnumerationOptions}, passingTest:${2:AnyObject}, Int:${3:}, UnsafeMutablePointer<ObjCBool>:${4:})]]></content>
+	<tabTrigger>indexesOfObjectsWithOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSOrderedSet -> Bool)</description></snippet>

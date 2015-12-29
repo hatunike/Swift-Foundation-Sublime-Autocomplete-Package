@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectIsForcedForKey(${1:String}, inDomain:${2:String})]]></content>
+	<tabTrigger>objectIsForcedForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> Bool</description></snippet>

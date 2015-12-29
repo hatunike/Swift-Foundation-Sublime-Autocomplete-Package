@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSCalendarUnit(${1:UInt})]]></content>
+	<tabTrigger>NSCalendarUnit</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

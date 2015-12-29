@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSLocaleUsesMetricSystem
+]]></content>
+	<tabTrigger>NSLocaleUsesMetricSystem</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

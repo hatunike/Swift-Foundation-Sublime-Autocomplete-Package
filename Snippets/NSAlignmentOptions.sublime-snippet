@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSAlignmentOptions
+]]></content>
+	<tabTrigger>NSAlignmentOptions</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

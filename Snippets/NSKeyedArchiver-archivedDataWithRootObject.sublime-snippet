@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSKeyedArchiver.archivedDataWithRootObject(${1:AnyObject})]]></content>
+	<tabTrigger>NSKeyedArchiver.archivedDataWithRootObject</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSKeyedArchiver -> NSData</description></snippet>

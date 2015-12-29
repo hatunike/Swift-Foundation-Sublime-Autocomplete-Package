@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeCharactersInString(${1:String})]]></content>
+	<tabTrigger>removeCharactersInString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableCharacterSet -> void</description></snippet>

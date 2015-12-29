@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+nanosecond
+]]></content>
+	<tabTrigger>nanosecond</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

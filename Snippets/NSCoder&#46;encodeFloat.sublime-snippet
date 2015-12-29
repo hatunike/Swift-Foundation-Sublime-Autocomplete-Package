@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+encodeFloat(${1:Float}, forKey:${2:String})]]></content>
+	<tabTrigger>encodeFloat</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

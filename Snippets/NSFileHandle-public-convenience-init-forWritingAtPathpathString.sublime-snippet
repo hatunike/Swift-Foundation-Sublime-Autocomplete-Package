@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSFileHandle(forWritingAtPath:${1:String})]]></content>
+	<tabTrigger>NSFileHandle</tabTrigger>
+	<scope>source.swift</scope>	<description>forWritingAtPath:</description></snippet>

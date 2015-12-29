@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPredicate(fromMetadataQueryString:${1:String})]]></content>
+	<tabTrigger>NSPredicate</tabTrigger>
+	<scope>source.swift</scope>	<description>fromMetadataQueryString:</description></snippet>

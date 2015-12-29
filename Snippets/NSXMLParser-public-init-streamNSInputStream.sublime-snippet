@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSXMLParser(${1:NSInputStream})]]></content>
+	<tabTrigger>NSXMLParser</tabTrigger>
+	<scope>source.swift</scope>	<description>stream:</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSHTTPURLResponse.localizedStringForStatusCode(${1:Int})]]></content>
+	<tabTrigger>NSHTTPURLResponse.localizedStringForStatusCode</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSHTTPURLResponse -> String</description></snippet>

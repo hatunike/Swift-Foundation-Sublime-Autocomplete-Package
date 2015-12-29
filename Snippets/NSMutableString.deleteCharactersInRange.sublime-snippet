@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+deleteCharactersInRange(${1:NSRange})]]></content>
+	<tabTrigger>deleteCharactersInRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableString -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+rotateByDegrees(${1:CGFloat})]]></content>
+	<tabTrigger>rotateByDegrees</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSAffineTransform -> void</description></snippet>

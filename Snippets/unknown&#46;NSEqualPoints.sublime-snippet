@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSEqualPoints(${1:NSPoint}, _:${2:NSPoint})]]></content>
+	<tabTrigger>NSEqualPoints</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

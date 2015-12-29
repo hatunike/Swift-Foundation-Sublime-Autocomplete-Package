@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMouseInRect(${1:NSPoint}, _:${2:NSRect}, _:${3:Bool})]]></content>
+	<tabTrigger>NSMouseInRect</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

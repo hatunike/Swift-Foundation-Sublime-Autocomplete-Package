@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeObjectsInArray(${1:[AnyObject]})]]></content>
+	<tabTrigger>removeObjectsInArray</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

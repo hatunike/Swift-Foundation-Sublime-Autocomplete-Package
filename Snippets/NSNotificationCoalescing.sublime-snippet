@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSNotificationCoalescing
+]]></content>
+	<tabTrigger>NSNotificationCoalescing</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

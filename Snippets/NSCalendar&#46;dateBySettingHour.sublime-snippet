@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+dateBySettingHour(${1:Int}, minute:${2:Int}, second:${3:Int}, ofDate:${4:NSDate}, options:${5:NSCalendarOptions})]]></content>
+	<tabTrigger>dateBySettingHour</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> NSDate?</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+decodeDoubleForKey(${1:String})]]></content>
+	<tabTrigger>decodeDoubleForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> Double</description></snippet>

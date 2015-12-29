@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSSortDescriptor(coder:${1:NSCoder})]]></content>
+	<tabTrigger>NSSortDescriptor</tabTrigger>
+	<scope>source.swift</scope>	<description>coder:</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+shouldProcessNamespaces
+]]></content>
+	<tabTrigger>shouldProcessNamespaces</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

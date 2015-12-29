@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeAttribute(${1:String}, range:${2:NSRange})]]></content>
+	<tabTrigger>removeAttribute</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableAttributedString -> void</description></snippet>

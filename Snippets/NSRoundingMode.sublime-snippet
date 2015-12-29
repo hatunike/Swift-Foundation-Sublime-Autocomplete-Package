@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSRoundingMode
+]]></content>
+	<tabTrigger>NSRoundingMode</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

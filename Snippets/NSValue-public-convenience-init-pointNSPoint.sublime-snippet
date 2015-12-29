@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSValue(${1:NSPoint})]]></content>
+	<tabTrigger>NSValue</tabTrigger>
+	<scope>source.swift</scope>	<description>point:</description></snippet>

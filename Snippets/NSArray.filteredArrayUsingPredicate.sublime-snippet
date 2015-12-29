@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+filteredArrayUsingPredicate(${1:NSPredicate})]]></content>
+	<tabTrigger>filteredArrayUsingPredicate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSArray -> [AnyObject]</description></snippet>

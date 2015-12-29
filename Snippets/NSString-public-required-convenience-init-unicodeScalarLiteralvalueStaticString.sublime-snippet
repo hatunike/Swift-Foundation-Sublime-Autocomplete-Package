@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSString(unicodeScalarLiteral:${1:StaticString})]]></content>
+	<tabTrigger>NSString</tabTrigger>
+	<scope>source.swift</scope>	<description>unicodeScalarLiteral:</description></snippet>

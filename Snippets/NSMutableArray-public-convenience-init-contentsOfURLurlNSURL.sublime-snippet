@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSMutableArray(contentsOfURL:${1:NSURL})]]></content>
+	<tabTrigger>NSMutableArray</tabTrigger>
+	<scope>source.swift</scope>	<description>contentsOfURL:</description></snippet>

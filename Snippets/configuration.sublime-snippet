@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+configuration
+]]></content>
+	<tabTrigger>configuration</tabTrigger>
+	<scope>source.swift</scope>	<description>NSURLSessionConfiguration</description></snippet>

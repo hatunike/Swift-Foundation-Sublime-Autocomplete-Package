@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+abortParsing(${1:})]]></content>
+	<tabTrigger>abortParsing</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLParser -> void</description></snippet>

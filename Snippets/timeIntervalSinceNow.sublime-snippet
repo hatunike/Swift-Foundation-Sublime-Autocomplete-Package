@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+timeIntervalSinceNow
+]]></content>
+	<tabTrigger>timeIntervalSinceNow</tabTrigger>
+	<scope>source.swift</scope>	<description>NSTimeInterval</description></snippet>

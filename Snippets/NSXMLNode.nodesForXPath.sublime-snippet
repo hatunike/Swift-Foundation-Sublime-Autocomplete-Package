@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+nodesForXPath(${1:String})]]></content>
+	<tabTrigger>nodesForXPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLNode -> [NSXMLNode]</description></snippet>

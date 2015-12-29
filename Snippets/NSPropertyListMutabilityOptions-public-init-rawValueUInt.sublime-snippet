@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPropertyListMutabilityOptions(${1:UInt})]]></content>
+	<tabTrigger>NSPropertyListMutabilityOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+gregorianStartDate
+]]></content>
+	<tabTrigger>gregorianStartDate</tabTrigger>
+	<scope>source.swift</scope>	<description>NSDate</description></snippet>

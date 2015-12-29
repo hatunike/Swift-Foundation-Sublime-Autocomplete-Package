@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLAuthenticationMethodClientCertificate
+]]></content>
+	<tabTrigger>NSURLAuthenticationMethodClientCertificate</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSSocketPort(remoteWithProtocolFamily:${1:Int32}, socketType:${2:Int32}, `protocol`:${3:Int32}, address:${4:NSData})]]></content>
+	<tabTrigger>NSSocketPort</tabTrigger>
+	<scope>source.swift</scope>	<description>remoteWithProtocolFamily: socketType: `protocol`: address:</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSXMLNodeLoadExternalEntitiesNever
+]]></content>
+	<tabTrigger>NSXMLNodeLoadExternalEntitiesNever</tabTrigger>
+	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

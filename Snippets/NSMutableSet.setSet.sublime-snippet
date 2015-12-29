@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setSet(${1:Set<NSObject>})]]></content>
+	<tabTrigger>setSet</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableSet -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSTimeZone.timeZoneDataVersion(${1:})]]></content>
+	<tabTrigger>NSTimeZone.timeZoneDataVersion</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSTimeZone -> String</description></snippet>

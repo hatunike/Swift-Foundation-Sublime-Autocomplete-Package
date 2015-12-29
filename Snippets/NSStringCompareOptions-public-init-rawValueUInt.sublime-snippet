@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSStringCompareOptions(${1:UInt})]]></content>
+	<tabTrigger>NSStringCompareOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

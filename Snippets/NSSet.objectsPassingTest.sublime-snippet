@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectsPassingTest(${1:AnyObject}, UnsafeMutablePointer<ObjCBool>:${2:})]]></content>
+	<tabTrigger>objectsPassingTest</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSSet -> Bool)</description></snippet>

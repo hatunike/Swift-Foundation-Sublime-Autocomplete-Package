@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSSizeFromCGSize(${1:CGSize})]]></content>
+	<tabTrigger>NSSizeFromCGSize</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSSize</description></snippet>

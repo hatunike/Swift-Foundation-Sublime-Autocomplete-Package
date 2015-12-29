@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalCopy(${1:UnsafeMutablePointer<NSDecimal>}, _:${2:UnsafePointer<NSDecimal>})]]></content>
+	<tabTrigger>NSDecimalCopy</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> void</description></snippet>

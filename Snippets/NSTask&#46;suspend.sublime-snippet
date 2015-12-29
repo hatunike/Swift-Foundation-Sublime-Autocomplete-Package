@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+suspend(${1:})]]></content>
+	<tabTrigger>suspend</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSTask -> Bool</description></snippet>

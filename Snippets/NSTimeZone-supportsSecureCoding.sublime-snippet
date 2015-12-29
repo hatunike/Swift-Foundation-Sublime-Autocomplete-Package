@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSTimeZone.supportsSecureCoding(${1:})]]></content>
+	<tabTrigger>NSTimeZone.supportsSecureCoding</tabTrigger>
+	<scope>source.swift</scope>	<description>static NSTimeZone -> Bool</description></snippet>

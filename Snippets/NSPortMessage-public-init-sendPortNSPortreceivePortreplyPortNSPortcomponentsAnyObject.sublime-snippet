@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSPortMessage(${1:NSPort?}, receivePort:${2:NSPort?}, components:${3:[AnyObject]?})]]></content>
+	<tabTrigger>NSPortMessage</tabTrigger>
+	<scope>source.swift</scope>	<description>sendPort: receivePort: components:</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSNumberFormatterPadPosition
+]]></content>
+	<tabTrigger>NSNumberFormatterPadPosition</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSData(base64EncodedData:${1:NSData}, options:${2:NSDataBase64DecodingOptions})]]></content>
+	<tabTrigger>NSData</tabTrigger>
+	<scope>source.swift</scope>	<description>base64EncodedData: options:</description></snippet>

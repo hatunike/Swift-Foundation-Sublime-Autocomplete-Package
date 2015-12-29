@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+CGRect(${1:CGPoint}, size:${2:CGSize})]]></content>
+	<tabTrigger>CGRect</tabTrigger>
+	<scope>source.swift</scope>	<description>origin: size:</description></snippet>

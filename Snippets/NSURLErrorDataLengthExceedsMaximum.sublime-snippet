@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorDataLengthExceedsMaximum
+]]></content>
+	<tabTrigger>NSURLErrorDataLengthExceedsMaximum</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

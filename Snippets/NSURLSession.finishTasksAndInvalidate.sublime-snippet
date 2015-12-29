@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+finishTasksAndInvalidate(${1:})]]></content>
+	<tabTrigger>finishTasksAndInvalidate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLSession -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSError(${1:String}, code:${2:Int}, userInfo:${3:[String })]]></content>
+	<tabTrigger>NSError</tabTrigger>
+	<scope>source.swift</scope>	<description>domain: code: userInfo:</description></snippet>

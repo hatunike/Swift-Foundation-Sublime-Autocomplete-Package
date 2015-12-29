@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSURLSessionConfiguration.backgroundSessionConfigurationWithIdentifier(${1:String})]]></content>
+	<tabTrigger>NSURLSessionConfiguration.backgroundSessionConfigurationWithIdentifier</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSURLSessionConfiguration -> NSURLSessionConfiguration</description></snippet>

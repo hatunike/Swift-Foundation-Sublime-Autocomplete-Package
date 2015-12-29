@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSProgress.currentProgress(${1:})]]></content>
+	<tabTrigger>NSProgress.currentProgress</tabTrigger>
+	<scope>source.swift</scope>	<description>class NSProgress -> NSProgress?</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+client
+]]></content>
+	<tabTrigger>client</tabTrigger>
+	<scope>source.swift</scope>	<description>NSURLProtocolClient</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+URLByAppendingPathExtension(${1:String})]]></content>
+	<tabTrigger>URLByAppendingPathExtension</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURL -> NSURL?</description></snippet>

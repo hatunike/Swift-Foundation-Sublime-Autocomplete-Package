@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+broadcast(${1:})]]></content>
+	<tabTrigger>broadcast</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCondition -> void</description></snippet>

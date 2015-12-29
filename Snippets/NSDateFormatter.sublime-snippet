@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSDateFormatter
+]]></content>
+	<tabTrigger>NSDateFormatter</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

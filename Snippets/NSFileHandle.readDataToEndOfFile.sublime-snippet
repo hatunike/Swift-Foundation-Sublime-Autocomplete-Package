@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+readDataToEndOfFile(${1:})]]></content>
+	<tabTrigger>readDataToEndOfFile</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileHandle -> NSData</description></snippet>
