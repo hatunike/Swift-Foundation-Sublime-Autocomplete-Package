@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSDataBase
+]]></content>
+	<tabTrigger>NSDataBase</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+includesTimeRemainingPhrase
+]]></content>
+	<tabTrigger>includesTimeRemainingPhrase</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

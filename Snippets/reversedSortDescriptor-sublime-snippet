@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+reversedSortDescriptor
+]]></content>
+	<tabTrigger>reversedSortDescriptor</tabTrigger>
+	<scope>source.swift</scope>	<description>AnyObject</description></snippet>

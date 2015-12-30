@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+previousFailureCount
+]]></content>
+	<tabTrigger>previousFailureCount</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSJSONReadingOptions
+]]></content>
+	<tabTrigger>NSJSONReadingOptions</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

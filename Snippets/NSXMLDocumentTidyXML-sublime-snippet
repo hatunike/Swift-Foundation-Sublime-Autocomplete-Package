@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSXMLDocumentTidyXML
+]]></content>
+	<tabTrigger>NSXMLDocumentTidyXML</tabTrigger>
+	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

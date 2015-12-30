@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLSessionTaskPriorityHigh
+]]></content>
+	<tabTrigger>NSURLSessionTaskPriorityHigh</tabTrigger>
+	<scope>source.swift</scope>	<description>Float</description></snippet>

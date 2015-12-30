@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSLock
+]]></content>
+	<tabTrigger>NSLock</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

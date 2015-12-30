@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLSessionUploadTask
+]]></content>
+	<tabTrigger>NSURLSessionUploadTask</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

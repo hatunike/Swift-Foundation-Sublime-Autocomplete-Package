@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+tolerance
+]]></content>
+	<tabTrigger>tolerance</tabTrigger>
+	<scope>source.swift</scope>	<description>NSTimeInterval</description></snippet>

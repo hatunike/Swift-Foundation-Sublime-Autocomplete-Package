@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+externalEntityResolvingPolicy
+]]></content>
+	<tabTrigger>externalEntityResolvingPolicy</tabTrigger>
+	<scope>source.swift</scope>	<description>NSXMLParserExternalEntityResolvingPolicy</description></snippet>

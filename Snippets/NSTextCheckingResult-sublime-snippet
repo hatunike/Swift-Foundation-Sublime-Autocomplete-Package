@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSTextCheckingResult
+]]></content>
+	<tabTrigger>NSTextCheckingResult</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

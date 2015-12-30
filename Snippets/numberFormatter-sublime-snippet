@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+numberFormatter
+]]></content>
+	<tabTrigger>numberFormatter</tabTrigger>
+	<scope>source.swift</scope>	<description>NSNumberFormatter</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSPOSIXErrorDomain
+]]></content>
+	<tabTrigger>NSPOSIXErrorDomain</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

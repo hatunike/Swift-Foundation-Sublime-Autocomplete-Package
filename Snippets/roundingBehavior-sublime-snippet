@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+roundingBehavior
+]]></content>
+	<tabTrigger>roundingBehavior</tabTrigger>
+	<scope>source.swift</scope>	<description>NSDecimalNumberHandler</description></snippet>

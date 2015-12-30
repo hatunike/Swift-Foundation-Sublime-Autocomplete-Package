@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+minute
+]]></content>
+	<tabTrigger>minute</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

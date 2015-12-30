@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+includesUnit
+]]></content>
+	<tabTrigger>includesUnit</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

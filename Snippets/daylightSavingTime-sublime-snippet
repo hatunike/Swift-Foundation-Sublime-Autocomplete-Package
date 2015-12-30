@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+daylightSavingTime
+]]></content>
+	<tabTrigger>daylightSavingTime</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

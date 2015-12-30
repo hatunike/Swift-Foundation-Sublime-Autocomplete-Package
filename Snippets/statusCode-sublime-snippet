@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+statusCode
+]]></content>
+	<tabTrigger>statusCode</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

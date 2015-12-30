@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorCannotParseResponse
+]]></content>
+	<tabTrigger>NSURLErrorCannotParseResponse</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

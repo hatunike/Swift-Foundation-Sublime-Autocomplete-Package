@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+reversedOrderedSet
+]]></content>
+	<tabTrigger>reversedOrderedSet</tabTrigger>
+	<scope>source.swift</scope>	<description>NSOrderedSet</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+streamError
+]]></content>
+	<tabTrigger>streamError</tabTrigger>
+	<scope>source.swift</scope>	<description>NSError</description></snippet>

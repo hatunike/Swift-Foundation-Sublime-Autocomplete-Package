@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+sizeValue
+]]></content>
+	<tabTrigger>sizeValue</tabTrigger>
+	<scope>source.swift</scope>	<description>NSSize</description></snippet>

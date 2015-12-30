@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+lastObject
+]]></content>
+	<tabTrigger>lastObject</tabTrigger>
+	<scope>source.swift</scope>	<description>AnyObject</description></snippet>

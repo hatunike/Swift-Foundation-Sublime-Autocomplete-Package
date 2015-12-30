@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSSet
+]]></content>
+	<tabTrigger>NSSet</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

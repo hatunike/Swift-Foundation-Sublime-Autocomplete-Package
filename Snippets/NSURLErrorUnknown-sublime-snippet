@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorUnknown
+]]></content>
+	<tabTrigger>NSURLErrorUnknown</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

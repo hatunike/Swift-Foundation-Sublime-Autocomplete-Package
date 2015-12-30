@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSFilePosixPermissions
+]]></content>
+	<tabTrigger>NSFilePosixPermissions</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

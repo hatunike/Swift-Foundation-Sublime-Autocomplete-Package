@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+systemUptime
+]]></content>
+	<tabTrigger>systemUptime</tabTrigger>
+	<scope>source.swift</scope>	<description>NSTimeInterval</description></snippet>

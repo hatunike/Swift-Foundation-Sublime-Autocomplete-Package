@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+attributedStringForNotANumber
+]]></content>
+	<tabTrigger>attributedStringForNotANumber</tabTrigger>
+	<scope>source.swift</scope>	<description>NSAttributedString</description></snippet>

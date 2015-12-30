@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSNEXTSTEPStringEncoding
+]]></content>
+	<tabTrigger>NSNEXTSTEPStringEncoding</tabTrigger>
+	<scope>source.swift</scope>	<description>UInt</description></snippet>

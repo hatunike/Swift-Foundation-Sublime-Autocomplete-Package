@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+positiveSuffix
+]]></content>
+	<tabTrigger>positiveSuffix</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

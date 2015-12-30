@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalNumber
+]]></content>
+	<tabTrigger>NSDecimalNumber</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

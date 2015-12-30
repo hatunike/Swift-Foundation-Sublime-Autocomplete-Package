@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSPersonNameComponentsFormatter
+]]></content>
+	<tabTrigger>NSPersonNameComponentsFormatter</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

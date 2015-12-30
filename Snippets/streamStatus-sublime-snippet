@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+streamStatus
+]]></content>
+	<tabTrigger>streamStatus</tabTrigger>
+	<scope>source.swift</scope>	<description>NSStreamStatus</description></snippet>

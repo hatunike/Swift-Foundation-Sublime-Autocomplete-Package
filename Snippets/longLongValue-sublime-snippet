@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+longLongValue
+]]></content>
+	<tabTrigger>longLongValue</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

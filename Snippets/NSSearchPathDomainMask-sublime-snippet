@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSSearchPathDomainMask
+]]></content>
+	<tabTrigger>NSSearchPathDomainMask</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

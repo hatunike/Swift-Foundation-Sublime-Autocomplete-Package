@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+floatValue
+]]></content>
+	<tabTrigger>floatValue</tabTrigger>
+	<scope>source.swift</scope>	<description>Float</description></snippet>

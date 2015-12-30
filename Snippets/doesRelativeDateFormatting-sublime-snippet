@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+doesRelativeDateFormatting
+]]></content>
+	<tabTrigger>doesRelativeDateFormatting</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

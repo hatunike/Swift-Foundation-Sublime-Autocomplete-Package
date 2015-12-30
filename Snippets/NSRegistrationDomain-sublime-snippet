@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSRegistrationDomain
+]]></content>
+	<tabTrigger>NSRegistrationDomain</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

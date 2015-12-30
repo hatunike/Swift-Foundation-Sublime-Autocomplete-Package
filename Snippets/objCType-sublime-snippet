@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+objCType
+]]></content>
+	<tabTrigger>objCType</tabTrigger>
+	<scope>source.swift</scope>	<description>UnsafePointer</description></snippet>

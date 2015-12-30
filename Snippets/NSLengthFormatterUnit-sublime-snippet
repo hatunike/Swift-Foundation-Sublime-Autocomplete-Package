@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSLengthFormatterUnit
+]]></content>
+	<tabTrigger>NSLengthFormatterUnit</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

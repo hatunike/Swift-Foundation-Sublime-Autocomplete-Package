@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+plusSign
+]]></content>
+	<tabTrigger>plusSign</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

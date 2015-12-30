@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+countOfBytesReceived
+]]></content>
+	<tabTrigger>countOfBytesReceived</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

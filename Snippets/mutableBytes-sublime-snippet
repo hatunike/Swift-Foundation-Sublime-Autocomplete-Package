@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+mutableBytes
+]]></content>
+	<tabTrigger>mutableBytes</tabTrigger>
+	<scope>source.swift</scope>	<description>UnsafeMutablePointer</description></snippet>

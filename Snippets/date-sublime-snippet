@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+date
+]]></content>
+	<tabTrigger>date</tabTrigger>
+	<scope>source.swift</scope>	<description>NSDate</description></snippet>

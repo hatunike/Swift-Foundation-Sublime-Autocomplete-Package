@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isPropertyListError
+]]></content>
+	<tabTrigger>isPropertyListError</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

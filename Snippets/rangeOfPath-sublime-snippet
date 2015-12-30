@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+rangeOfPath
+]]></content>
+	<tabTrigger>rangeOfPath</tabTrigger>
+	<scope>source.swift</scope>	<description>NSRange</description></snippet>

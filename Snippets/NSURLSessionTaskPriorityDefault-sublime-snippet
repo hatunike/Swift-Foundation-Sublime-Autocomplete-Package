@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLSessionTaskPriorityDefault
+]]></content>
+	<tabTrigger>NSURLSessionTaskPriorityDefault</tabTrigger>
+	<scope>source.swift</scope>	<description>Float</description></snippet>

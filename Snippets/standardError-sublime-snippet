@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+standardError
+]]></content>
+	<tabTrigger>standardError</tabTrigger>
+	<scope>source.swift</scope>	<description>AnyObject</description></snippet>

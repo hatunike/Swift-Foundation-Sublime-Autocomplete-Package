@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSFileManagerItemReplacementOptions
+]]></content>
+	<tabTrigger>NSFileManagerItemReplacementOptions</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

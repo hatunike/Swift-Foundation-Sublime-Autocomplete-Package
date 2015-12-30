@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSNotFound
+]]></content>
+	<tabTrigger>NSNotFound</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

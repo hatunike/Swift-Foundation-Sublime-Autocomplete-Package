@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSByteCountFormatterCountStyle
+]]></content>
+	<tabTrigger>NSByteCountFormatterCountStyle</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

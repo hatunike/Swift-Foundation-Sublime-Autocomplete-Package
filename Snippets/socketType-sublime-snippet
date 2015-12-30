@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+socketType
+]]></content>
+	<tabTrigger>socketType</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

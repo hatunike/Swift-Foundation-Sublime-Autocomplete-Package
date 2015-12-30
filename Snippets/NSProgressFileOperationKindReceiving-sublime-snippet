@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSProgressFileOperationKindReceiving
+]]></content>
+	<tabTrigger>NSProgressFileOperationKindReceiving</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

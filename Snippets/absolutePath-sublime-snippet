@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+absolutePath
+]]></content>
+	<tabTrigger>absolutePath</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

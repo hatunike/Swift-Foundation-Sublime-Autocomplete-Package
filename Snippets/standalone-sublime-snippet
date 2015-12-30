@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+standalone
+]]></content>
+	<tabTrigger>standalone</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

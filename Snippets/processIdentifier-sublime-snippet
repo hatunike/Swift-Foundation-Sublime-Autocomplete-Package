@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+processIdentifier
+]]></content>
+	<tabTrigger>processIdentifier</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

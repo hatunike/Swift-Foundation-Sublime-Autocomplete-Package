@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSXMLNodeNeverEscapeContents
+]]></content>
+	<tabTrigger>NSXMLNodeNeverEscapeContents</tabTrigger>
+	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

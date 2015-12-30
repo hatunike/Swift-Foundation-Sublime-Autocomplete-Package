@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+isUbiquitousFileError
+]]></content>
+	<tabTrigger>isUbiquitousFileError</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

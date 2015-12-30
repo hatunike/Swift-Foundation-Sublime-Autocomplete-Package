@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+origin
+]]></content>
+	<tabTrigger>origin</tabTrigger>
+	<scope>source.swift</scope>	<description>CGPoint</description></snippet>

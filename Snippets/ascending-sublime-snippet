@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+ascending
+]]></content>
+	<tabTrigger>ascending</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

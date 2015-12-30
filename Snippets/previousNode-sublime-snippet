@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+previousNode
+]]></content>
+	<tabTrigger>previousNode</tabTrigger>
+	<scope>source.swift</scope>	<description>NSXMLNode</description></snippet>

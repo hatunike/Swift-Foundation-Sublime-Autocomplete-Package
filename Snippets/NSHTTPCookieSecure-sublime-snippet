@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSHTTPCookieSecure
+]]></content>
+	<tabTrigger>NSHTTPCookieSecure</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

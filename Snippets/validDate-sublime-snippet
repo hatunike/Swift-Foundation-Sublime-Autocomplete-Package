@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+validDate
+]]></content>
+	<tabTrigger>validDate</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

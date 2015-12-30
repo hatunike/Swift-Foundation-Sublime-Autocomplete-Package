@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSConditionLock
+]]></content>
+	<tabTrigger>NSConditionLock</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

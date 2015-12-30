@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorBackgroundSessionRequiresSharedContainer
+]]></content>
+	<tabTrigger>NSURLErrorBackgroundSessionRequiresSharedContainer</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

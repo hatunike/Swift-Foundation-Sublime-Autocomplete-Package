@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSCalendarIdentifierIslamic
+]]></content>
+	<tabTrigger>NSCalendarIdentifierIslamic</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

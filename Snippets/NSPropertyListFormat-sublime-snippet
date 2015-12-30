@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSPropertyListFormat
+]]></content>
+	<tabTrigger>NSPropertyListFormat</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

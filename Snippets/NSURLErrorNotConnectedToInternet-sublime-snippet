@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSURLErrorNotConnectedToInternet
+]]></content>
+	<tabTrigger>NSURLErrorNotConnectedToInternet</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

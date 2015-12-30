@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+sharedSupportPath
+]]></content>
+	<tabTrigger>sharedSupportPath</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

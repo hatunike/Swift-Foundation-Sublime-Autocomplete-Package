@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSCocoaError
+]]></content>
+	<tabTrigger>NSCocoaError</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

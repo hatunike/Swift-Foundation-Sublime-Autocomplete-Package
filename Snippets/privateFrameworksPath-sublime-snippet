@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+privateFrameworksPath
+]]></content>
+	<tabTrigger>privateFrameworksPath</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSStreamNetworkServiceType
+]]></content>
+	<tabTrigger>NSStreamNetworkServiceType</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

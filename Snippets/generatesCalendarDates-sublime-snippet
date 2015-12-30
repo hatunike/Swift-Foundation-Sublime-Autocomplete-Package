@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+generatesCalendarDates
+]]></content>
+	<tabTrigger>generatesCalendarDates</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSDateComponents
+]]></content>
+	<tabTrigger>NSDateComponents</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

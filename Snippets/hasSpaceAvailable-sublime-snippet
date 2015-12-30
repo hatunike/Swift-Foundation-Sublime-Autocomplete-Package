@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+hasSpaceAvailable
+]]></content>
+	<tabTrigger>hasSpaceAvailable</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

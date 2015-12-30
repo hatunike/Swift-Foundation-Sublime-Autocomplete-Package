@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+phonetic
+]]></content>
+	<tabTrigger>phonetic</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

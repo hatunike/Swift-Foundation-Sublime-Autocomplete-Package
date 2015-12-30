@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+reservedSpaceLength
+]]></content>
+	<tabTrigger>reservedSpaceLength</tabTrigger>
+	<scope>source.swift</scope>	<description>Int</description></snippet>

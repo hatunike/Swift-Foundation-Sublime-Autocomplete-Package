@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+cancellable
+]]></content>
+	<tabTrigger>cancellable</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

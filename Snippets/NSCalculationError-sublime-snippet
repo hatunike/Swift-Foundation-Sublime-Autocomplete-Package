@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSCalculationError
+]]></content>
+	<tabTrigger>NSCalculationError</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

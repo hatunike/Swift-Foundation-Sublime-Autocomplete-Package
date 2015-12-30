@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSCurrentLocaleDidChangeNotification
+]]></content>
+	<tabTrigger>NSCurrentLocaleDidChangeNotification</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

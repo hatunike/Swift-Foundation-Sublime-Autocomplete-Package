@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSPropertyListSerialization
+]]></content>
+	<tabTrigger>NSPropertyListSerialization</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

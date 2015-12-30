@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+sortedArrayHint
+]]></content>
+	<tabTrigger>sortedArrayHint</tabTrigger>
+	<scope>source.swift</scope>	<description>NSData</description></snippet>

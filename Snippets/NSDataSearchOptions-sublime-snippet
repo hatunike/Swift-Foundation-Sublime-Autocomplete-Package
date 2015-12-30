@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSDataSearchOptions
+]]></content>
+	<tabTrigger>NSDataSearchOptions</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

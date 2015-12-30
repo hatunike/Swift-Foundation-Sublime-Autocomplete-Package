@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+stringByDeletingLastPathComponent
+]]></content>
+	<tabTrigger>stringByDeletingLastPathComponent</tabTrigger>
+	<scope>source.swift</scope>	<description>:</description></snippet>

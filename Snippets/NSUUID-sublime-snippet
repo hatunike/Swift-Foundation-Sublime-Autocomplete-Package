@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSUUID
+]]></content>
+	<tabTrigger>NSUUID</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSMutableString
+]]></content>
+	<tabTrigger>NSMutableString</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

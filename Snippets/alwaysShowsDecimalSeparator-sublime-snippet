@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+alwaysShowsDecimalSeparator
+]]></content>
+	<tabTrigger>alwaysShowsDecimalSeparator</tabTrigger>
+	<scope>source.swift</scope>	<description>Bool</description></snippet>

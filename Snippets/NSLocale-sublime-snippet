@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+NSLocale
+]]></content>
+	<tabTrigger>NSLocale</tabTrigger>
+	<scope>source.swift</scope>	<description></description></snippet>

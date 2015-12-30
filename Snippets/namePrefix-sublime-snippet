@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+namePrefix
+]]></content>
+	<tabTrigger>namePrefix</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>

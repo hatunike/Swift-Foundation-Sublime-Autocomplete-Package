@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+maximum
+]]></content>
+	<tabTrigger>maximum</tabTrigger>
+	<scope>source.swift</scope>	<description>NSNumber</description></snippet>

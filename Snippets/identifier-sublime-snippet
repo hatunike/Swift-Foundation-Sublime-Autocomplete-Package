@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+identifier
+]]></content>
+	<tabTrigger>identifier</tabTrigger>
+	<scope>source.swift</scope>	<description>String</description></snippet>
