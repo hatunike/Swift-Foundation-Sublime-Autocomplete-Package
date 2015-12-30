@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+containsIndexes(${1:NSIndexSet})]]></content>
+	<tabTrigger>containsIndexes</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSIndexSet -> Bool</description></snippet>

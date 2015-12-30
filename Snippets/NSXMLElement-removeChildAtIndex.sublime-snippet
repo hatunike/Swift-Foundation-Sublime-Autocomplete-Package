@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeChildAtIndex(${1:Int})]]></content>
+	<tabTrigger>removeChildAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLElement -> void</description></snippet>

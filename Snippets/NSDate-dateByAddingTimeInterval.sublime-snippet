@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+dateByAddingTimeInterval(${1:NSTimeInterval})]]></content>
+	<tabTrigger>dateByAddingTimeInterval</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSDate -> NSDate</description></snippet>

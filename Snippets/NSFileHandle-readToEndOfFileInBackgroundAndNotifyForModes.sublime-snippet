@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+readToEndOfFileInBackgroundAndNotifyForModes(${1:[String]?})]]></content>
+	<tabTrigger>readToEndOfFileInBackgroundAndNotifyForModes</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileHandle -> void</description></snippet>

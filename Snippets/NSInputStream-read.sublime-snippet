@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+read(${1:UnsafeMutablePointer<UInt8>}, maxLength:${2:Int})]]></content>
+	<tabTrigger>read</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSInputStream -> Int</description></snippet>

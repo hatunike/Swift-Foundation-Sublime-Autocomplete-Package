@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+indexesWithOptions(${1:NSEnumerationOptions}, passingTest:${2:Int}, UnsafeMutablePointer<ObjCBool>:${3:})]]></content>
+	<tabTrigger>indexesWithOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSIndexSet -> Bool)</description></snippet>

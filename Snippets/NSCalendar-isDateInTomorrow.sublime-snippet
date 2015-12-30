@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isDateInTomorrow(${1:NSDate})]]></content>
+	<tabTrigger>isDateInTomorrow</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> Bool</description></snippet>

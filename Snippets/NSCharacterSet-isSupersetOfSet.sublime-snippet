@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isSupersetOfSet(${1:NSCharacterSet})]]></content>
+	<tabTrigger>isSupersetOfSet</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCharacterSet -> Bool</description></snippet>

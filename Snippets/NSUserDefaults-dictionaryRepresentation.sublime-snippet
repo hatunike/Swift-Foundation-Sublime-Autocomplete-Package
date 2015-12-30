@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+dictionaryRepresentation(${1:})]]></content>
+	<tabTrigger>dictionaryRepresentation</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> [String</description></snippet>

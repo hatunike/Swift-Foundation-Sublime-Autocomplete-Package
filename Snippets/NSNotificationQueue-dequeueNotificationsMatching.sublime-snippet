@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+dequeueNotificationsMatching(${1:NSNotification}, coalesceMask:${2:Int})]]></content>
+	<tabTrigger>dequeueNotificationsMatching</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSNotificationQueue -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+lockWhenCondition(${1:Int}, beforeDate:${2:NSDate})]]></content>
+	<tabTrigger>lockWhenCondition</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSConditionLock -> Bool</description></snippet>

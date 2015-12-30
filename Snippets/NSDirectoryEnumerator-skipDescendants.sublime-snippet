@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+skipDescendants(${1:})]]></content>
+	<tabTrigger>skipDescendants</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSDirectoryEnumerator -> void</description></snippet>

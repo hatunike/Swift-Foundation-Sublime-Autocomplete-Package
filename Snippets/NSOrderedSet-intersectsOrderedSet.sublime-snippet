@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+intersectsOrderedSet(${1:NSOrderedSet})]]></content>
+	<tabTrigger>intersectsOrderedSet</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSOrderedSet -> Bool</description></snippet>

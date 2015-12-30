@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeDependency(${1:NSOperation})]]></content>
+	<tabTrigger>removeDependency</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSOperation -> void</description></snippet>

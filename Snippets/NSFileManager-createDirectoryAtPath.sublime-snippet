@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+createDirectoryAtPath(${1:String}, withIntermediateDirectories:${2:Bool}, attributes:${3:[String })]]></content>
+	<tabTrigger>createDirectoryAtPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

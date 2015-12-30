@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalCompare(${1:UnsafePointer<NSDecimal>}, _:${2:UnsafePointer<NSDecimal>})]]></content>
+	<tabTrigger>NSDecimalCompare</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSComparisonResult</description></snippet>

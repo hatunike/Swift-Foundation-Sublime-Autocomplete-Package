@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isEqualToArray(${1:[AnyObject]})]]></content>
+	<tabTrigger>isEqualToArray</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> Bool</description></snippet>

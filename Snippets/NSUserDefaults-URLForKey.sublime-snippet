@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+URLForKey(${1:String})]]></content>
+	<tabTrigger>URLForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> NSURL?</description></snippet>

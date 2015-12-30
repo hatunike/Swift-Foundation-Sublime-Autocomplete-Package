@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+getCharacters(${1:UnsafeMutablePointer<unichar>}, range:${2:NSRange})]]></content>
+	<tabTrigger>getCharacters</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> void</description></snippet>

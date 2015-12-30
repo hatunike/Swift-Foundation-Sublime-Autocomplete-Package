@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+date(${1:NSDate}, matchesComponents:${2:NSDateComponents})]]></content>
+	<tabTrigger>date</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> Bool</description></snippet>

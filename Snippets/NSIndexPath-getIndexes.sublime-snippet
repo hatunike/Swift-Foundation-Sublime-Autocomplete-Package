@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+getIndexes(${1:UnsafeMutablePointer<Int>}, range:${2:NSRange})]]></content>
+	<tabTrigger>getIndexes</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSIndexPath -> void</description></snippet>

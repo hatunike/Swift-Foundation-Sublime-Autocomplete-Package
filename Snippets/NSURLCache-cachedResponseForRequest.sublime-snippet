@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+cachedResponseForRequest(${1:NSURLRequest})]]></content>
+	<tabTrigger>cachedResponseForRequest</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLCache -> NSCachedURLResponse?</description></snippet>

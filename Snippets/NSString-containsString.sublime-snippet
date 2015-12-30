@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+containsString(${1:String})]]></content>
+	<tabTrigger>containsString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> Bool</description></snippet>

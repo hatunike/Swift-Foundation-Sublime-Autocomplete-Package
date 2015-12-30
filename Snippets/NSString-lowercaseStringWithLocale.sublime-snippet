@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+lowercaseStringWithLocale(${1:NSLocale?})]]></content>
+	<tabTrigger>lowercaseStringWithLocale</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

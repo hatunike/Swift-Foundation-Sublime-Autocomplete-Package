@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+firstObjectCommonWithArray(${1:[AnyObject]})]]></content>
+	<tabTrigger>firstObjectCommonWithArray</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> AnyObject?</description></snippet>

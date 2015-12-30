@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectAtIndex(${1:Int})]]></content>
+	<tabTrigger>objectAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> AnyObject</description></snippet>

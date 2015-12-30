@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isDeletableFileAtPath(${1:String})]]></content>
+	<tabTrigger>isDeletableFileAtPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> Bool</description></snippet>

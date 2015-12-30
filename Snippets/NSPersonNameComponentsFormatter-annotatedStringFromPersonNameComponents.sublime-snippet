@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+annotatedStringFromPersonNameComponents(${1:NSPersonNameComponents})]]></content>
+	<tabTrigger>annotatedStringFromPersonNameComponents</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSPersonNameComponentsFormatter -> NSAttributedString</description></snippet>

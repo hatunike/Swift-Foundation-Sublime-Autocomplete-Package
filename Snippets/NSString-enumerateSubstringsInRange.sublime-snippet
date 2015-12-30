@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+enumerateSubstringsInRange(${1:NSRange}, options:${2:NSStringEnumerationOptions}, usingBlock:${3:String?}, NSRange:${4:}, NSRange:${5:}, UnsafeMutablePointer<ObjCBool>:${6:})]]></content>
+	<tabTrigger>enumerateSubstringsInRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> Void)</description></snippet>

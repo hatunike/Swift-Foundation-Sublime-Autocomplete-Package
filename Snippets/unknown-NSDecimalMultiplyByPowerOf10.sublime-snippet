@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSDecimalMultiplyByPowerOf10(${1:UnsafeMutablePointer<NSDecimal>}, _:${2:UnsafePointer<NSDecimal>}, _:${3:Int16}, _:${4:NSRoundingMode})]]></content>
+	<tabTrigger>NSDecimalMultiplyByPowerOf10</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSCalculationError</description></snippet>

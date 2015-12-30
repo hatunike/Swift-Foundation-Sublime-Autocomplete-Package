@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+signal(${1:})]]></content>
+	<tabTrigger>signal</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCondition -> void</description></snippet>

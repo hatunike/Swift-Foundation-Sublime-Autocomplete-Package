@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSSearchPathForDirectoriesInDomains(${1:NSSearchPathDirectory}, _:${2:NSSearchPathDomainMask}, _:${3:Bool})]]></content>
+	<tabTrigger>NSSearchPathForDirectoriesInDomains</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> [String]</description></snippet>

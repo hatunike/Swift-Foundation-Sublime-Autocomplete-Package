@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSIsEmptyRect(${1:NSRect})]]></content>
+	<tabTrigger>NSIsEmptyRect</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

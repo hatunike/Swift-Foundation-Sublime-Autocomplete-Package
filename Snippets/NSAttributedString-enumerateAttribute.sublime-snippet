@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+enumerateAttribute(${1:String}, inRange:${2:NSRange}, options:${3:NSAttributedStringEnumerationOptions}, usingBlock:${4:AnyObject?}, NSRange:${5:}, UnsafeMutablePointer<ObjCBool>:${6:})]]></content>
+	<tabTrigger>enumerateAttribute</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSAttributedString -> Void)</description></snippet>

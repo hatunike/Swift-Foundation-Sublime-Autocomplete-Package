@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setDouble(${1:Double}, forKey:${2:String})]]></content>
+	<tabTrigger>setDouble</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

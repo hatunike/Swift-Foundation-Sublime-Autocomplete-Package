@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+decodeObjectOfClass\<DecodedObjectType(${1:DecodedObjectType.Type}, forKey:${2:String})]]></content>
+	<tabTrigger>decodeObjectOfClassDecodedObjectType</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> DecodedObjectType?</description></snippet>

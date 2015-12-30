@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+componentsJoinedByString(${1:String})]]></content>
+	<tabTrigger>componentsJoinedByString</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> String</description></snippet>

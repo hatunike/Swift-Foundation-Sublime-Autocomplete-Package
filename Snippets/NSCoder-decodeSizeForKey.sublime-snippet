@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+decodeSizeForKey(${1:String})]]></content>
+	<tabTrigger>decodeSizeForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> NSSize</description></snippet>

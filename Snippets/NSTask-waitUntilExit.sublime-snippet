@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+waitUntilExit(${1:})]]></content>
+	<tabTrigger>waitUntilExit</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSTask -> void</description></snippet>

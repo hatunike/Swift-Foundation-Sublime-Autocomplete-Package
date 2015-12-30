@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+substringFromIndex(${1:Int})]]></content>
+	<tabTrigger>substringFromIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

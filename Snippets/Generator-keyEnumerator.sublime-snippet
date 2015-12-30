@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+keyEnumerator(${1:})]]></content>
+	<tabTrigger>keyEnumerator</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> NSEnumerator</description></snippet>

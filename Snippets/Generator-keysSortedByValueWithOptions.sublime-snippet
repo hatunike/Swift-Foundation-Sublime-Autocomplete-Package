@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+keysSortedByValueWithOptions(${1:NSSortOptions}, usingComparator:${2:NSComparator})]]></content>
+	<tabTrigger>keysSortedByValueWithOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> [AnyObject]</description></snippet>

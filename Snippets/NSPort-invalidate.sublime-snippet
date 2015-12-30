@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+invalidate(${1:})]]></content>
+	<tabTrigger>invalidate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSPort -> void</description></snippet>

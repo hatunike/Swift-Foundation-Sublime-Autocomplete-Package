@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSStringFromSize(${1:NSSize})]]></content>
+	<tabTrigger>NSStringFromSize</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> String</description></snippet>

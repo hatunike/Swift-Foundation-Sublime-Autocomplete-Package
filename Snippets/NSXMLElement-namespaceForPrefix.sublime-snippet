@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+namespaceForPrefix(${1:String})]]></content>
+	<tabTrigger>namespaceForPrefix</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLElement -> NSXMLNode?</description></snippet>

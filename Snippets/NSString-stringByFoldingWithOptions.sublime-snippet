@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringByFoldingWithOptions(${1:NSStringCompareOptions}, locale:${2:NSLocale?})]]></content>
+	<tabTrigger>stringByFoldingWithOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

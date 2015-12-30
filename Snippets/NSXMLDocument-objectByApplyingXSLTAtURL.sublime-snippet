@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectByApplyingXSLTAtURL(${1:NSURL}, arguments:${2:[String })]]></content>
+	<tabTrigger>objectByApplyingXSLTAtURL</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLDocument -> AnyObject</description></snippet>

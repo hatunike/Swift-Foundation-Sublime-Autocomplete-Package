@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+localizedStandardContainsString(${1:String})]]></content>
+	<tabTrigger>localizedStandardContainsString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> Bool</description></snippet>

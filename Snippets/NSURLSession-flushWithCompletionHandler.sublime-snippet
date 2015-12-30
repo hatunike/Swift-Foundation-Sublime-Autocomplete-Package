@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+flushWithCompletionHandler(${1: -> Void})]]></content>
+	<tabTrigger>flushWithCompletionHandler</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLSession -> Void)</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+editingStringForObjectValue(${1:AnyObject})]]></content>
+	<tabTrigger>editingStringForObjectValue</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFormatter -> String?</description></snippet>

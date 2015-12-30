@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+nextDaylightSavingTimeTransitionAfterDate(${1:NSDate})]]></content>
+	<tabTrigger>nextDaylightSavingTimeTransitionAfterDate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSTimeZone -> NSDate?</description></snippet>

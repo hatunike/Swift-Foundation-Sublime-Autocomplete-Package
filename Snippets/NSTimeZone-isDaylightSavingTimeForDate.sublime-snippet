@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isDaylightSavingTimeForDate(${1:NSDate})]]></content>
+	<tabTrigger>isDaylightSavingTimeForDate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSTimeZone -> Bool</description></snippet>

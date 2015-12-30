@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+unitStringFromMeters(${1:Double}, usedUnit:${2:UnsafeMutablePointer<NSLengthFormatterUnit>})]]></content>
+	<tabTrigger>unitStringFromMeters</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSLengthFormatter -> String</description></snippet>

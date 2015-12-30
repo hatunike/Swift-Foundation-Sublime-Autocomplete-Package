@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+unitStringFromValue(${1:Double}, unit:${2:NSMassFormatterUnit})]]></content>
+	<tabTrigger>unitStringFromValue</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMassFormatter -> String</description></snippet>

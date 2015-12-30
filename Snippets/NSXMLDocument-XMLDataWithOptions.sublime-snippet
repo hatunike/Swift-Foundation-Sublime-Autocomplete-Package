@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+XMLDataWithOptions(${1:Int})]]></content>
+	<tabTrigger>XMLDataWithOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLDocument -> NSData</description></snippet>

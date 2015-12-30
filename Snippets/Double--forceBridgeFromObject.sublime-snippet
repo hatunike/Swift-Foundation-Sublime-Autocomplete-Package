@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+Double._forceBridgeFromObject(${1:NSNumber}, inout:${2:Double?})]]></content>
+	<tabTrigger>Double._forceBridgeFromObject</tabTrigger>
+	<scope>source.swift</scope>	<description>static Double -> void</description></snippet>

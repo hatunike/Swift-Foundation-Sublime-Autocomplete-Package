@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+normalizeAdjacentTextNodesPreservingCDATA(${1:Bool})]]></content>
+	<tabTrigger>normalizeAdjacentTextNodesPreservingCDATA</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLElement -> void</description></snippet>

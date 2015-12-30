@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+compare(${1:NSDate})]]></content>
+	<tabTrigger>compare</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSDate -> NSComparisonResult</description></snippet>

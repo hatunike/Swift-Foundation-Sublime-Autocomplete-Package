@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSUnionRange(${1:NSRange}, _:${2:NSRange})]]></content>
+	<tabTrigger>NSUnionRange</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSRange</description></snippet>

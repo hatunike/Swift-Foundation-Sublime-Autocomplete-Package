@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setPersistentDomain(${1:[String }, forName:${2:String})]]></content>
+	<tabTrigger>setPersistentDomain</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

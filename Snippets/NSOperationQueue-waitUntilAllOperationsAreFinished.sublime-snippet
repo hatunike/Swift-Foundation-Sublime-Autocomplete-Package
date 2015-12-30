@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+waitUntilAllOperationsAreFinished(${1:})]]></content>
+	<tabTrigger>waitUntilAllOperationsAreFinished</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSOperationQueue -> void</description></snippet>

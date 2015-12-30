@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+compareObject(${1:AnyObject}, toObject:${2:AnyObject})]]></content>
+	<tabTrigger>compareObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSSortDescriptor -> NSComparisonResult</description></snippet>

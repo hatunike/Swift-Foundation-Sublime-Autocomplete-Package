@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+enumeratorAtPath(${1:String})]]></content>
+	<tabTrigger>enumeratorAtPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> NSDirectoryEnumerator?</description></snippet>

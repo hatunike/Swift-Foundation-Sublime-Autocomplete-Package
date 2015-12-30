@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+NSIntegralRectWithOptions(${1:NSRect}, _:${2:NSAlignmentOptions})]]></content>
+	<tabTrigger>NSIntegralRectWithOptions</tabTrigger>
+	<scope>source.swift</scope>	<description>func unknown -> NSRect</description></snippet>

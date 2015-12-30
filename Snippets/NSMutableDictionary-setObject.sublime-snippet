@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setObject(${1:AnyObject}, forKey:${2:NSObject})]]></content>
+	<tabTrigger>setObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableDictionary -> void</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+addObject(${1:AnyObject})]]></content>
+	<tabTrigger>addObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMutableSet -> void</description></snippet>

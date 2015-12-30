@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+enumerateMatchesInString(${1:String}, options:${2:NSMatchingOptions}, range:${3:NSRange}, usingBlock:${4:NSTextCheckingResult?}, NSMatchingFlags:${5:}, UnsafeMutablePointer<ObjCBool>:${6:})]]></content>
+	<tabTrigger>enumerateMatchesInString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSRegularExpression -> Void)</description></snippet>

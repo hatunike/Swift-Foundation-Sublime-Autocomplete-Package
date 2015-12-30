@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+arrayByAddingObject(${1:AnyObject})]]></content>
+	<tabTrigger>arrayByAddingObject</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> [AnyObject]</description></snippet>

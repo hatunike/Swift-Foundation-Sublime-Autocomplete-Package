@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+objectEnumerator(${1:})]]></content>
+	<tabTrigger>objectEnumerator</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSSet -> NSEnumerator</description></snippet>

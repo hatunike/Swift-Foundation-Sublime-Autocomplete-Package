@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+localizedStandardRangeOfString(${1:String})]]></content>
+	<tabTrigger>localizedStandardRangeOfString</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> NSRange</description></snippet>

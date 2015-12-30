@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+setInteger(${1:Int}, forKey:${2:String})]]></content>
+	<tabTrigger>setInteger</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

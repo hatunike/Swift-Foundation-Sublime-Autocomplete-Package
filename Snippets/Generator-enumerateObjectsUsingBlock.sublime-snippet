@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+enumerateObjectsUsingBlock(${1:AnyObject}, Int:${2:}, UnsafeMutablePointer<ObjCBool>:${3:})]]></content>
+	<tabTrigger>enumerateObjectsUsingBlock</tabTrigger>
+	<scope>source.swift</scope>	<description>func Generator -> Void)</description></snippet>

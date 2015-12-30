@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+canBeConvertedToEncoding(${1:NSStringEncoding})]]></content>
+	<tabTrigger>canBeConvertedToEncoding</tabTrigger>
+	<scope>source.swift</scope>	<description>func String -> Bool</description></snippet>

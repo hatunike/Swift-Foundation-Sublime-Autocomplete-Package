@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+decodeFloatForKey(${1:String})]]></content>
+	<tabTrigger>decodeFloatForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCoder -> Float</description></snippet>

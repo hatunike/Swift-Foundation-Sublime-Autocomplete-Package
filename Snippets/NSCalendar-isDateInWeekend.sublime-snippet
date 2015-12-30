@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isDateInWeekend(${1:NSDate})]]></content>
+	<tabTrigger>isDateInWeekend</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSCalendar -> Bool</description></snippet>

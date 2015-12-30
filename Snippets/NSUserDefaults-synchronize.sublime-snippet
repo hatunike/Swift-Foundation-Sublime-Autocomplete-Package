@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+synchronize(${1:})]]></content>
+	<tabTrigger>synchronize</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> Bool</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+validate(${1:})]]></content>
+	<tabTrigger>validate</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLDocument -> void</description></snippet>

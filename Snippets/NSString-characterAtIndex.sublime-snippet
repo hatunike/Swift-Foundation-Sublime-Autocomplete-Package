@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+characterAtIndex(${1:Int})]]></content>
+	<tabTrigger>characterAtIndex</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSString -> unichar</description></snippet>

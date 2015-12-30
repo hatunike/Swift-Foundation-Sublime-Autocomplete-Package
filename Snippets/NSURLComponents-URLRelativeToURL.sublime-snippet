@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+URLRelativeToURL(${1:NSURL?})]]></content>
+	<tabTrigger>URLRelativeToURL</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLComponents -> NSURL?</description></snippet>

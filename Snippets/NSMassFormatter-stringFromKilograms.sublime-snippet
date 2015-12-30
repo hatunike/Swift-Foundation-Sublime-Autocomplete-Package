@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringFromKilograms(${1:Double})]]></content>
+	<tabTrigger>stringFromKilograms</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSMassFormatter -> String</description></snippet>

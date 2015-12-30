@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+removeNamespaceForPrefix(${1:String})]]></content>
+	<tabTrigger>removeNamespaceForPrefix</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLElement -> void</description></snippet>

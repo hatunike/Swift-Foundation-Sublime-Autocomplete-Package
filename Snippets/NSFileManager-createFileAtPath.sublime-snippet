@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+createFileAtPath(${1:String}, contents:${2:NSData?}, attributes:${3:[String })]]></content>
+	<tabTrigger>createFileAtPath</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSFileManager -> Bool</description></snippet>

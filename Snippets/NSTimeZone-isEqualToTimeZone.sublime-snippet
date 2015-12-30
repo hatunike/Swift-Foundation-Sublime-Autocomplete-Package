@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+isEqualToTimeZone(${1:NSTimeZone})]]></content>
+	<tabTrigger>isEqualToTimeZone</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSTimeZone -> Bool</description></snippet>

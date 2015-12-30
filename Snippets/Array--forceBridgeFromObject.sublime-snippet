@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+Array._forceBridgeFromObject(${1:NSArray}, inout:${2:Array?})]]></content>
+	<tabTrigger>Array._forceBridgeFromObject</tabTrigger>
+	<scope>source.swift</scope>	<description>static Array -> void</description></snippet>

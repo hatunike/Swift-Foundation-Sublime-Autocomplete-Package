@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+entityDeclarationForName(${1:String})]]></content>
+	<tabTrigger>entityDeclarationForName</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSXMLDTD -> NSXMLDTDNode?</description></snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+downloadTaskWithResumeData(${1:NSData}, completionHandler:${2:NSURL?}, NSURLResponse?:${3:}, NSError?:${4:})]]></content>
+	<tabTrigger>downloadTaskWithResumeData</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSURLSession -> Void)</description></snippet>

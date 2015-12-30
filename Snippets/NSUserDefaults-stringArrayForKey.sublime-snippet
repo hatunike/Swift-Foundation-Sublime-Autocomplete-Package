@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringArrayForKey(${1:String})]]></content>
+	<tabTrigger>stringArrayForKey</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSUserDefaults -> [String]?</description></snippet>

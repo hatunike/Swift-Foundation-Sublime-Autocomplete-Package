@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+scale(${1:})]]></content>
+	<tabTrigger>scale</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSDecimalNumberHandler -> Int16</description></snippet>

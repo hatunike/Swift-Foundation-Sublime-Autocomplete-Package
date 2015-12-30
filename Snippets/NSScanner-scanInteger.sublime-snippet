@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+scanInteger(${1:})]]></content>
+	<tabTrigger>scanInteger</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSScanner -> Int?</description></snippet>

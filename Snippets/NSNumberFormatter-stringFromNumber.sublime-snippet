@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+stringFromNumber(${1:NSNumber})]]></content>
+	<tabTrigger>stringFromNumber</tabTrigger>
+	<scope>source.swift</scope>	<description>func NSNumberFormatter -> String?</description></snippet>
