@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHTTPCookieOriginURL
-]]></content>
-	<tabTrigger>NSHTTPCookieOriginURL</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

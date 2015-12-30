@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-capitalizedStringWithLocale(${1:NSLocale?})]]></content>
-	<tabTrigger>capitalizedStringWithLocale</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

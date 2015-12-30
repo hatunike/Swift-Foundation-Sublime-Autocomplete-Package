@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-minimumIntegerDigits
-]]></content>
-	<tabTrigger>minimumIntegerDigits</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

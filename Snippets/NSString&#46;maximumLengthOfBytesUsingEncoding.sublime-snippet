@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-maximumLengthOfBytesUsingEncoding(${1:UInt})]]></content>
-	<tabTrigger>maximumLengthOfBytesUsingEncoding</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> Int</description></snippet>

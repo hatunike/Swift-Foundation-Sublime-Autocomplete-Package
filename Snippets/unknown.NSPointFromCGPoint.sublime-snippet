@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSPointFromCGPoint(${1:CGPoint})]]></content>
-	<tabTrigger>NSPointFromCGPoint</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> NSPoint</description></snippet>

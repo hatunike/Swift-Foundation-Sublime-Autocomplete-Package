@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-cookiesForURL(${1:NSURL})]]></content>
-	<tabTrigger>cookiesForURL</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSHTTPCookieStorage -> [NSHTTPCookie]?</description></snippet>

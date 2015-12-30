@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSZeroSize
-]]></content>
-	<tabTrigger>NSZeroSize</tabTrigger>
-	<scope>source.swift</scope>	<description>NSSize</description></snippet>

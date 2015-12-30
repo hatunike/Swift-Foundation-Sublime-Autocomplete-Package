@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-hash
-]]></content>
-	<tabTrigger>hash</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-dataRepresentation
-]]></content>
-	<tabTrigger>dataRepresentation</tabTrigger>
-	<scope>source.swift</scope>	<description>NSData</description></snippet>

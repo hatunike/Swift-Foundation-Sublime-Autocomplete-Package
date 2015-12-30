@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-waitUntilFinished(${1:})]]></content>
-	<tabTrigger>waitUntilFinished</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOperation -> void</description></snippet>

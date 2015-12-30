@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalRound(${1:UnsafeMutablePointer<NSDecimal>}, _:${2:UnsafePointer<NSDecimal>}, _:${3:Int}, _:${4:NSRoundingMode})]]></content>
-	<tabTrigger>NSDecimalRound</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> void</description></snippet>

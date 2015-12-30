@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorCannotWriteToFile
-]]></content>
-	<tabTrigger>NSURLErrorCannotWriteToFile</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

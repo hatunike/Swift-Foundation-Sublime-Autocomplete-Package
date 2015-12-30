@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSBlockOperation
-]]></content>
-	<tabTrigger>NSBlockOperation</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

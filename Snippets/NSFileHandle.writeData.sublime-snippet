@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-writeData(${1:NSData})]]></content>
-	<tabTrigger>writeData</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileHandle -> void</description></snippet>

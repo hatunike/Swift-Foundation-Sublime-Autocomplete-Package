@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-numberOfMatchesInString(${1:String}, options:${2:NSMatchingOptions}, range:${3:NSRange})]]></content>
-	<tabTrigger>numberOfMatchesInString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSRegularExpression -> Int</description></snippet>

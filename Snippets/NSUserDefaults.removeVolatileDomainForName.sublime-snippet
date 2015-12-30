@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeVolatileDomainForName(${1:String})]]></content>
-	<tabTrigger>removeVolatileDomainForName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

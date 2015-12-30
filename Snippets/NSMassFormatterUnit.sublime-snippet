@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMassFormatterUnit
-]]></content>
-	<tabTrigger>NSMassFormatterUnit</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

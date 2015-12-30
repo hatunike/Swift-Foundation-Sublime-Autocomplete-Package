@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-asynchronous
-]]></content>
-	<tabTrigger>asynchronous</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

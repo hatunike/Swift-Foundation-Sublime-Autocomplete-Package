@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-postNotificationName(${1:String}, object:${2:AnyObject?}, userInfo:${3:[NSObject })]]></content>
-	<tabTrigger>postNotificationName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSNotificationCenter -> void</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-indexOfObject(${1:AnyObject}, inSortedRange:${2:NSRange}, options:${3:NSBinarySearchingOptions}, usingComparator:${4:NSComparator})]]></content>
-	<tabTrigger>indexOfObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> Int</description></snippet>

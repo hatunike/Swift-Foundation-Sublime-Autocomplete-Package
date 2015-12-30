@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decodePointForKey(${1:String})]]></content>
-	<tabTrigger>decodePointForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> NSPoint</description></snippet>

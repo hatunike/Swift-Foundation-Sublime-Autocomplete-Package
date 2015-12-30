@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unitStringFromJoules(${1:Double}, usedUnit:${2:UnsafeMutablePointer<NSEnergyFormatterUnit>})]]></content>
-	<tabTrigger>unitStringFromJoules</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSEnergyFormatter -> String</description></snippet>

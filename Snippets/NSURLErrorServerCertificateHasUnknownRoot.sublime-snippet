@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorServerCertificateHasUnknownRoot
-]]></content>
-	<tabTrigger>NSURLErrorServerCertificateHasUnknownRoot</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

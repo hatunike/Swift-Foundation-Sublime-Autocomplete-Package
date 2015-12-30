@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-objectsAtIndexes(${1:NSIndexSet})]]></content>
-	<tabTrigger>objectsAtIndexes</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> [AnyObject]</description></snippet>

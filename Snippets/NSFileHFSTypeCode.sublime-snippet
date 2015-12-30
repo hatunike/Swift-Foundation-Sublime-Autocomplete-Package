@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileHFSTypeCode
-]]></content>
-	<tabTrigger>NSFileHFSTypeCode</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

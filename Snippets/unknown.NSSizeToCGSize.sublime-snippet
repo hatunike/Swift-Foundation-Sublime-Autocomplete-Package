@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSSizeToCGSize(${1:NSSize})]]></content>
-	<tabTrigger>NSSizeToCGSize</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> CGSize</description></snippet>

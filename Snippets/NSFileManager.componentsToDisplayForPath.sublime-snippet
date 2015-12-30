@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-componentsToDisplayForPath(${1:String})]]></content>
-	<tabTrigger>componentsToDisplayForPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> [String]?</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-rangeOfUnit(${1:NSCalendarUnit}, forDate:${2:NSDate})]]></content>
-	<tabTrigger>rangeOfUnit</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> NSDateInterval?</description></snippet>

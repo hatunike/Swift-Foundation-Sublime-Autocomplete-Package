@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-descriptionWithLocale(${1:AnyObject?})]]></content>
-	<tabTrigger>descriptionWithLocale</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDate -> String</description></snippet>

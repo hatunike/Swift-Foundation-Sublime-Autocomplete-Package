@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isEqualToString(${1:String})]]></content>
-	<tabTrigger>isEqualToString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> Bool</description></snippet>

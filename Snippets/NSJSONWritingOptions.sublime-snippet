@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSJSONWritingOptions
-]]></content>
-	<tabTrigger>NSJSONWritingOptions</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

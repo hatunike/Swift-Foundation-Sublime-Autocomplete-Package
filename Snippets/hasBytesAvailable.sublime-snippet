@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-hasBytesAvailable
-]]></content>
-	<tabTrigger>hasBytesAvailable</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-writeToFile(${1:String}, atomically:${2:Bool})]]></content>
-	<tabTrigger>writeToFile</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> Bool</description></snippet>

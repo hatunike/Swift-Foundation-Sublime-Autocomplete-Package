@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-encodeDataObject(${1:NSData})]]></content>
-	<tabTrigger>encodeDataObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

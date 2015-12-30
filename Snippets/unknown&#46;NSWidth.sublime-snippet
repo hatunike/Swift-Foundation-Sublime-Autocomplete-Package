@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSWidth(${1:NSRect})]]></content>
-	<tabTrigger>NSWidth</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> CGFloat</description></snippet>

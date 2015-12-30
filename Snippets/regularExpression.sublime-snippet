@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-regularExpression
-]]></content>
-	<tabTrigger>regularExpression</tabTrigger>
-	<scope>source.swift</scope>	<description>NSRegularExpression</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getObjects(inout:${1:[AnyObject]}, range:${2:NSRange})]]></content>
-	<tabTrigger>getObjects</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> void</description></snippet>

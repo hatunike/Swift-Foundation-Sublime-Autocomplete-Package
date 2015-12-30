@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalString(${1:UnsafePointer<NSDecimal>}, _:${2:AnyObject?})]]></content>
-	<tabTrigger>NSDecimalString</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> String</description></snippet>

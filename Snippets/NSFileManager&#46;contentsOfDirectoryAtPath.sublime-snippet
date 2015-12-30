@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-contentsOfDirectoryAtPath(${1:String})]]></content>
-	<tabTrigger>contentsOfDirectoryAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> [String]</description></snippet>

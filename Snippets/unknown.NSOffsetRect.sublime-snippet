@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSOffsetRect(${1:NSRect}, _:${2:CGFloat}, _:${3:CGFloat})]]></content>
-	<tabTrigger>NSOffsetRect</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> NSRect</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-indexOfObjectIdenticalTo(${1:AnyObject}, inRange:${2:NSRange})]]></content>
-	<tabTrigger>indexOfObjectIdenticalTo</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> Int</description></snippet>

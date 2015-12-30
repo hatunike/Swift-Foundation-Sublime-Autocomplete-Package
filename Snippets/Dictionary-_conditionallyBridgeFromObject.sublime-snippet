@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Dictionary._conditionallyBridgeFromObject(${1:NSDictionary}, inout:${2:Dictionary?})]]></content>
-	<tabTrigger>Dictionary._conditionallyBridgeFromObject</tabTrigger>
-	<scope>source.swift</scope>	<description>static Dictionary -> Bool</description></snippet>

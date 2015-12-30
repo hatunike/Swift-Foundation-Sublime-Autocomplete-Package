@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSBundle
-]]></content>
-	<tabTrigger>NSBundle</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

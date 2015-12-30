@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sortedArrayUsingComparator(${1:NSComparator})]]></content>
-	<tabTrigger>sortedArrayUsingComparator</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> [AnyObject]</description></snippet>

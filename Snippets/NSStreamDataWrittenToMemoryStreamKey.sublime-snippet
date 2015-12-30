@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSStreamDataWrittenToMemoryStreamKey
-]]></content>
-	<tabTrigger>NSStreamDataWrittenToMemoryStreamKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

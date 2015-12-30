@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSRecursiveLock
-]]></content>
-	<tabTrigger>NSRecursiveLock</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

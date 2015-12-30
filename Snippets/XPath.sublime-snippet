@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-XPath
-]]></content>
-	<tabTrigger>XPath</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

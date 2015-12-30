@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-localizedCaseInsensitiveCompare(${1:String})]]></content>
-	<tabTrigger>localizedCaseInsensitiveCompare</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> NSComparisonResult</description></snippet>

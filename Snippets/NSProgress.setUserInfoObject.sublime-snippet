@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setUserInfoObject(${1:AnyObject?}, forKey:${2:String})]]></content>
-	<tabTrigger>setUserInfoObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSProgress -> void</description></snippet>

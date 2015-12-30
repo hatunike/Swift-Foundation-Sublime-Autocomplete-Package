@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSStreamSOCKSErrorDomain
-]]></content>
-	<tabTrigger>NSStreamSOCKSErrorDomain</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

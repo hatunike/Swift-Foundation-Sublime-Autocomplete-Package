@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-persistence
-]]></content>
-	<tabTrigger>persistence</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURLCredentialPersistence</description></snippet>

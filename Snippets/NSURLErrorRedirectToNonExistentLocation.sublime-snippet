@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorRedirectToNonExistentLocation
-]]></content>
-	<tabTrigger>NSURLErrorRedirectToNonExistentLocation</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

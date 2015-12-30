@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-waitUntilDate(${1:NSDate})]]></content>
-	<tabTrigger>waitUntilDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCondition -> Bool</description></snippet>

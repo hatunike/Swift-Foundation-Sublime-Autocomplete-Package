@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSEdgeInsetsEqual(${1:NSEdgeInsets}, _:${2:NSEdgeInsets})]]></content>
-	<tabTrigger>NSEdgeInsetsEqual</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

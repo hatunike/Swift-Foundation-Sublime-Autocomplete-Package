@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isSubsetOfOrderedSet(${1:NSOrderedSet})]]></content>
-	<tabTrigger>isSubsetOfOrderedSet</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> Bool</description></snippet>

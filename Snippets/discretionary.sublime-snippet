@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-discretionary
-]]></content>
-	<tabTrigger>discretionary</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

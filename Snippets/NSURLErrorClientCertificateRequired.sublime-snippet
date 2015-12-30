@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorClientCertificateRequired
-]]></content>
-	<tabTrigger>NSURLErrorClientCertificateRequired</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

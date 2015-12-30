@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-encodeValueOfObjCType(${1:UnsafePointer<Int8>}, at:${2:UnsafePointer<Void>})]]></content>
-	<tabTrigger>encodeValueOfObjCType</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

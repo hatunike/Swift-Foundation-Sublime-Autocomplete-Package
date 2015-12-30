@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-classNamed(${1:String})]]></content>
-	<tabTrigger>classNamed</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSBundle -> AnyClass?</description></snippet>

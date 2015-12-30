@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-containsValueForKey(${1:String})]]></content>
-	<tabTrigger>containsValueForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> Bool</description></snippet>

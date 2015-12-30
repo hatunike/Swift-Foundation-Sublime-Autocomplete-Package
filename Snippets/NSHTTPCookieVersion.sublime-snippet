@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHTTPCookieVersion
-]]></content>
-	<tabTrigger>NSHTTPCookieVersion</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-negativeInfinitySymbol
-]]></content>
-	<tabTrigger>negativeInfinitySymbol</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

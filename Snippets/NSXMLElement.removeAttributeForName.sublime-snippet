@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeAttributeForName(${1:String})]]></content>
-	<tabTrigger>removeAttributeForName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLElement -> void</description></snippet>

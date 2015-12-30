@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLDTDNode
-]]></content>
-	<tabTrigger>NSXMLDTDNode</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

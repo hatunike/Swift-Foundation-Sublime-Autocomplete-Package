@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-persistentDomainForName(${1:String})]]></content>
-	<tabTrigger>persistentDomainForName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> [String</description></snippet>

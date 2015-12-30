@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isEqualToDate(${1:NSDate})]]></content>
-	<tabTrigger>isEqualToDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDate -> Bool</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unionSet(${1:Set<NSObject>})]]></content>
-	<tabTrigger>unionSet</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

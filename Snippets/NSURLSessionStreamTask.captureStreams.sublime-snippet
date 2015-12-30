@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-captureStreams(${1:})]]></content>
-	<tabTrigger>captureStreams</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSessionStreamTask -> void</description></snippet>

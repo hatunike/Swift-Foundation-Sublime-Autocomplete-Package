@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-indexLessThanIndex(${1:Int})]]></content>
-	<tabTrigger>indexLessThanIndex</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexSet -> Int</description></snippet>

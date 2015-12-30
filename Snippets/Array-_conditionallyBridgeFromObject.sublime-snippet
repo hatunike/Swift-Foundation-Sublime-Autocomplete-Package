@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Array._conditionallyBridgeFromObject(${1:NSArray}, inout:${2:Array?})]]></content>
-	<tabTrigger>Array._conditionallyBridgeFromObject</tabTrigger>
-	<scope>source.swift</scope>	<description>static Array -> Bool</description></snippet>

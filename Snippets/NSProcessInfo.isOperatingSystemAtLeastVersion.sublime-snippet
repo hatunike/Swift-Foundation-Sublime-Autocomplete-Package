@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isOperatingSystemAtLeastVersion(${1:NSOperatingSystemVersion})]]></content>
-	<tabTrigger>isOperatingSystemAtLeastVersion</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSProcessInfo -> Bool</description></snippet>

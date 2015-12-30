@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-running
-]]></content>
-	<tabTrigger>running</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

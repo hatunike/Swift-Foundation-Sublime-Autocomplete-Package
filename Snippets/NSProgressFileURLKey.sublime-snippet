@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSProgressFileURLKey
-]]></content>
-	<tabTrigger>NSProgressFileURLKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

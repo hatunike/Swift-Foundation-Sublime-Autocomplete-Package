@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHTTPCookieComment
-]]></content>
-	<tabTrigger>NSHTTPCookieComment</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addChild(${1:NSProgress}, withPendingUnitCount:${2:Int64})]]></content>
-	<tabTrigger>addChild</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSProgress -> void</description></snippet>

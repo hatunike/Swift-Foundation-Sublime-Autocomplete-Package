@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decomposedStringWithCanonicalMapping
-]]></content>
-	<tabTrigger>decomposedStringWithCanonicalMapping</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

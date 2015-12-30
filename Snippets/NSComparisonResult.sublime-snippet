@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSComparisonResult
-]]></content>
-	<tabTrigger>NSComparisonResult</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

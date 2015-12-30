@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeObjectForKey(${1:String})]]></content>
-	<tabTrigger>removeObjectForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

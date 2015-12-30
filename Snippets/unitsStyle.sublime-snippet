@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unitsStyle
-]]></content>
-	<tabTrigger>unitsStyle</tabTrigger>
-	<scope>source.swift</scope>	<description>NSDateComponentsFormatterUnitsStyle</description></snippet>

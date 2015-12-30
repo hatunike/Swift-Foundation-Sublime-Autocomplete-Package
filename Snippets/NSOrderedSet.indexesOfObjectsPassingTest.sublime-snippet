@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-indexesOfObjectsPassingTest(${1:AnyObject}, Int:${2:}, UnsafeMutablePointer<ObjCBool>:${3:})]]></content>
-	<tabTrigger>indexesOfObjectsPassingTest</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> Bool)</description></snippet>

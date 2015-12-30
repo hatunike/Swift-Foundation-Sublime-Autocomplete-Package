@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-weekday
-]]></content>
-	<tabTrigger>weekday</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

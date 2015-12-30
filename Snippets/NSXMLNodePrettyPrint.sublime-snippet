@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNodePrettyPrint
-]]></content>
-	<tabTrigger>NSXMLNodePrettyPrint</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

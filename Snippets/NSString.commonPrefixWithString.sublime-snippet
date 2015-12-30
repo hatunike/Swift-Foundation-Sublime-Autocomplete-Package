@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-commonPrefixWithString(${1:String}, options:${2:NSStringCompareOptions})]]></content>
-	<tabTrigger>commonPrefixWithString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

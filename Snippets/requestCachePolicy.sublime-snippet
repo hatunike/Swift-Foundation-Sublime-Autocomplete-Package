@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-requestCachePolicy
-]]></content>
-	<tabTrigger>requestCachePolicy</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURLRequestCachePolicy</description></snippet>

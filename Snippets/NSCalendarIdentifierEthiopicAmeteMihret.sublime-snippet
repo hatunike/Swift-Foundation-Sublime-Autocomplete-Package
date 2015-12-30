@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCalendarIdentifierEthiopicAmeteMihret
-]]></content>
-	<tabTrigger>NSCalendarIdentifierEthiopicAmeteMihret</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

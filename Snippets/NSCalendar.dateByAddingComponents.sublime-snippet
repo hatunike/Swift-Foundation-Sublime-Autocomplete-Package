@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-dateByAddingComponents(${1:NSDateComponents}, toDate:${2:NSDate}, options:${3:NSCalendarOptions})]]></content>
-	<tabTrigger>dateByAddingComponents</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> NSDate?</description></snippet>

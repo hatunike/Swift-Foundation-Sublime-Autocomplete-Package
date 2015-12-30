@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setCookies(${1:[NSHTTPCookie]}, forURL:${2:NSURL?}, mainDocumentURL:${3:NSURL?})]]></content>
-	<tabTrigger>setCookies</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSHTTPCookieStorage -> void</description></snippet>

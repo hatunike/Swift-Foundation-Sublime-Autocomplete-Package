@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-enumerateDatesStartingAfterDate(${1:NSDate}, matchingComponents:${2:NSDateComponents}, options:${3:NSCalendarOptions}, usingBlock:${4:NSDate?}, Bool:${5:}, UnsafeMutablePointer<ObjCBool>:${6:})]]></content>
-	<tabTrigger>enumerateDatesStartingAfterDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> Void)</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removePersistentDomainForName(${1:String})]]></content>
-	<tabTrigger>removePersistentDomainForName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

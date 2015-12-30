@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-arrayForKey(${1:String})]]></content>
-	<tabTrigger>arrayForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> [AnyObject]?</description></snippet>

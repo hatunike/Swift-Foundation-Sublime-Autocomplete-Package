@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Dictionary._forceBridgeFromObject(${1:NSDictionary}, inout:${2:Dictionary?})]]></content>
-	<tabTrigger>Dictionary._forceBridgeFromObject</tabTrigger>
-	<scope>source.swift</scope>	<description>static Dictionary -> void</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-condition
-]]></content>
-	<tabTrigger>condition</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

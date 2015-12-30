@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDirectoryEnumerationOptions
-]]></content>
-	<tabTrigger>NSDirectoryEnumerationOptions</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

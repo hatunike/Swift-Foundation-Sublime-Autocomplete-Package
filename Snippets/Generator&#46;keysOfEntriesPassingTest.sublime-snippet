@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-keysOfEntriesPassingTest(${1:AnyObject}, AnyObject:${2:}, UnsafeMutablePointer<ObjCBool>:${3:})]]></content>
-	<tabTrigger>keysOfEntriesPassingTest</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> Bool)</description></snippet>

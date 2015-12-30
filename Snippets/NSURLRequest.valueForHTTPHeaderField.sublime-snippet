@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-valueForHTTPHeaderField(${1:String})]]></content>
-	<tabTrigger>valueForHTTPHeaderField</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLRequest -> String?</description></snippet>

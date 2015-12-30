@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-enumerateRangesWithOptions(${1:NSEnumerationOptions}, usingBlock:${2:NSRange}, UnsafeMutablePointer<ObjCBool>:${3:})]]></content>
-	<tabTrigger>enumerateRangesWithOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexSet -> Void)</description></snippet>

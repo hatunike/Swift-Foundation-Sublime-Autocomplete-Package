@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isEqualToIndexSet(${1:NSIndexSet})]]></content>
-	<tabTrigger>isEqualToIndexSet</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexSet -> Bool</description></snippet>

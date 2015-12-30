@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-collapsesLargestUnit
-]]></content>
-	<tabTrigger>collapsesLargestUnit</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

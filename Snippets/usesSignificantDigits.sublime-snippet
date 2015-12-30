@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-usesSignificantDigits
-]]></content>
-	<tabTrigger>usesSignificantDigits</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

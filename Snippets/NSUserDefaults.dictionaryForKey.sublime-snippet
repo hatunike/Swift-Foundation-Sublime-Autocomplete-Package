@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-dictionaryForKey(${1:String})]]></content>
-	<tabTrigger>dictionaryForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> [String</description></snippet>

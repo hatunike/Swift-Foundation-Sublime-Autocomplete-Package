@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getObjects(inout:${1:[AnyObject]}, inout:${2:[AnyObject]}, count:${3:Int})]]></content>
-	<tabTrigger>getObjects</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> void</description></snippet>

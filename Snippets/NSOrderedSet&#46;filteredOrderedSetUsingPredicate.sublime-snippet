@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-filteredOrderedSetUsingPredicate(${1:NSPredicate})]]></content>
-	<tabTrigger>filteredOrderedSetUsingPredicate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> NSOrderedSet</description></snippet>

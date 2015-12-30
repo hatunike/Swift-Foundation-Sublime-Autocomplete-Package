@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-acceptConnectionInBackgroundAndNotifyForModes(${1:[String]?})]]></content>
-	<tabTrigger>acceptConnectionInBackgroundAndNotifyForModes</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileHandle -> void</description></snippet>

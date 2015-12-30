@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isValidDateInCalendar(${1:NSCalendar})]]></content>
-	<tabTrigger>isValidDateInCalendar</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDateComponents -> Bool</description></snippet>

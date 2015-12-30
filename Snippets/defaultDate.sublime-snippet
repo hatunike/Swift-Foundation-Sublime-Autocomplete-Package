@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-defaultDate
-]]></content>
-	<tabTrigger>defaultDate</tabTrigger>
-	<scope>source.swift</scope>	<description>NSDate</description></snippet>

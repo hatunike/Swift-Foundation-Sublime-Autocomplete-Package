@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-secondaryGroupingSize
-]]></content>
-	<tabTrigger>secondaryGroupingSize</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

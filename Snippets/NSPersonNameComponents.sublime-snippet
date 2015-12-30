@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSPersonNameComponents
-]]></content>
-	<tabTrigger>NSPersonNameComponents</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

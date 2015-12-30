@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileModificationDate
-]]></content>
-	<tabTrigger>NSFileModificationDate</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

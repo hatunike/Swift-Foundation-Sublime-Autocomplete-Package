@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-write(${1:UnsafePointer<UInt8>}, maxLength:${2:Int})]]></content>
-	<tabTrigger>write</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOutputStream -> Int</description></snippet>

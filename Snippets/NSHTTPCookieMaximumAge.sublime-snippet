@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHTTPCookieMaximumAge
-]]></content>
-	<tabTrigger>NSHTTPCookieMaximumAge</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

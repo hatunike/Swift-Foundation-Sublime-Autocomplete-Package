@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-currentMemoryUsage
-]]></content>
-	<tabTrigger>currentMemoryUsage</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

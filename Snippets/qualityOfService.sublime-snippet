@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-qualityOfService
-]]></content>
-	<tabTrigger>qualityOfService</tabTrigger>
-	<scope>source.swift</scope>	<description>NSQualityOfService</description></snippet>

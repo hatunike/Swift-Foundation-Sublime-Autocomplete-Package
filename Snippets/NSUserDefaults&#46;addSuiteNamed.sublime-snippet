@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addSuiteNamed(${1:String})]]></content>
-	<tabTrigger>addSuiteNamed</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

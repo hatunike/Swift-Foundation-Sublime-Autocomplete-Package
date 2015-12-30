@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-classForKeyedArchiver
-]]></content>
-	<tabTrigger>classForKeyedArchiver</tabTrigger>
-	<scope>source.swift</scope>	<description>AnyClass</description></snippet>

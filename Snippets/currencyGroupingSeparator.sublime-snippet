@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-currencyGroupingSeparator
-]]></content>
-	<tabTrigger>currencyGroupingSeparator</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

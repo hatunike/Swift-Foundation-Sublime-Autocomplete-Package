@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileReferenceCount
-]]></content>
-	<tabTrigger>NSFileReferenceCount</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMutableCharacterSet
-]]></content>
-	<tabTrigger>NSMutableCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

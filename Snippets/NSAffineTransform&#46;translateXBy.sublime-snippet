@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-translateXBy(${1:CGFloat}, yBy:${2:CGFloat})]]></content>
-	<tabTrigger>translateXBy</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSAffineTransform -> void</description></snippet>

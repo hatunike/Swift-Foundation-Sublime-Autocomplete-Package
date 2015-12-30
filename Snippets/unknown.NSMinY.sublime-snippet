@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMinY(${1:NSRect})]]></content>
-	<tabTrigger>NSMinY</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> CGFloat</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-synchronizeFile(${1:})]]></content>
-	<tabTrigger>synchronizeFile</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileHandle -> void</description></snippet>

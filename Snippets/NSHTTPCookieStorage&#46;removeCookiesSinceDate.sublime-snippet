@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeCookiesSinceDate(${1:NSDate})]]></content>
-	<tabTrigger>removeCookiesSinceDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSHTTPCookieStorage -> void</description></snippet>

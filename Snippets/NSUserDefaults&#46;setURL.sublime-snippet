@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setURL(${1:NSURL?}, forKey:${2:String})]]></content>
-	<tabTrigger>setURL</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

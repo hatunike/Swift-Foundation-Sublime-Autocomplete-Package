@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-encodeInteger(${1:Int}, forKey:${2:String})]]></content>
-	<tabTrigger>encodeInteger</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

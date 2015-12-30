@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-classNameForClass(${1:AnyClass})]]></content>
-	<tabTrigger>classNameForClass</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSKeyedArchiver -> String?</description></snippet>

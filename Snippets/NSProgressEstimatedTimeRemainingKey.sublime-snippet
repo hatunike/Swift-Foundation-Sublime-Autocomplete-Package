@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSProgressEstimatedTimeRemainingKey
-]]></content>
-	<tabTrigger>NSProgressEstimatedTimeRemainingKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

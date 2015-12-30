@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-displayNameAtPath(${1:String})]]></content>
-	<tabTrigger>displayNameAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> String</description></snippet>

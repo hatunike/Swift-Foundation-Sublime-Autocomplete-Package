@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorFailingURLPeerTrustErrorKey
-]]></content>
-	<tabTrigger>NSURLErrorFailingURLPeerTrustErrorKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

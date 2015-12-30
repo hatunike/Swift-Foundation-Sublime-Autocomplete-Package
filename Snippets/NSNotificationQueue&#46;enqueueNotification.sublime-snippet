@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-enqueueNotification(${1:NSNotification}, postingStyle:${2:NSPostingStyle}, coalesceMask:${3:NSNotificationCoalescing}, forModes:${4:[String]?})]]></content>
-	<tabTrigger>enqueueNotification</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSNotificationQueue -> void</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-roundingMode
-]]></content>
-	<tabTrigger>roundingMode</tabTrigger>
-	<scope>source.swift</scope>	<description>NSNumberFormatterRoundingMode</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-generatesDecimalNumbers
-]]></content>
-	<tabTrigger>generatesDecimalNumbers</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

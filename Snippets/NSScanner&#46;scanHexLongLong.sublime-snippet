@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-scanHexLongLong(${1:})]]></content>
-	<tabTrigger>scanHexLongLong</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSScanner -> UInt64?</description></snippet>

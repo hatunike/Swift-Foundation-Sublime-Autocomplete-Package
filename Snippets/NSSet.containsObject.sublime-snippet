@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-containsObject(${1:AnyObject})]]></content>
-	<tabTrigger>containsObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSSet -> Bool</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-attribute(${1:String}, atIndex:${2:Int}, longestEffectiveRange:${3:NSRangePointer}, inRange:${4:NSRange})]]></content>
-	<tabTrigger>attribute</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSAttributedString -> AnyObject?</description></snippet>

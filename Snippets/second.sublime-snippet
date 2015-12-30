@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-second
-]]></content>
-	<tabTrigger>second</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

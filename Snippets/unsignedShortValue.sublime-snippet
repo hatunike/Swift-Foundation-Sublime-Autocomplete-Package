@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unsignedShortValue
-]]></content>
-	<tabTrigger>unsignedShortValue</tabTrigger>
-	<scope>source.swift</scope>	<description>UInt</description></snippet>

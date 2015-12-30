@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-key
-]]></content>
-	<tabTrigger>key</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

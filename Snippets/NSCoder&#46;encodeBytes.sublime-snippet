@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-encodeBytes(${1:UnsafePointer<UInt8>}, length:${2:Int}, forKey:${3:String})]]></content>
-	<tabTrigger>encodeBytes</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

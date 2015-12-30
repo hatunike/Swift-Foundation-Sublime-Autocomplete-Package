@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSThread
-]]></content>
-	<tabTrigger>NSThread</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

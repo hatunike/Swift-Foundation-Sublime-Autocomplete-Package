@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decimalNumberBySubtracting(${1:NSDecimalNumber}, withBehavior:${2:NSDecimalNumberBehaviors?})]]></content>
-	<tabTrigger>decimalNumberBySubtracting</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDecimalNumber -> NSDecimalNumber</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-replaceBytesInRange(${1:NSRange}, withBytes:${2:UnsafePointer<Void>}, length:${3:Int})]]></content>
-	<tabTrigger>replaceBytesInRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableData -> void</description></snippet>

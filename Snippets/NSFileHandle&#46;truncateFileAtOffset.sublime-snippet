@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-truncateFileAtOffset(${1:UInt64})]]></content>
-	<tabTrigger>truncateFileAtOffset</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileHandle -> void</description></snippet>

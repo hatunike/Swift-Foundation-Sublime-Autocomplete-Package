@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-allowedExternalEntityURLs
-]]></content>
-	<tabTrigger>allowedExternalEntityURLs</tabTrigger>
-	<scope>source.swift</scope>	<description>Set</description></snippet>

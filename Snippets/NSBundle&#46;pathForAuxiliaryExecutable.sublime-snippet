@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-pathForAuxiliaryExecutable(${1:String})]]></content>
-	<tabTrigger>pathForAuxiliaryExecutable</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSBundle -> String?</description></snippet>

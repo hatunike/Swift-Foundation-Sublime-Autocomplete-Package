@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-tryLock(${1:})]]></content>
-	<tabTrigger>tryLock</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSLock -> Bool</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-caseSensitive
-]]></content>
-	<tabTrigger>caseSensitive</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-fileExistsAtPath(${1:String}, isDirectory:${2:UnsafeMutablePointer<ObjCBool>})]]></content>
-	<tabTrigger>fileExistsAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> Bool</description></snippet>

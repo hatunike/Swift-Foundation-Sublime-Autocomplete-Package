@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-appStoreReceiptURL
-]]></content>
-	<tabTrigger>appStoreReceiptURL</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURL</description></snippet>

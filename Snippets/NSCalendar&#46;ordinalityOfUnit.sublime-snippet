@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-ordinalityOfUnit(${1:NSCalendarUnit}, inUnit:${2:NSCalendarUnit}, forDate:${3:NSDate})]]></content>
-	<tabTrigger>ordinalityOfUnit</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> Int</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-invertedSet
-]]></content>
-	<tabTrigger>invertedSet</tabTrigger>
-	<scope>source.swift</scope>	<description>NSCharacterSet</description></snippet>

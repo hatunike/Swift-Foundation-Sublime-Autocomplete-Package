@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-hasDirectoryPath
-]]></content>
-	<tabTrigger>hasDirectoryPath</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

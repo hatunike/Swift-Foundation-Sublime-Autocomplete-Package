@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-abbreviationForDate(${1:NSDate})]]></content>
-	<tabTrigger>abbreviationForDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSTimeZone -> String?</description></snippet>

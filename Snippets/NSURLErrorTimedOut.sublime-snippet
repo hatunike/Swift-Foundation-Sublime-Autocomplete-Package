@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorTimedOut
-]]></content>
-	<tabTrigger>NSURLErrorTimedOut</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

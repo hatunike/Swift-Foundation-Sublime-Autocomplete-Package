@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addOperations(${1:[NSOperation]}, waitUntilFinished:${2:Bool})]]></content>
-	<tabTrigger>addOperations</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOperationQueue -> void</description></snippet>

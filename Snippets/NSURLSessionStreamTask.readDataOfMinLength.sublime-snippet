@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-readDataOfMinLength(${1:Int}, maxLength:${2:Int}, timeout:${3:NSTimeInterval}, completionHandler:${4:NSData?}, Bool:${5:}, NSError?:${6:})]]></content>
-	<tabTrigger>readDataOfMinLength</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSessionStreamTask -> Void)</description></snippet>

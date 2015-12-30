@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setObject(${1:AnyObject?}, forKey:${2:String})]]></content>
-	<tabTrigger>setObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

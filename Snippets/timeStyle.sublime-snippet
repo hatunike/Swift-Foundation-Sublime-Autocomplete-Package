@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-timeStyle
-]]></content>
-	<tabTrigger>timeStyle</tabTrigger>
-	<scope>source.swift</scope>	<description>NSDateIntervalFormatterStyle</description></snippet>

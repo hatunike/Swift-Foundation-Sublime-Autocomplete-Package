@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorCannotLoadFromNetwork
-]]></content>
-	<tabTrigger>NSURLErrorCannotLoadFromNetwork</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

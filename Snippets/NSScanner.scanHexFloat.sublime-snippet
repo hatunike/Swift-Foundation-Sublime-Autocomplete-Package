@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-scanHexFloat(${1:})]]></content>
-	<tabTrigger>scanHexFloat</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSScanner -> Float?</description></snippet>

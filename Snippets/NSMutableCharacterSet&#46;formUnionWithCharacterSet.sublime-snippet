@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-formUnionWithCharacterSet(${1:NSCharacterSet})]]></content>
-	<tabTrigger>formUnionWithCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableCharacterSet -> void</description></snippet>

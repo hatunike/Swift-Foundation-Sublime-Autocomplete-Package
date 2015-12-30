@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-processName
-]]></content>
-	<tabTrigger>processName</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

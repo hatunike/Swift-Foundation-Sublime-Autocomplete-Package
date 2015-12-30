@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-containsIndexesInRange(${1:NSRange})]]></content>
-	<tabTrigger>containsIndexesInRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexSet -> Bool</description></snippet>

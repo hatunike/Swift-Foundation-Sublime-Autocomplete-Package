@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-valueForComponent(${1:NSCalendarUnit})]]></content>
-	<tabTrigger>valueForComponent</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDateComponents -> Int</description></snippet>

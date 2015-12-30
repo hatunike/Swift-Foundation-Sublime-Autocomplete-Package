@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringFromTimeInterval(${1:NSTimeInterval})]]></content>
-	<tabTrigger>stringFromTimeInterval</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDateComponentsFormatter -> String?</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-code
-]]></content>
-	<tabTrigger>code</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

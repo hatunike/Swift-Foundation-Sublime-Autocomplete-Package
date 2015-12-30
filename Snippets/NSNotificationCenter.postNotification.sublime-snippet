@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-postNotification(${1:NSNotification})]]></content>
-	<tabTrigger>postNotification</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSNotificationCenter -> void</description></snippet>

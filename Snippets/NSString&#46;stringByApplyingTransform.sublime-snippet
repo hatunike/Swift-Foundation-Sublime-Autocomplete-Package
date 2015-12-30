@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringByApplyingTransform(${1:String}, reverse:${2:Bool})]]></content>
-	<tabTrigger>stringByApplyingTransform</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> String?</description></snippet>

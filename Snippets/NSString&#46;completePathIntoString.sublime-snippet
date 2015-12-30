@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-completePathIntoString(inout:${1:NSString?}, caseSensitive:${2:Bool}, inout:${3:[NSString]}, filterTypes:${4:[String]?})]]></content>
-	<tabTrigger>completePathIntoString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> Int</description></snippet>

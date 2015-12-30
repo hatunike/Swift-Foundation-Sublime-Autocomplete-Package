@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-recoveryAttempter
-]]></content>
-	<tabTrigger>recoveryAttempter</tabTrigger>
-	<scope>source.swift</scope>	<description>AnyObject</description></snippet>

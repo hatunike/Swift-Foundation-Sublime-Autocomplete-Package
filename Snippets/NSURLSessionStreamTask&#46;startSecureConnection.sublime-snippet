@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-startSecureConnection(${1:})]]></content>
-	<tabTrigger>startSecureConnection</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSessionStreamTask -> void</description></snippet>

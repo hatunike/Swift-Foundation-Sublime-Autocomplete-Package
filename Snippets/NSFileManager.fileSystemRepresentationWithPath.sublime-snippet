@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-fileSystemRepresentationWithPath(${1:String})]]></content>
-	<tabTrigger>fileSystemRepresentationWithPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> UnsafePointer Int8 </description></snippet>

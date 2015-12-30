@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-registerDefaults(${1:[String })]]></content>
-	<tabTrigger>registerDefaults</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

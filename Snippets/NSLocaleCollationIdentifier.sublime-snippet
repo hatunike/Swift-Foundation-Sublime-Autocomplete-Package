@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocaleCollationIdentifier
-]]></content>
-	<tabTrigger>NSLocaleCollationIdentifier</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

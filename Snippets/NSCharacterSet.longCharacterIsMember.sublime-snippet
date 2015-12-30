@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-longCharacterIsMember(${1:UTF32Char})]]></content>
-	<tabTrigger>longCharacterIsMember</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCharacterSet -> Bool</description></snippet>

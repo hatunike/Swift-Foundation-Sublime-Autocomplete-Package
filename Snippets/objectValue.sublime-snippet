@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-objectValue
-]]></content>
-	<tabTrigger>objectValue</tabTrigger>
-	<scope>source.swift</scope>	<description>AnyObject</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-detach(${1:})]]></content>
-	<tabTrigger>detach</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLNode -> void</description></snippet>

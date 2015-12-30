@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSUnderlyingErrorKey
-]]></content>
-	<tabTrigger>NSUnderlyingErrorKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

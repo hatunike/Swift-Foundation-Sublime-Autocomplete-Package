@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-exchangeObjectAtIndex(${1:Int}, withObjectAtIndex:${2:Int})]]></content>
-	<tabTrigger>exchangeObjectAtIndex</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableArray -> void</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-allowEvaluation(${1:})]]></content>
-	<tabTrigger>allowEvaluation</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSExpression -> void</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-encodePropertyList(${1:AnyObject})]]></content>
-	<tabTrigger>encodePropertyList</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

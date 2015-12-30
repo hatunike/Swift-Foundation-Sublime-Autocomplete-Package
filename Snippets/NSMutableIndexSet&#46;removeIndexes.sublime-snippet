@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeIndexes(${1:NSIndexSet})]]></content>
-	<tabTrigger>removeIndexes</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableIndexSet -> void</description></snippet>

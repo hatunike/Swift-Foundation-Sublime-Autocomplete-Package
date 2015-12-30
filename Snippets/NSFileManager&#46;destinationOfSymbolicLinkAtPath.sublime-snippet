@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-destinationOfSymbolicLinkAtPath(${1:String})]]></content>
-	<tabTrigger>destinationOfSymbolicLinkAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> String</description></snippet>

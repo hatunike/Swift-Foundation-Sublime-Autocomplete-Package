@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removePort(${1:NSPort}, forMode:${2:String})]]></content>
-	<tabTrigger>removePort</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSRunLoop -> void</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-URLByDeletingPathExtension
-]]></content>
-	<tabTrigger>URLByDeletingPathExtension</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURL</description></snippet>

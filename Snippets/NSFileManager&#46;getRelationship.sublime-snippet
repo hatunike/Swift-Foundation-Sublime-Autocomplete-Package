@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getRelationship(${1:UnsafeMutablePointer<NSURLRelationship>}, ofDirectory:${2:NSSearchPathDirectory}, inDomain:${3:NSSearchPathDomainMask}, toItemAtURL:${4:NSURL})]]></content>
-	<tabTrigger>getRelationship</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

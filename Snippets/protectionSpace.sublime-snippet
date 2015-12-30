@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-protectionSpace
-]]></content>
-	<tabTrigger>protectionSpace</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURLProtectionSpace</description></snippet>

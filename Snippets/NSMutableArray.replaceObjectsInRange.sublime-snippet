@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-replaceObjectsInRange(${1:NSRange}, withObjectsFromArray:${2:[AnyObject]})]]></content>
-	<tabTrigger>replaceObjectsInRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableArray -> void</description></snippet>

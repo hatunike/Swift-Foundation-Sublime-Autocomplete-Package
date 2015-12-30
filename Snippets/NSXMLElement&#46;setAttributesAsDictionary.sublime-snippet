@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setAttributesAsDictionary(${1:[NSObject })]]></content>
-	<tabTrigger>setAttributesAsDictionary</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLElement -> void</description></snippet>

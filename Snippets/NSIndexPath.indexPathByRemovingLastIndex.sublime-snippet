@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-indexPathByRemovingLastIndex(${1:})]]></content>
-	<tabTrigger>indexPathByRemovingLastIndex</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexPath -> NSIndexPath</description></snippet>

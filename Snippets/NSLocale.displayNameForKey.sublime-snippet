@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-displayNameForKey(${1:String}, value:${2:String})]]></content>
-	<tabTrigger>displayNameForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSLocale -> String?</description></snippet>

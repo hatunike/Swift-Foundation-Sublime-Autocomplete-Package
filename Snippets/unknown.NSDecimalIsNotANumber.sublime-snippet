@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalIsNotANumber(${1:UnsafePointer<NSDecimal>})]]></content>
-	<tabTrigger>NSDecimalIsNotANumber</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

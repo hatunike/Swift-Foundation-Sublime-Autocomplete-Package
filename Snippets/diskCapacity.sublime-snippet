@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-diskCapacity
-]]></content>
-	<tabTrigger>diskCapacity</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

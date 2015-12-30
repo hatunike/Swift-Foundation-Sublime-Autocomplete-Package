@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getAllTasksWithCompletionHandler(${1:[NSURLSessionTask] -> Void})]]></content>
-	<tabTrigger>getAllTasksWithCompletionHandler</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSession -> Void)</description></snippet>

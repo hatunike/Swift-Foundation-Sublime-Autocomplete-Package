@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-indexOfObjectPassingTest(${1:AnyObject}, Int:${2:}, UnsafeMutablePointer<ObjCBool>:${3:})]]></content>
-	<tabTrigger>indexOfObjectPassingTest</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> Bool)</description></snippet>

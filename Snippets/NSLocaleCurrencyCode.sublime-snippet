@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocaleCurrencyCode
-]]></content>
-	<tabTrigger>NSLocaleCurrencyCode</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

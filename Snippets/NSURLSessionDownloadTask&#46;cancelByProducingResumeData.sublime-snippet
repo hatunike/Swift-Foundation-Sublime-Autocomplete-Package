@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-cancelByProducingResumeData(${1:NSData? -> Void})]]></content>
-	<tabTrigger>cancelByProducingResumeData</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSessionDownloadTask -> Void)</description></snippet>

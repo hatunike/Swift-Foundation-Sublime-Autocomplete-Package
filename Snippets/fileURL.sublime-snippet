@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-fileURL
-]]></content>
-	<tabTrigger>fileURL</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

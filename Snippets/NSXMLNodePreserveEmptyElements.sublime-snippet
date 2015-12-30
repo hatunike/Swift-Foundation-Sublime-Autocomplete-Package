@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNodePreserveEmptyElements
-]]></content>
-	<tabTrigger>NSXMLNodePreserveEmptyElements</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSIntersectionRange(${1:NSRange}, _:${2:NSRange})]]></content>
-	<tabTrigger>NSIntersectionRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> NSRange</description></snippet>

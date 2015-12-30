@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-wait(${1:})]]></content>
-	<tabTrigger>wait</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCondition -> void</description></snippet>

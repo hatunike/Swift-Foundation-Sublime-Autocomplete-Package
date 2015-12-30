@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSEqualRanges(${1:NSRange}, _:${2:NSRange})]]></content>
-	<tabTrigger>NSEqualRanges</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

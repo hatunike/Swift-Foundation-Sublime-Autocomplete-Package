@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-moveItemAtPath(${1:String}, toPath:${2:String})]]></content>
-	<tabTrigger>moveItemAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

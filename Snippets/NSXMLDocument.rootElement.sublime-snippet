@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-rootElement(${1:})]]></content>
-	<tabTrigger>rootElement</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLDocument -> NSXMLElement?</description></snippet>

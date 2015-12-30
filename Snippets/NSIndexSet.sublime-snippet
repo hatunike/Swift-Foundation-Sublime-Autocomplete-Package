@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSIndexSet
-]]></content>
-	<tabTrigger>NSIndexSet</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

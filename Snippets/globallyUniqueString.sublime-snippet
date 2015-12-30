@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-globallyUniqueString
-]]></content>
-	<tabTrigger>globallyUniqueString</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

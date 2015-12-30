@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isEqualToHost(${1:NSHost})]]></content>
-	<tabTrigger>isEqualToHost</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSHost -> Bool</description></snippet>

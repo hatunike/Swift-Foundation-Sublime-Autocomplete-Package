@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decodeTopLevelObject(${1:})]]></content>
-	<tabTrigger>decodeTopLevelObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> AnyObject?</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addPort(${1:NSPort}, forMode:${2:String})]]></content>
-	<tabTrigger>addPort</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSRunLoop -> void</description></snippet>

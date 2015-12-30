@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addObjects(${1:UnsafePointer<AnyObject?>}, count:${2:Int})]]></content>
-	<tabTrigger>addObjects</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

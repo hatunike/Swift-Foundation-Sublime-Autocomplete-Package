@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringByPaddingToLength(${1:Int}, withString:${2:String}, startingAtIndex:${3:Int})]]></content>
-	<tabTrigger>stringByPaddingToLength</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

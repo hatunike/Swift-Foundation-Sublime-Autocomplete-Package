@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNodePreserveDTD
-]]></content>
-	<tabTrigger>NSXMLNodePreserveDTD</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

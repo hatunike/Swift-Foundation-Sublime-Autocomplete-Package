@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-cancelAllOperations(${1:})]]></content>
-	<tabTrigger>cancelAllOperations</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOperationQueue -> void</description></snippet>

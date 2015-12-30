@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-compare(${1:String}, options:${2:NSStringCompareOptions}, range:${3:NSRange}, locale:${4:AnyObject?})]]></content>
-	<tabTrigger>compare</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> NSComparisonResult</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setRootElement(${1:NSXMLElement})]]></content>
-	<tabTrigger>setRootElement</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLDocument -> void</description></snippet>

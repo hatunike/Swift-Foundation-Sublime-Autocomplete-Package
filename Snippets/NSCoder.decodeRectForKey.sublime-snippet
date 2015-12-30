@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decodeRectForKey(${1:String})]]></content>
-	<tabTrigger>decodeRectForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> NSRect</description></snippet>

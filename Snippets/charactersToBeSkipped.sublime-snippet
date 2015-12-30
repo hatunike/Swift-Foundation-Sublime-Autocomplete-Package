@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-charactersToBeSkipped
-]]></content>
-	<tabTrigger>charactersToBeSkipped</tabTrigger>
-	<scope>source.swift</scope>	<description>NSCharacterSet</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLSessionDownloadTaskResumeData
-]]></content>
-	<tabTrigger>NSURLSessionDownloadTaskResumeData</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

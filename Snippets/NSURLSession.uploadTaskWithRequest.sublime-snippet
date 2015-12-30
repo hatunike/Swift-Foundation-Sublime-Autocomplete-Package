@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-uploadTaskWithRequest(${1:NSURLRequest}, fromData:${2:NSData?}, completionHandler:${3:NSData?}, NSURLResponse?:${4:}, NSError?:${5:})]]></content>
-	<tabTrigger>uploadTaskWithRequest</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSession -> Void)</description></snippet>

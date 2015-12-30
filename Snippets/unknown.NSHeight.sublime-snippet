@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHeight(${1:NSRect})]]></content>
-	<tabTrigger>NSHeight</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> CGFloat</description></snippet>

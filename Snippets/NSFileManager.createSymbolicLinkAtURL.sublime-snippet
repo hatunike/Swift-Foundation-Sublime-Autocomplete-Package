@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-createSymbolicLinkAtURL(${1:NSURL}, withDestinationURL:${2:NSURL})]]></content>
-	<tabTrigger>createSymbolicLinkAtURL</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

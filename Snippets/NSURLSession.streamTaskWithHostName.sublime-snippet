@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-streamTaskWithHostName(${1:String}, port:${2:Int})]]></content>
-	<tabTrigger>streamTaskWithHostName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSession -> NSURLSessionStreamTask</description></snippet>

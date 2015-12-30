@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-transformSize(${1:NSSize})]]></content>
-	<tabTrigger>transformSize</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSAffineTransform -> NSSize</description></snippet>

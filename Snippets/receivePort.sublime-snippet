@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-receivePort
-]]></content>
-	<tabTrigger>receivePort</tabTrigger>
-	<scope>source.swift</scope>	<description>NSPort</description></snippet>

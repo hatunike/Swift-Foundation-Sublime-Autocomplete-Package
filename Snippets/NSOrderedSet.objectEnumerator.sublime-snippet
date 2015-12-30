@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-objectEnumerator(${1:})]]></content>
-	<tabTrigger>objectEnumerator</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> NSEnumerator</description></snippet>

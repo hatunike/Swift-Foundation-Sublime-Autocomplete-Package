@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-uppercaseString
-]]></content>
-	<tabTrigger>uppercaseString</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

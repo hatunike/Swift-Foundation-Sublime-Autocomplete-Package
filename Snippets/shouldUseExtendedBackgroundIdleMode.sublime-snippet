@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-shouldUseExtendedBackgroundIdleMode
-]]></content>
-	<tabTrigger>shouldUseExtendedBackgroundIdleMode</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

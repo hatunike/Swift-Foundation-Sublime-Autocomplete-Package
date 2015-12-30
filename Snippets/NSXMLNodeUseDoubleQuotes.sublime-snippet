@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNodeUseDoubleQuotes
-]]></content>
-	<tabTrigger>NSXMLNodeUseDoubleQuotes</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

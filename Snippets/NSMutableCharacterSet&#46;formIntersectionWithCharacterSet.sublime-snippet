@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-formIntersectionWithCharacterSet(${1:NSCharacterSet})]]></content>
-	<tabTrigger>formIntersectionWithCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableCharacterSet -> void</description></snippet>

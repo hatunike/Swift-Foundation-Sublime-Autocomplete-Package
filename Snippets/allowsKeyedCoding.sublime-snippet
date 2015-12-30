@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-allowsKeyedCoding
-]]></content>
-	<tabTrigger>allowsKeyedCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

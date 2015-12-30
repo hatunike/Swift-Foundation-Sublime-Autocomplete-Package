@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-fire(${1:})]]></content>
-	<tabTrigger>fire</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSTimer -> void</description></snippet>

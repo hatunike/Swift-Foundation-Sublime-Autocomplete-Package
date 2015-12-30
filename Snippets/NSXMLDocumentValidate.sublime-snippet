@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLDocumentValidate
-]]></content>
-	<tabTrigger>NSXMLDocumentValidate</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-enumerateLinesUsingBlock(${1:String}, UnsafeMutablePointer<ObjCBool>:${2:})]]></content>
-	<tabTrigger>enumerateLinesUsingBlock</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> Void)</description></snippet>

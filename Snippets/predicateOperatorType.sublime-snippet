@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-predicateOperatorType
-]]></content>
-	<tabTrigger>predicateOperatorType</tabTrigger>
-	<scope>source.swift</scope>	<description>NSPredicateOperatorType</description></snippet>

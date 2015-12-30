@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-encodeByrefObject(${1:AnyObject?})]]></content>
-	<tabTrigger>encodeByrefObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

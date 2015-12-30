@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDataWritingOptions
-]]></content>
-	<tabTrigger>NSDataWritingOptions</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

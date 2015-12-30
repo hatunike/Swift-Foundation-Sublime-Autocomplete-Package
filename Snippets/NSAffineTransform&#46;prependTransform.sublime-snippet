@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-prependTransform(${1:NSAffineTransform})]]></content>
-	<tabTrigger>prependTransform</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSAffineTransform -> void</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-cachedResponse
-]]></content>
-	<tabTrigger>cachedResponse</tabTrigger>
-	<scope>source.swift</scope>	<description>NSCachedURLResponse</description></snippet>

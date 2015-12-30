@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocaleGroupingSeparator
-]]></content>
-	<tabTrigger>NSLocaleGroupingSeparator</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

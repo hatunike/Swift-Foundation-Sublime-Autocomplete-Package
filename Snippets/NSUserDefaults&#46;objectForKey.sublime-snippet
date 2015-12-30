@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-objectForKey(${1:String})]]></content>
-	<tabTrigger>objectForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> AnyObject?</description></snippet>

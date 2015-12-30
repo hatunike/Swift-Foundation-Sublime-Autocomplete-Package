@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-localizedName(${1:NSTimeZoneNameStyle}, locale:${2:NSLocale?})]]></content>
-	<tabTrigger>localizedName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSTimeZone -> String?</description></snippet>

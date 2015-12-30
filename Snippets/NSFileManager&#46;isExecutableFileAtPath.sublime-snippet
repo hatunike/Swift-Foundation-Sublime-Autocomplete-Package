@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isExecutableFileAtPath(${1:String})]]></content>
-	<tabTrigger>isExecutableFileAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> Bool</description></snippet>

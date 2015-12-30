@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorServerCertificateHasBadDate
-]]></content>
-	<tabTrigger>NSURLErrorServerCertificateHasBadDate</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

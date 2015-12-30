@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setString(${1:String})]]></content>
-	<tabTrigger>setString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableString -> void</description></snippet>

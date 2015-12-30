@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-interrupt(${1:})]]></content>
-	<tabTrigger>interrupt</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSTask -> void</description></snippet>

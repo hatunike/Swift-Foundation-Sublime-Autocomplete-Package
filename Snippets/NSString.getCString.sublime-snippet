@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getCString(${1:UnsafeMutablePointer<Int8>}, maxLength:${2:Int}, encoding:${3:UInt})]]></content>
-	<tabTrigger>getCString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> Bool</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-range
-]]></content>
-	<tabTrigger>range</tabTrigger>
-	<scope>source.swift</scope>	<description>NSRange</description></snippet>

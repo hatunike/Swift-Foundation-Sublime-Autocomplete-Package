@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-becomeCurrentWithPendingUnitCount(${1:Int64})]]></content>
-	<tabTrigger>becomeCurrentWithPendingUnitCount</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSProgress -> void</description></snippet>

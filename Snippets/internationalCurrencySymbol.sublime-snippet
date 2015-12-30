@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-internationalCurrencySymbol
-]]></content>
-	<tabTrigger>internationalCurrencySymbol</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

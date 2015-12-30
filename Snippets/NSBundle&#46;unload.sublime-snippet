@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unload(${1:})]]></content>
-	<tabTrigger>unload</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSBundle -> Bool</description></snippet>

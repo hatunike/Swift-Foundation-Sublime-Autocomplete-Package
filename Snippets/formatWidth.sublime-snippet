@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-formatWidth
-]]></content>
-	<tabTrigger>formatWidth</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

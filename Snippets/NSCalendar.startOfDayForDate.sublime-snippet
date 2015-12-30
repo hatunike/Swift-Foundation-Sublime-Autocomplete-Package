@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-startOfDayForDate(${1:NSDate})]]></content>
-	<tabTrigger>startOfDayForDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> NSDate</description></snippet>

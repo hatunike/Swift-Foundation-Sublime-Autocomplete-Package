@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-descriptionWithLocale(${1:AnyObject?}, indent:${2:Int})]]></content>
-	<tabTrigger>descriptionWithLocale</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> String</description></snippet>

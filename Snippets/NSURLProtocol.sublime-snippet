@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtocol
-]]></content>
-	<tabTrigger>NSURLProtocol</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

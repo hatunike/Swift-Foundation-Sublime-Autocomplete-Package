@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-localizedStringForKey(${1:String}, value:${2:String?}, table:${3:String?})]]></content>
-	<tabTrigger>localizedStringForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSBundle -> String</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-leftExpression
-]]></content>
-	<tabTrigger>leftExpression</tabTrigger>
-	<scope>source.swift</scope>	<description>NSExpression</description></snippet>

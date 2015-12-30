@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMakeRange(${1:Int}, _:${2:Int})]]></content>
-	<tabTrigger>NSMakeRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> NSRange</description></snippet>

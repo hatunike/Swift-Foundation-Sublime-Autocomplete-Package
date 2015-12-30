@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-encodeWithCoder(${1:NSCoder})]]></content>
-	<tabTrigger>encodeWithCoder</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSTimeZone -> void</description></snippet>

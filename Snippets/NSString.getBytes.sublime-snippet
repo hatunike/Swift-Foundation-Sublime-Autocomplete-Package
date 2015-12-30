@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getBytes(${1:UnsafeMutablePointer<Void>}, maxLength:${2:Int}, usedLength:${3:UnsafeMutablePointer<Int>}, encoding:${4:UInt}, options:${5:NSStringEncodingConversionOptions}, range:${6:NSRange}, remainingRange:${7:NSRangePointer})]]></content>
-	<tabTrigger>getBytes</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> Bool</description></snippet>

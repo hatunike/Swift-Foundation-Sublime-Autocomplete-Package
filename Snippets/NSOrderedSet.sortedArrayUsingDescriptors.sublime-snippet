@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sortedArrayUsingDescriptors(${1:[NSSortDescriptor]})]]></content>
-	<tabTrigger>sortedArrayUsingDescriptors</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> [AnyObject]</description></snippet>

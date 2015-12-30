@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-toRange(${1:})]]></content>
-	<tabTrigger>toRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSRange -> Range Int ?</description></snippet>

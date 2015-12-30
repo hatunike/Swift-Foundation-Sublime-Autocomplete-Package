@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-floatForKey(${1:String})]]></content>
-	<tabTrigger>floatForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> Float</description></snippet>

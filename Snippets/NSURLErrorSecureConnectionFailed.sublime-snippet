@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorSecureConnectionFailed
-]]></content>
-	<tabTrigger>NSURLErrorSecureConnectionFailed</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

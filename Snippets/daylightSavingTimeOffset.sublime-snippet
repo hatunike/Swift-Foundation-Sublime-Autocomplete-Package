@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-daylightSavingTimeOffset
-]]></content>
-	<tabTrigger>daylightSavingTimeOffset</tabTrigger>
-	<scope>source.swift</scope>	<description>NSTimeInterval</description></snippet>

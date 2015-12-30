@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorCallIsActive
-]]></content>
-	<tabTrigger>NSURLErrorCallIsActive</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

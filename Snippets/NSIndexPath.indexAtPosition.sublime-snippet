@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-indexAtPosition(${1:Int})]]></content>
-	<tabTrigger>indexAtPosition</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexPath -> Int</description></snippet>

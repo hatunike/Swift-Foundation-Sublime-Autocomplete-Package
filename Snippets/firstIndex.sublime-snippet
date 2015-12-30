@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-firstIndex
-]]></content>
-	<tabTrigger>firstIndex</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

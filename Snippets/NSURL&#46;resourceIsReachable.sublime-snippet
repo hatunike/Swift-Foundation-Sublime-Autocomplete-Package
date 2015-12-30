@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-resourceIsReachable(${1:})]]></content>
-	<tabTrigger>resourceIsReachable</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURL -> Bool</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setVolatileDomain(${1:[String }, forName:${2:String})]]></content>
-	<tabTrigger>setVolatileDomain</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> void</description></snippet>

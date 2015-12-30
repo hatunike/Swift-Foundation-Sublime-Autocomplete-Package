@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtectionSpaceHTTP
-]]></content>
-	<tabTrigger>NSURLProtectionSpaceHTTP</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

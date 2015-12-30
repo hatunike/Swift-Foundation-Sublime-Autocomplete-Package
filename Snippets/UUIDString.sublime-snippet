@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-UUIDString
-]]></content>
-	<tabTrigger>UUIDString</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

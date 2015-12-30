@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNodePreserveWhitespace
-]]></content>
-	<tabTrigger>NSXMLNodePreserveWhitespace</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

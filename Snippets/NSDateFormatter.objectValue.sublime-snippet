@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-objectValue(${1:String}, range:${2:UnsafeMutablePointer<NSRange>})]]></content>
-	<tabTrigger>objectValue</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDateFormatter -> AnyObject?</description></snippet>

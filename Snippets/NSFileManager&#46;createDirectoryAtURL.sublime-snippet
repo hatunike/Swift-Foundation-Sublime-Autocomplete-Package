@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-createDirectoryAtURL(${1:NSURL}, withIntermediateDirectories:${2:Bool}, attributes:${3:[String })]]></content>
-	<tabTrigger>createDirectoryAtURL</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

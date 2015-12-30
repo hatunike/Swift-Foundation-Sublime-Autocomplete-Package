@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocalizedRecoverySuggestionErrorKey
-]]></content>
-	<tabTrigger>NSLocalizedRecoverySuggestionErrorKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

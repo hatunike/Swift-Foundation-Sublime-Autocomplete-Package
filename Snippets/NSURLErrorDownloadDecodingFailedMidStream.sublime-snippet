@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorDownloadDecodingFailedMidStream
-]]></content>
-	<tabTrigger>NSURLErrorDownloadDecodingFailedMidStream</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

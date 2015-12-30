@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorCannotMoveFile
-]]></content>
-	<tabTrigger>NSURLErrorCannotMoveFile</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

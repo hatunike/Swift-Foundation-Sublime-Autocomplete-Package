@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-expiresDate
-]]></content>
-	<tabTrigger>expiresDate</tabTrigger>
-	<scope>source.swift</scope>	<description>NSDate</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileAppendOnly
-]]></content>
-	<tabTrigger>NSFileAppendOnly</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

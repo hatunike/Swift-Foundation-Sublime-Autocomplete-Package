@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-external
-]]></content>
-	<tabTrigger>external</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>
