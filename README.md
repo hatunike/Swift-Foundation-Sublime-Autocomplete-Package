@@ -1,7 +1,7 @@
 
 # Swift-Foundation-Sublime-Autocomplete-Package
 
-A SublimeText autocomplete snippet package for the Swift Foundation framework. Generated using [Swift To Sublime Snippet](http://www.github.com/hatunike/swift-to-sublime-snippet). For use in .swift files that have access to Foundation.
+A SublimeText autocomplete snippet package for the Swift Foundation framework. Generated using [Swift To Sublime Snippet](https://github.com/hatunike/swift-api-to-snippet). For use in .swift files that have access to Foundation.
 
 Note : the snippets were generated from the [open source](https://github.com/apple/swift-corelibs-foundation) version of Foundation. As long as the api's are synonymous with the closed Foundation api, these snippets can be used without issue.
 
