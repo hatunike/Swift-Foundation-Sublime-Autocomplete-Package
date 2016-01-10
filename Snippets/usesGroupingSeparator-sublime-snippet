@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-usesGroupingSeparator
-]]></content>
-	<tabTrigger>usesGroupingSeparator</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

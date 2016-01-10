@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileBusy
-]]></content>
-	<tabTrigger>NSFileBusy</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

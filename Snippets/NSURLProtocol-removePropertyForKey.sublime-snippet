@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtocol.removePropertyForKey(${1:String}, inRequest:${2:NSMutableURLRequest})]]></content>
-	<tabTrigger>NSURLProtocol.removePropertyForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSURLProtocol -> void</description></snippet>

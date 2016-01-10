@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCocoaError(${1:Int})]]></content>
-	<tabTrigger>NSCocoaError</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

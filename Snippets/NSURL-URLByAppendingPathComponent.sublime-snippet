@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-URLByAppendingPathComponent(${1:String}, isDirectory:${2:Bool})]]></content>
-	<tabTrigger>URLByAppendingPathComponent</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURL -> NSURL?</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtectionSpace(coder:${1:NSCoder})]]></content>
-	<tabTrigger>NSURLProtectionSpace</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

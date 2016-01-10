@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-countOfIndexesInRange(${1:NSRange})]]></content>
-	<tabTrigger>countOfIndexesInRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexSet -> Int</description></snippet>

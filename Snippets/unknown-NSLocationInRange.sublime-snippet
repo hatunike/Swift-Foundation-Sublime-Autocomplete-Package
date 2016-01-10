@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocationInRange(${1:Int}, _:${2:NSRange})]]></content>
-	<tabTrigger>NSLocationInRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

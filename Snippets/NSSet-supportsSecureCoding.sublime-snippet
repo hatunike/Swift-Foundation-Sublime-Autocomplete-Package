@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSSet.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSSet.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSSet -> Bool</description></snippet>

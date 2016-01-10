@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtocol(${1:NSURLSessionTask}, cachedResponse:${2:NSCachedURLResponse?}, client:${3:NSURLProtocolClient?})]]></content>
-	<tabTrigger>NSURLProtocol</tabTrigger>
-	<scope>source.swift</scope>	<description>task: cachedResponse: client:</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-localizedCaseInsensitiveContainsString(${1:String})]]></content>
-	<tabTrigger>localizedCaseInsensitiveContainsString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> Bool</description></snippet>

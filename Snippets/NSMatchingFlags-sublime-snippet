@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMatchingFlags
-]]></content>
-	<tabTrigger>NSMatchingFlags</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

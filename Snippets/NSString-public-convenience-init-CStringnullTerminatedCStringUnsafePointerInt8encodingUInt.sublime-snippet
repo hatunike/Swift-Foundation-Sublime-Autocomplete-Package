@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSString(CString:${1:UnsafePointer<Int8>}, encoding:${2:UInt})]]></content>
-	<tabTrigger>NSString</tabTrigger>
-	<scope>source.swift</scope>	<description>CString: encoding:</description></snippet>

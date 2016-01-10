@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHTTPCookieStorage.sharedCookieStorageForGroupContainerIdentifier(${1:String})]]></content>
-	<tabTrigger>NSHTTPCookieStorage.sharedCookieStorageForGroupContainerIdentifier</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSHTTPCookieStorage -> NSHTTPCookieStorage</description></snippet>

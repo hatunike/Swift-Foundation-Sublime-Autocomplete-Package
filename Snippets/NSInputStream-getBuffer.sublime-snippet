@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getBuffer(${1:UnsafeMutablePointer<UnsafeMutablePointer<UInt8>>}, length:${2:UnsafeMutablePointer<Int>})]]></content>
-	<tabTrigger>getBuffer</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSInputStream -> Bool</description></snippet>

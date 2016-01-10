@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-uploadTaskWithStreamedRequest(${1:NSURLRequest})]]></content>
-	<tabTrigger>uploadTaskWithStreamedRequest</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSession -> NSURLSessionUploadTask</description></snippet>

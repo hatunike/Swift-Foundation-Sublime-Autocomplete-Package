@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-hasMemberInPlane(${1:UInt8})]]></content>
-	<tabTrigger>hasMemberInPlane</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCharacterSet -> Bool</description></snippet>

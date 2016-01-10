@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSRecoveryAttempterErrorKey
-]]></content>
-	<tabTrigger>NSRecoveryAttempterErrorKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

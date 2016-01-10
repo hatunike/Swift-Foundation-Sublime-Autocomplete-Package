@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-parse(${1:})]]></content>
-	<tabTrigger>parse</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLParser -> Bool</description></snippet>

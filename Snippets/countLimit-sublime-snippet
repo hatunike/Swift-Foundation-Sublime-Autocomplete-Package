@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-countLimit
-]]></content>
-	<tabTrigger>countLimit</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

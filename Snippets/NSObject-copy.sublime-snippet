@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-copy(${1:})]]></content>
-	<tabTrigger>copy</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSObject -> AnyObject</description></snippet>

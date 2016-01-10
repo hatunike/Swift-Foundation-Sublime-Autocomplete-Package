@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-delegate
-]]></content>
-	<tabTrigger>delegate</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURLSessionDelegate</description></snippet>

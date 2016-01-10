@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDate.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSDate.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSDate -> Bool</description></snippet>

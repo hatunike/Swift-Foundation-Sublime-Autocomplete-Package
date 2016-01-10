@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-HTTPOnly
-]]></content>
-	<tabTrigger>HTTPOnly</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

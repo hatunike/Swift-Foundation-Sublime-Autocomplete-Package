@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSProgressKindFile
-]]></content>
-	<tabTrigger>NSProgressKindFile</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

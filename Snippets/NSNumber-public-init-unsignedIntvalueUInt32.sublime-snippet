@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSNumber(unsignedInt:${1:UInt32})]]></content>
-	<tabTrigger>NSNumber</tabTrigger>
-	<scope>source.swift</scope>	<description>unsignedInt:</description></snippet>

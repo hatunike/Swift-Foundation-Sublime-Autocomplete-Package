@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHelpAnchorErrorKey
-]]></content>
-	<tabTrigger>NSHelpAnchorErrorKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocale.ISOCountryCodes(${1:})]]></content>
-	<tabTrigger>NSLocale.ISOCountryCodes</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSLocale -> [String]</description></snippet>

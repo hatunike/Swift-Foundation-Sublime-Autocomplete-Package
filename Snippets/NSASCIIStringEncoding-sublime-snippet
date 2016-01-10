@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSASCIIStringEncoding
-]]></content>
-	<tabTrigger>NSASCIIStringEncoding</tabTrigger>
-	<scope>source.swift</scope>	<description>UInt</description></snippet>

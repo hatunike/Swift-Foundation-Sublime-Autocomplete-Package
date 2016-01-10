@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimal(${1:Int32}, _length:${2:UInt32}, _isNegative:${3:UInt32}, _isCompact:${4:UInt32}, _reserved:${5:UInt32}, _mantissa:${6:UInt16}, UInt16:${7:}, UInt16:${8:}, UInt16:${9:}, UInt16:${10:}, UInt16:${11:}, UInt16:${12:}, UInt16:${13:})]]></content>
-	<tabTrigger>NSDecimal</tabTrigger>
-	<scope>source.swift</scope>	<description>_exponent: _length: _isNegative: _isCompact: _reserved: _mantissa: UInt16: UInt16: UInt16: UInt16: UInt16: UInt16: UInt16:</description></snippet>

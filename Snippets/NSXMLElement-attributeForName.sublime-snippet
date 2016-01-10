@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-attributeForName(${1:String})]]></content>
-	<tabTrigger>attributeForName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLElement -> NSXMLNode?</description></snippet>

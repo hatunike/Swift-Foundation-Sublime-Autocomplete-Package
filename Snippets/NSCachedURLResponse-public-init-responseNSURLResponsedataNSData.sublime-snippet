@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCachedURLResponse(${1:NSURLResponse}, data:${2:NSData})]]></content>
-	<tabTrigger>NSCachedURLResponse</tabTrigger>
-	<scope>source.swift</scope>	<description>response: data:</description></snippet>

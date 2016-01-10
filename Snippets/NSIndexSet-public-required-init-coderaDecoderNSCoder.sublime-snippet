@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSIndexSet(coder:${1:NSCoder})]]></content>
-	<tabTrigger>NSIndexSet</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

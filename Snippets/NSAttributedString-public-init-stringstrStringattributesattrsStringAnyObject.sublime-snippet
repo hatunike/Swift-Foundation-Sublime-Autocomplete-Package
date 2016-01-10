@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSAttributedString(string:${1:String}, attributes:${2:[String })]]></content>
-	<tabTrigger>NSAttributedString</tabTrigger>
-	<scope>source.swift</scope>	<description>string: attributes:</description></snippet>

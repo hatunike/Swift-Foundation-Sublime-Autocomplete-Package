@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSUUID(UUIDBytes:${1:UnsafePointer<UInt8>})]]></content>
-	<tabTrigger>NSUUID</tabTrigger>
-	<scope>source.swift</scope>	<description>UUIDBytes:</description></snippet>

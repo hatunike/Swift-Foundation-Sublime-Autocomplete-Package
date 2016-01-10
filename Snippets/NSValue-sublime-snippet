@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSValue
-]]></content>
-	<tabTrigger>NSValue</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

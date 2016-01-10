@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSKeyedUnarchiver.unarchiveObjectWithData(${1:NSData})]]></content>
-	<tabTrigger>NSKeyedUnarchiver.unarchiveObjectWithData</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSKeyedUnarchiver -> AnyObject?</description></snippet>

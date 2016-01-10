@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-set
-]]></content>
-	<tabTrigger>set</tabTrigger>
-	<scope>source.swift</scope>	<description>Set</description></snippet>

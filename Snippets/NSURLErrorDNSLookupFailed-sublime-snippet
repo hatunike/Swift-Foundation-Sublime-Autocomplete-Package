@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorDNSLookupFailed
-]]></content>
-	<tabTrigger>NSURLErrorDNSLookupFailed</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

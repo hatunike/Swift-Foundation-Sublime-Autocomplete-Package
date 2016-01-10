@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decimalNumberByRoundingAccordingToBehavior(${1:NSDecimalNumberBehaviors?})]]></content>
-	<tabTrigger>decimalNumberByRoundingAccordingToBehavior</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDecimalNumber -> NSDecimalNumber</description></snippet>

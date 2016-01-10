@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-native
-]]></content>
-	<tabTrigger>native</tabTrigger>
-	<scope>source.swift</scope>	<description>NativeType</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-delegateQueue
-]]></content>
-	<tabTrigger>delegateQueue</tabTrigger>
-	<scope>source.swift</scope>	<description>NSOperationQueue</description></snippet>

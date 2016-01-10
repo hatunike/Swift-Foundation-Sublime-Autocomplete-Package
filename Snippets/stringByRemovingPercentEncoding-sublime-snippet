@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringByRemovingPercentEncoding
-]]></content>
-	<tabTrigger>stringByRemovingPercentEncoding</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

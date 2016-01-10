@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSNumber(integerLiteral:${1:Int})]]></content>
-	<tabTrigger>NSNumber</tabTrigger>
-	<scope>source.swift</scope>	<description>integerLiteral:</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSRunLoop.currentRunLoop(${1:})]]></content>
-	<tabTrigger>NSRunLoop.currentRunLoop</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSRunLoop -> NSRunLoop</description></snippet>

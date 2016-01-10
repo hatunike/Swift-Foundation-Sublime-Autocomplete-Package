@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-dataForKey(${1:String})]]></content>
-	<tabTrigger>dataForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> NSData?</description></snippet>

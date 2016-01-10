@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-encodeInt64(${1:Int64}, forKey:${2:String})]]></content>
-	<tabTrigger>encodeInt64</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> void</description></snippet>

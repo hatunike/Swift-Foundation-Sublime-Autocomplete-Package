@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDefaultRunLoopMode
-]]></content>
-	<tabTrigger>NSDefaultRunLoopMode</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

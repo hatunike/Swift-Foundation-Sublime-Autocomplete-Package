@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-URLForAuxiliaryExecutable(${1:String})]]></content>
-	<tabTrigger>URLForAuxiliaryExecutable</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSBundle -> NSURL?</description></snippet>

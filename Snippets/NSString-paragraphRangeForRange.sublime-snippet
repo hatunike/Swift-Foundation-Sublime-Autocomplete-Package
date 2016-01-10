@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-paragraphRangeForRange(${1:NSRange})]]></content>
-	<tabTrigger>paragraphRangeForRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> NSRange</description></snippet>

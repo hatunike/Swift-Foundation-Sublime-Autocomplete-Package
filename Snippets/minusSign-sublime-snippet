@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-minusSign
-]]></content>
-	<tabTrigger>minusSign</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

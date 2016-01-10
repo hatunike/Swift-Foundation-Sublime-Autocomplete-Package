@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSEdgeInsets(${1:})]]></content>
-	<tabTrigger>NSEdgeInsets</tabTrigger>
-	<scope>source.swift</scope>	<description>:</description></snippet>

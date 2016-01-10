@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-startLoading(${1:})]]></content>
-	<tabTrigger>startLoading</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLProtocol -> void</description></snippet>

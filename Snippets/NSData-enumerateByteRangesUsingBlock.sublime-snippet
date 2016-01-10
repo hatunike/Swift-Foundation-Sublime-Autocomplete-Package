@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-enumerateByteRangesUsingBlock(${1:UnsafePointer<Void>}, NSRange:${2:}, UnsafeMutablePointer<Bool>:${3:})]]></content>
-	<tabTrigger>enumerateByteRangesUsingBlock</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSData -> Void)</description></snippet>

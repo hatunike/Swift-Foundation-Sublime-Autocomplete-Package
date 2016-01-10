@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-dateBySettingUnit(${1:NSCalendarUnit}, value:${2:Int}, ofDate:${3:NSDate}, options:${4:NSCalendarOptions})]]></content>
-	<tabTrigger>dateBySettingUnit</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> NSDate?</description></snippet>

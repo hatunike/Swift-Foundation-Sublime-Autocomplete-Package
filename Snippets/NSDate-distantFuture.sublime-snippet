@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDate.distantFuture(${1:})]]></content>
-	<tabTrigger>NSDate.distantFuture</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSDate -> NSDate</description></snippet>

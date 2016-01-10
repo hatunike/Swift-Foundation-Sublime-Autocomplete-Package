@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSThread.sleepForTimeInterval(${1:NSTimeInterval})]]></content>
-	<tabTrigger>NSThread.sleepForTimeInterval</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSThread -> void</description></snippet>

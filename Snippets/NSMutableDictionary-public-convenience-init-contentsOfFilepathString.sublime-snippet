@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMutableDictionary(contentsOfFile:${1:String})]]></content>
-	<tabTrigger>NSMutableDictionary</tabTrigger>
-	<scope>source.swift</scope>	<description>contentsOfFile:</description></snippet>

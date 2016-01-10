@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-notANumberSymbol
-]]></content>
-	<tabTrigger>notANumberSymbol</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

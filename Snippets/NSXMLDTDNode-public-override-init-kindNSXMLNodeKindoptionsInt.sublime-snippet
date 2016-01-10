@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLDTDNode(${1:NSXMLNodeKind}, options:${2:Int})]]></content>
-	<tabTrigger>NSXMLDTDNode</tabTrigger>
-	<scope>source.swift</scope>	<description>kind: options:</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-data
-]]></content>
-	<tabTrigger>data</tabTrigger>
-	<scope>source.swift</scope>	<description>NSData</description></snippet>

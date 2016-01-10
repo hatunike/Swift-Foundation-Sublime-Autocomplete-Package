@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-runUntilDate(${1:NSDate})]]></content>
-	<tabTrigger>runUntilDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSRunLoop -> void</description></snippet>

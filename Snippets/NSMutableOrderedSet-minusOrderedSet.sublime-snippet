@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-minusOrderedSet(${1:NSOrderedSet})]]></content>
-	<tabTrigger>minusOrderedSet</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

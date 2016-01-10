@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSNumber(booleanLiteral:${1:Bool})]]></content>
-	<tabTrigger>NSNumber</tabTrigger>
-	<scope>source.swift</scope>	<description>booleanLiteral:</description></snippet>

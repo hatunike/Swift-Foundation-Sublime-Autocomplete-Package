@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFormatter(${1:})]]></content>
-	<tabTrigger>NSFormatter</tabTrigger>
-	<scope>source.swift</scope>	<description>:</description></snippet>

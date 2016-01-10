@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorCannotCreateFile
-]]></content>
-	<tabTrigger>NSURLErrorCannotCreateFile</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

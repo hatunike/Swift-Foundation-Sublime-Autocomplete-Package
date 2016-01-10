@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-enumerateObjectsWithOptions(${1:NSEnumerationOptions}, usingBlock:${2:AnyObject}, Int:${3:}, UnsafeMutablePointer<ObjCBool>:${4:})]]></content>
-	<tabTrigger>enumerateObjectsWithOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> Void)</description></snippet>

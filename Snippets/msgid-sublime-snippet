@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-msgid
-]]></content>
-	<tabTrigger>msgid</tabTrigger>
-	<scope>source.swift</scope>	<description>UInt</description></snippet>

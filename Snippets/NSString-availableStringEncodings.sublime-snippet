@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSString.availableStringEncodings(${1:})]]></content>
-	<tabTrigger>NSString.availableStringEncodings</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSString -> UnsafePointer UInt </description></snippet>

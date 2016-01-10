@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSInputStream(fileAtPath:${1:String})]]></content>
-	<tabTrigger>NSInputStream</tabTrigger>
-	<scope>source.swift</scope>	<description>fileAtPath:</description></snippet>

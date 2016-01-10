@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileHandle(forUpdatingAtPath:${1:String})]]></content>
-	<tabTrigger>NSFileHandle</tabTrigger>
-	<scope>source.swift</scope>	<description>forUpdatingAtPath:</description></snippet>

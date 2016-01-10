@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDateIntervalFormatter(${1:NSCoder})]]></content>
-	<tabTrigger>NSDateIntervalFormatter</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

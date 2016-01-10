@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDictionary.sharedKeySetForKeys(${1:[NSCopying]})]]></content>
-	<tabTrigger>NSDictionary.sharedKeySetForKeys</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSDictionary -> AnyObject</description></snippet>

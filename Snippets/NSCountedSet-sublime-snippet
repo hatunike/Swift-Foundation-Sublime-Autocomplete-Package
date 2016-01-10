@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCountedSet
-]]></content>
-	<tabTrigger>NSCountedSet</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setProperty(${1:AnyObject?}, forKey:${2:String})]]></content>
-	<tabTrigger>setProperty</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSStream -> Bool</description></snippet>

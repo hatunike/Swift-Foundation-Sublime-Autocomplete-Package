@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-objectsForKeys(${1:[NSObject]}, notFoundMarker:${2:AnyObject})]]></content>
-	<tabTrigger>objectsForKeys</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> [AnyObject]</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocale.localeIdentifierFromComponents(${1:[String })]]></content>
-	<tabTrigger>NSLocale.localeIdentifierFromComponents</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSLocale -> String</description></snippet>

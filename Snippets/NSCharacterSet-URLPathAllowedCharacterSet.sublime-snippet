@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCharacterSet.URLPathAllowedCharacterSet(${1:})]]></content>
-	<tabTrigger>NSCharacterSet.URLPathAllowedCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSCharacterSet -> NSCharacterSet</description></snippet>

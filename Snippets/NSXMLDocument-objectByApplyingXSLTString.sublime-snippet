@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-objectByApplyingXSLTString(${1:String}, arguments:${2:[String })]]></content>
-	<tabTrigger>objectByApplyingXSLTString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLDocument -> AnyObject</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-weekOfYear
-]]></content>
-	<tabTrigger>weekOfYear</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

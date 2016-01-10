@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileHandle.fileHandleWithStandardOutput(${1:})]]></content>
-	<tabTrigger>NSFileHandle.fileHandleWithStandardOutput</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSFileHandle -> NSFileHandle</description></snippet>

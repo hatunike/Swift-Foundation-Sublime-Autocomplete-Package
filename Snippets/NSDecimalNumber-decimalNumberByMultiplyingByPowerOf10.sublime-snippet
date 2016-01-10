@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decimalNumberByMultiplyingByPowerOf10(${1:Int16}, withBehavior:${2:NSDecimalNumberBehaviors?})]]></content>
-	<tabTrigger>decimalNumberByMultiplyingByPowerOf10</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDecimalNumber -> NSDecimalNumber</description></snippet>

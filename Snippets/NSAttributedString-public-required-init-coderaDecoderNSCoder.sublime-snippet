@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSAttributedString(coder:${1:NSCoder})]]></content>
-	<tabTrigger>NSAttributedString</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

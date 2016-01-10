@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSError.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSError.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSError -> Bool</description></snippet>

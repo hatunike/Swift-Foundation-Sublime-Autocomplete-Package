@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorCannotOpenFile
-]]></content>
-	<tabTrigger>NSURLErrorCannotOpenFile</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

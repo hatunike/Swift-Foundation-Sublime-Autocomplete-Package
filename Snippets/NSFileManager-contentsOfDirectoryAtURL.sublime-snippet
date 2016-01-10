@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-contentsOfDirectoryAtURL(${1:NSURL}, includingPropertiesForKeys:${2:[String]?}, options:${3:NSDirectoryEnumerationOptions})]]></content>
-	<tabTrigger>contentsOfDirectoryAtURL</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> [NSURL]</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLengthFormatter(${1:NSCoder})]]></content>
-	<tabTrigger>NSLengthFormatter</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

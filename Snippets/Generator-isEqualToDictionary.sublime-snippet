@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isEqualToDictionary(${1:[NSObject })]]></content>
-	<tabTrigger>isEqualToDictionary</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> Bool</description></snippet>

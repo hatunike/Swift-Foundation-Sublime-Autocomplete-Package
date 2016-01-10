@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSSocketPort(TCPPort:${1:UInt16})]]></content>
-	<tabTrigger>NSSocketPort</tabTrigger>
-	<scope>source.swift</scope>	<description>TCPPort:</description></snippet>

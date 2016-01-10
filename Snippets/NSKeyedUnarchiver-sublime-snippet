@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSKeyedUnarchiver
-]]></content>
-	<tabTrigger>NSKeyedUnarchiver</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

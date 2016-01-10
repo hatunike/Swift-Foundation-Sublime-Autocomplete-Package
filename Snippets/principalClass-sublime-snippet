@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-principalClass
-]]></content>
-	<tabTrigger>principalClass</tabTrigger>
-	<scope>source.swift</scope>	<description>AnyClass</description></snippet>

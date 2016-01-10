@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-options
-]]></content>
-	<tabTrigger>options</tabTrigger>
-	<scope>source.swift</scope>	<description>NSRegularExpressionOptions</description></snippet>

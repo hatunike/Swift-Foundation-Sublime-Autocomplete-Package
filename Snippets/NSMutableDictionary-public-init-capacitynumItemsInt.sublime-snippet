@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMutableDictionary(capacity:${1:Int})]]></content>
-	<tabTrigger>NSMutableDictionary</tabTrigger>
-	<scope>source.swift</scope>	<description>capacity:</description></snippet>

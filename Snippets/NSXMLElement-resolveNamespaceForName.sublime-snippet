@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-resolveNamespaceForName(${1:String})]]></content>
-	<tabTrigger>resolveNamespaceForName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLElement -> NSXMLNode?</description></snippet>

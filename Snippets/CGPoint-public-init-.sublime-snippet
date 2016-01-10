@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-CGPoint(${1:})]]></content>
-	<tabTrigger>CGPoint</tabTrigger>
-	<scope>source.swift</scope>	<description>:</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSBundle.preferredLocalizationsFromArray(${1:[String]}, forPreferences:${2:[String]?})]]></content>
-	<tabTrigger>NSBundle.preferredLocalizationsFromArray</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSBundle -> [String]</description></snippet>

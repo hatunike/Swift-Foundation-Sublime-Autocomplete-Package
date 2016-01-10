@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-roundingIncrement
-]]></content>
-	<tabTrigger>roundingIncrement</tabTrigger>
-	<scope>source.swift</scope>	<description>NSNumber</description></snippet>

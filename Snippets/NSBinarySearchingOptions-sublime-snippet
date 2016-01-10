@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSBinarySearchingOptions
-]]></content>
-	<tabTrigger>NSBinarySearchingOptions</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

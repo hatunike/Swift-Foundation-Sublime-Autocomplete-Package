@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSData(bytesNoCopy:${1:UnsafeMutablePointer<Void>}, length:${2:Int}, freeWhenDone:${3:Bool})]]></content>
-	<tabTrigger>NSData</tabTrigger>
-	<scope>source.swift</scope>	<description>bytesNoCopy: length: freeWhenDone:</description></snippet>

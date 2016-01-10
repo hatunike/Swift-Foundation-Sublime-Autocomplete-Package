@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileHandleReadToEndOfFileCompletionNotification
-]]></content>
-	<tabTrigger>NSFileHandleReadToEndOfFileCompletionNotification</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-intersectsIndexesInRange(${1:NSRange})]]></content>
-	<tabTrigger>intersectsIndexesInRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexSet -> Bool</description></snippet>

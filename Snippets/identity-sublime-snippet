@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-identity
-]]></content>
-	<tabTrigger>identity</tabTrigger>
-	<scope>source.swift</scope>	<description>SecIdentity</description></snippet>

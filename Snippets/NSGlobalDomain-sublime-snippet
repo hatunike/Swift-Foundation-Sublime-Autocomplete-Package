@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSGlobalDomain
-]]></content>
-	<tabTrigger>NSGlobalDomain</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

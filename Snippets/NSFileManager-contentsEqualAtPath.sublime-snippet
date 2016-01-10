@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-contentsEqualAtPath(${1:String}, andPath:${2:String})]]></content>
-	<tabTrigger>contentsEqualAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> Bool</description></snippet>

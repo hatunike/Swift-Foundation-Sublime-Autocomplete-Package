@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSProcessInfo.processInfo(${1:})]]></content>
-	<tabTrigger>NSProcessInfo.processInfo</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSProcessInfo -> NSProcessInfo</description></snippet>

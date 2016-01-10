@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-minimumDaysInFirstWeek
-]]></content>
-	<tabTrigger>minimumDaysInFirstWeek</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

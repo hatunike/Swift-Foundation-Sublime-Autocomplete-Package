@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeAllObjects(${1:})]]></content>
-	<tabTrigger>removeAllObjects</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCache -> void</description></snippet>

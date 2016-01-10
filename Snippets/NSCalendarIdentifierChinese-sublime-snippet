@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCalendarIdentifierChinese
-]]></content>
-	<tabTrigger>NSCalendarIdentifierChinese</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

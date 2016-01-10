@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-characterEncoding
-]]></content>
-	<tabTrigger>characterEncoding</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

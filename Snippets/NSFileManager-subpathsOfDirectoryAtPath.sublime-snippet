@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-subpathsOfDirectoryAtPath(${1:String})]]></content>
-	<tabTrigger>subpathsOfDirectoryAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> [String]</description></snippet>

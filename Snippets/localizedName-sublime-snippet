@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-localizedName
-]]></content>
-	<tabTrigger>localizedName</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

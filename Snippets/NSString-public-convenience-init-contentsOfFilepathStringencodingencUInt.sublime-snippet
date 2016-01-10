@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSString(contentsOfFile:${1:String}, encoding:${2:UInt})]]></content>
-	<tabTrigger>NSString</tabTrigger>
-	<scope>source.swift</scope>	<description>contentsOfFile: encoding:</description></snippet>

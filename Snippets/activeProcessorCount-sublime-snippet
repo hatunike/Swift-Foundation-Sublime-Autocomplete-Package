@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-activeProcessorCount
-]]></content>
-	<tabTrigger>activeProcessorCount</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isEqualToSet(${1:Set<NSObject>})]]></content>
-	<tabTrigger>isEqualToSet</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSSet -> Bool</description></snippet>

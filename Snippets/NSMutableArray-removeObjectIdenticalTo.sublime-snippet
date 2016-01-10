@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeObjectIdenticalTo(${1:AnyObject})]]></content>
-	<tabTrigger>removeObjectIdenticalTo</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableArray -> void</description></snippet>

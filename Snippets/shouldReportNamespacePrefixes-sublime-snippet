@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-shouldReportNamespacePrefixes
-]]></content>
-	<tabTrigger>shouldReportNamespacePrefixes</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

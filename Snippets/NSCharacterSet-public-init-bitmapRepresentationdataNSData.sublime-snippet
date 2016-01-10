@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCharacterSet(bitmapRepresentation:${1:NSData})]]></content>
-	<tabTrigger>NSCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description>bitmapRepresentation:</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decimalNumberByRaisingToPower(${1:Int}, withBehavior:${2:NSDecimalNumberBehaviors?})]]></content>
-	<tabTrigger>decimalNumberByRaisingToPower</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDecimalNumber -> NSDecimalNumber</description></snippet>

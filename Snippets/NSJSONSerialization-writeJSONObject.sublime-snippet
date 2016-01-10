@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSJSONSerialization.writeJSONObject(${1:AnyObject}, toStream:${2:NSOutputStream}, options:${3:NSJSONWritingOptions})]]></content>
-	<tabTrigger>NSJSONSerialization.writeJSONObject</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSJSONSerialization -> Int</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSPostingStyle
-]]></content>
-	<tabTrigger>NSPostingStyle</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

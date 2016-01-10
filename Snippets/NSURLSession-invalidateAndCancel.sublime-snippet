@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-invalidateAndCancel(${1:})]]></content>
-	<tabTrigger>invalidateAndCancel</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSession -> void</description></snippet>

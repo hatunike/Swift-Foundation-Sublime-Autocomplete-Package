@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSUUID.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSUUID.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSUUID -> Bool</description></snippet>

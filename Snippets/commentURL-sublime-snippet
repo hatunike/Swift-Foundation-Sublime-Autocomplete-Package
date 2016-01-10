@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-commentURL
-]]></content>
-	<tabTrigger>commentURL</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURL</description></snippet>

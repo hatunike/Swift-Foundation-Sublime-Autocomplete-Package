@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileSystemFreeNodes
-]]></content>
-	<tabTrigger>NSFileSystemFreeNodes</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

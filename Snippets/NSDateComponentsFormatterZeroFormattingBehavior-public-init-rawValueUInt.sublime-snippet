@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDateComponentsFormatterZeroFormattingBehavior(${1:UInt})]]></content>
-	<tabTrigger>NSDateComponentsFormatterZeroFormattingBehavior</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

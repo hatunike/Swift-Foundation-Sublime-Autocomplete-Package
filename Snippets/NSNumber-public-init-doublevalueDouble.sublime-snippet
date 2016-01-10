@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSNumber(double:${1:Double})]]></content>
-	<tabTrigger>NSNumber</tabTrigger>
-	<scope>source.swift</scope>	<description>double:</description></snippet>

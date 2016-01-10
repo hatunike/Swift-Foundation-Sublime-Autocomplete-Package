@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocaleExemplarCharacterSet
-]]></content>
-	<tabTrigger>NSLocaleExemplarCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

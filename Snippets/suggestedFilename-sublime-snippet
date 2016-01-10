@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-suggestedFilename
-]]></content>
-	<tabTrigger>suggestedFilename</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSThread.currentThread(${1:})]]></content>
-	<tabTrigger>NSThread.currentThread</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSThread -> NSThread</description></snippet>

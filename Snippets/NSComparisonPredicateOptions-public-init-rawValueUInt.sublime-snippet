@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSComparisonPredicateOptions(${1:UInt})]]></content>
-	<tabTrigger>NSComparisonPredicateOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

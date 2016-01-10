@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSOrderedSet.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSOrderedSet.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSOrderedSet -> Bool</description></snippet>

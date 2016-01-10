@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-CGSize(${1:CGFloat}, height:${2:CGFloat})]]></content>
-	<tabTrigger>CGSize</tabTrigger>
-	<scope>source.swift</scope>	<description>width: height:</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-allowsNonnumericFormatting
-]]></content>
-	<tabTrigger>allowsNonnumericFormatting</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

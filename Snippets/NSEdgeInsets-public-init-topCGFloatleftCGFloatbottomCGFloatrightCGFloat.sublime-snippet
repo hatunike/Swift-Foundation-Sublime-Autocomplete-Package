@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSEdgeInsets(${1:CGFloat}, left:${2:CGFloat}, bottom:${3:CGFloat}, right:${4:CGFloat})]]></content>
-	<tabTrigger>NSEdgeInsets</tabTrigger>
-	<scope>source.swift</scope>	<description>top: left: bottom: right:</description></snippet>

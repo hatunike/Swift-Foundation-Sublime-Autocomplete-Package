@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSExpression.expressionForAnyKey(${1:})]]></content>
-	<tabTrigger>NSExpression.expressionForAnyKey</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSExpression -> NSExpression</description></snippet>

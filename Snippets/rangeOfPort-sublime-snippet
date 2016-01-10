@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-rangeOfPort
-]]></content>
-	<tabTrigger>rangeOfPort</tabTrigger>
-	<scope>source.swift</scope>	<description>NSRange</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLDocument(XMLString:${1:String}, options:${2:Int})]]></content>
-	<tabTrigger>NSXMLDocument</tabTrigger>
-	<scope>source.swift</scope>	<description>XMLString: options:</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDateInterval
-]]></content>
-	<tabTrigger>NSDateInterval</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNodeIsCDATA
-]]></content>
-	<tabTrigger>NSXMLNodeIsCDATA</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

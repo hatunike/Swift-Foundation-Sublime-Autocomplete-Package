@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLDocument.replacementClassForClass(${1:AnyClass})]]></content>
-	<tabTrigger>NSXMLDocument.replacementClassForClass</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSXMLDocument -> AnyClass</description></snippet>

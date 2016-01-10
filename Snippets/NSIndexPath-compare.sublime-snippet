@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-compare(${1:NSIndexPath})]]></content>
-	<tabTrigger>compare</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSIndexPath -> NSComparisonResult</description></snippet>

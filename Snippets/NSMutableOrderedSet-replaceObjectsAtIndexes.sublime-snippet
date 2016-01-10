@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-replaceObjectsAtIndexes(${1:NSIndexSet}, withObjects:${2:[AnyObject]})]]></content>
-	<tabTrigger>replaceObjectsAtIndexes</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

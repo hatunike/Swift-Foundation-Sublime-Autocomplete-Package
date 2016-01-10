@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isDate(${1:NSDate}, inSameDayAsDate:${2:NSDate})]]></content>
-	<tabTrigger>isDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> Bool</description></snippet>

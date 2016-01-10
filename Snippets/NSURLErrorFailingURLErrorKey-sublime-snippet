@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorFailingURLErrorKey
-]]></content>
-	<tabTrigger>NSURLErrorFailingURLErrorKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

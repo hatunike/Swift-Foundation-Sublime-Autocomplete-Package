@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-attributedStringForZero
-]]></content>
-	<tabTrigger>attributedStringForZero</tabTrigger>
-	<scope>source.swift</scope>	<description>NSAttributedString</description></snippet>

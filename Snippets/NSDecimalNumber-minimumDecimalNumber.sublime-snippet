@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalNumber.minimumDecimalNumber(${1:})]]></content>
-	<tabTrigger>NSDecimalNumber.minimumDecimalNumber</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSDecimalNumber -> NSDecimalNumber</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalNumber(decimal:${1:NSDecimal})]]></content>
-	<tabTrigger>NSDecimalNumber</tabTrigger>
-	<scope>source.swift</scope>	<description>decimal:</description></snippet>

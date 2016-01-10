@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSConditionLock(${1:})]]></content>
-	<tabTrigger>NSConditionLock</tabTrigger>
-	<scope>source.swift</scope>	<description>:</description></snippet>

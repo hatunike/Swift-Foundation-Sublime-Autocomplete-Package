@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHTTPCookie.requestHeaderFieldsWithCookies(${1:[NSHTTPCookie]})]]></content>
-	<tabTrigger>NSHTTPCookie.requestHeaderFieldsWithCookies</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSHTTPCookie -> [String</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Set._forceBridgeFromObject(${1:NSSet}, inout:${2:Set?})]]></content>
-	<tabTrigger>Set._forceBridgeFromObject</tabTrigger>
-	<scope>source.swift</scope>	<description>static Set -> void</description></snippet>

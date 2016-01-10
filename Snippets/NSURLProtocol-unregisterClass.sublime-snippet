@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtocol.unregisterClass(${1:AnyClass})]]></content>
-	<tabTrigger>NSURLProtocol.unregisterClass</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSURLProtocol -> void</description></snippet>

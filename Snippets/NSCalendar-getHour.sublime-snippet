@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getHour(${1:UnsafeMutablePointer<Int>}, minute:${2:UnsafeMutablePointer<Int>}, second:${3:UnsafeMutablePointer<Int>}, nanosecond:${4:UnsafeMutablePointer<Int>}, fromDate:${5:NSDate})]]></content>
-	<tabTrigger>getHour</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> void</description></snippet>

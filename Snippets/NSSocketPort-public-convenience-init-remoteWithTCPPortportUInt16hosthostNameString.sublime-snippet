@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSSocketPort(remoteWithTCPPort:${1:UInt16}, host:${2:String?})]]></content>
-	<tabTrigger>NSSocketPort</tabTrigger>
-	<scope>source.swift</scope>	<description>remoteWithTCPPort: host:</description></snippet>

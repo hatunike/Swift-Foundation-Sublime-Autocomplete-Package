@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-insertObject(${1:AnyObject}, atIndex:${2:Int})]]></content>
-	<tabTrigger>insertObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableArray -> void</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocaleAlternateQuotationBeginDelimiterKey
-]]></content>
-	<tabTrigger>NSLocaleAlternateQuotationBeginDelimiterKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

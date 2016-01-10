@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMachErrorDomain
-]]></content>
-	<tabTrigger>NSMachErrorDomain</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

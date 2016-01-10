@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decodeIntegerForKey(${1:String})]]></content>
-	<tabTrigger>decodeIntegerForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> Int</description></snippet>

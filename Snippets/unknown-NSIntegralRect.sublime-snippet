@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSIntegralRect(${1:NSRect})]]></content>
-	<tabTrigger>NSIntegralRect</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> NSRect</description></snippet>

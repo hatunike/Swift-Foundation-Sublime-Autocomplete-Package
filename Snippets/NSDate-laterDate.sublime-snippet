@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-laterDate(${1:NSDate})]]></content>
-	<tabTrigger>laterDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDate -> NSDate</description></snippet>

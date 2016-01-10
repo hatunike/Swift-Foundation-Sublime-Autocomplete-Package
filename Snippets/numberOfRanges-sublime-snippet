@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-numberOfRanges
-]]></content>
-	<tabTrigger>numberOfRanges</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

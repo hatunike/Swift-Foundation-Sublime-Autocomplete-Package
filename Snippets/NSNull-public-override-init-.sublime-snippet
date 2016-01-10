@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSNull(${1:})]]></content>
-	<tabTrigger>NSNull</tabTrigger>
-	<scope>source.swift</scope>	<description>:</description></snippet>

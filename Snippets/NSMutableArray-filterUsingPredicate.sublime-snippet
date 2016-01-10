@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-filterUsingPredicate(${1:NSPredicate})]]></content>
-	<tabTrigger>filterUsingPredicate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableArray -> void</description></snippet>

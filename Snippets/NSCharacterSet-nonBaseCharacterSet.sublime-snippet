@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCharacterSet.nonBaseCharacterSet(${1:})]]></content>
-	<tabTrigger>NSCharacterSet.nonBaseCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSCharacterSet -> NSCharacterSet</description></snippet>

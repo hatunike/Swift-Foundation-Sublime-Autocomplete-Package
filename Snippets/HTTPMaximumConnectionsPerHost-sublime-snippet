@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-HTTPMaximumConnectionsPerHost
-]]></content>
-	<tabTrigger>HTTPMaximumConnectionsPerHost</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

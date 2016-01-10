@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-networkServiceType
-]]></content>
-	<tabTrigger>networkServiceType</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURLRequestNetworkServiceType</description></snippet>

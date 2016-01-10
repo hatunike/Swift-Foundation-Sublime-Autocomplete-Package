@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isEqualToOrderedSet(${1:NSOrderedSet})]]></content>
-	<tabTrigger>isEqualToOrderedSet</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSOrderedSet -> Bool</description></snippet>

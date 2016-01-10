@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileManager
-]]></content>
-	<tabTrigger>NSFileManager</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-preflight(${1:})]]></content>
-	<tabTrigger>preflight</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSBundle -> void</description></snippet>

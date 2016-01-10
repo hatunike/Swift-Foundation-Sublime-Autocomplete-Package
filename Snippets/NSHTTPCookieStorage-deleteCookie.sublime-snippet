@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-deleteCookie(${1:NSHTTPCookie})]]></content>
-	<tabTrigger>deleteCookie</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSHTTPCookieStorage -> void</description></snippet>

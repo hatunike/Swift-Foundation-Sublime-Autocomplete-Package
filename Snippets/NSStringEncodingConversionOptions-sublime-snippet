@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSStringEncodingConversionOptions
-]]></content>
-	<tabTrigger>NSStringEncodingConversionOptions</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

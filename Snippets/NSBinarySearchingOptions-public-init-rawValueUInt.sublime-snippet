@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSBinarySearchingOptions(${1:UInt})]]></content>
-	<tabTrigger>NSBinarySearchingOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

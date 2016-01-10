@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDateComponentUndefined
-]]></content>
-	<tabTrigger>NSDateComponentUndefined</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

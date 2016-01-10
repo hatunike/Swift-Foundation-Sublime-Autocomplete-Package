@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSIndexPath.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSIndexPath.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSIndexPath -> Bool</description></snippet>

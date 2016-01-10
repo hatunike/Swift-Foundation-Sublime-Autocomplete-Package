@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtectionSpaceSOCKSProxy
-]]></content>
-	<tabTrigger>NSURLProtectionSpaceSOCKSProxy</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

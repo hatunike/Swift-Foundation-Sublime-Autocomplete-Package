@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCompoundPredicateType
-]]></content>
-	<tabTrigger>NSCompoundPredicateType</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURL.fileURLWithPathComponents(${1:[String]})]]></content>
-	<tabTrigger>NSURL.fileURLWithPathComponents</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSURL -> NSURL?</description></snippet>

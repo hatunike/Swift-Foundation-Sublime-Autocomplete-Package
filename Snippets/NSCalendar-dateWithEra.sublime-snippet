@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-dateWithEra(${1:Int}, yearForWeekOfYear:${2:Int}, weekOfYear:${3:Int}, weekday:${4:Int}, hour:${5:Int}, minute:${6:Int}, second:${7:Int}, nanosecond:${8:Int})]]></content>
-	<tabTrigger>dateWithEra</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> NSDate?</description></snippet>

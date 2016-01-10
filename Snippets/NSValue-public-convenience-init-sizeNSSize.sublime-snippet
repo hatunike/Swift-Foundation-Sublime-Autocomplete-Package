@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSValue(${1:NSSize})]]></content>
-	<tabTrigger>NSValue</tabTrigger>
-	<scope>source.swift</scope>	<description>size:</description></snippet>

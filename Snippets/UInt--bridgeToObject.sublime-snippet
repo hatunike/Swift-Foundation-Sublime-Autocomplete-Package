@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-_bridgeToObject(${1:})]]></content>
-	<tabTrigger>_bridgeToObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func UInt -> NSNumber</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decodePropertyList(${1:})]]></content>
-	<tabTrigger>decodePropertyList</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> AnyObject?</description></snippet>

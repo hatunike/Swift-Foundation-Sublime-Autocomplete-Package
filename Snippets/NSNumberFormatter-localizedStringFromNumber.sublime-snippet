@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSNumberFormatter.localizedStringFromNumber(${1:NSNumber}, numberStyle:${2:NSNumberFormatterStyle})]]></content>
-	<tabTrigger>NSNumberFormatter.localizedStringFromNumber</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSNumberFormatter -> String</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-builtInPlugInsURL
-]]></content>
-	<tabTrigger>builtInPlugInsURL</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURL</description></snippet>

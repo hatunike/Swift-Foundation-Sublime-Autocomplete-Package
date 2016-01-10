@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSPropertyListSerialization.propertyList(${1:AnyObject}, isValidForFormat:${2:NSPropertyListFormat})]]></content>
-	<tabTrigger>NSPropertyListSerialization.propertyList</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSPropertyListSerialization -> Bool</description></snippet>

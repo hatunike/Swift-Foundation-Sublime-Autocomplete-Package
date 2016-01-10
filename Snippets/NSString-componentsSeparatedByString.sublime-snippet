@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-componentsSeparatedByString(${1:String})]]></content>
-	<tabTrigger>componentsSeparatedByString</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> [String]</description></snippet>

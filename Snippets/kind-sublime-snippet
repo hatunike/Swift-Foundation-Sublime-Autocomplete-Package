@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-kind
-]]></content>
-	<tabTrigger>kind</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeKind</description></snippet>

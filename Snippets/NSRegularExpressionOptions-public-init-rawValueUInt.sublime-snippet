@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSRegularExpressionOptions(${1:UInt})]]></content>
-	<tabTrigger>NSRegularExpressionOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

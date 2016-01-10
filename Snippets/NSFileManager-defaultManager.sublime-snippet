@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileManager.defaultManager(${1:})]]></content>
-	<tabTrigger>NSFileManager.defaultManager</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSFileManager -> NSFileManager</description></snippet>

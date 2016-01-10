@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-leapMonth
-]]></content>
-	<tabTrigger>leapMonth</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

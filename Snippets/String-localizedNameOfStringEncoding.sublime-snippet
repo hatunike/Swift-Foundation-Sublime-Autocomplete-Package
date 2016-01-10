@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-String.localizedNameOfStringEncoding(${1:NSStringEncoding})]]></content>
-	<tabTrigger>String.localizedNameOfStringEncoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static String -> String</description></snippet>

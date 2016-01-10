@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-endEditing(${1:})]]></content>
-	<tabTrigger>endEditing</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableAttributedString -> void</description></snippet>

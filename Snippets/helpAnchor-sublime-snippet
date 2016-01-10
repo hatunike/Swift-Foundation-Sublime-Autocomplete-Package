@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-helpAnchor
-]]></content>
-	<tabTrigger>helpAnchor</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSPropertyListSerialization.dataWithPropertyList(${1:AnyObject}, format:${2:NSPropertyListFormat}, options:${3:NSPropertyListWriteOptions})]]></content>
-	<tabTrigger>NSPropertyListSerialization.dataWithPropertyList</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSPropertyListSerialization -> NSData</description></snippet>

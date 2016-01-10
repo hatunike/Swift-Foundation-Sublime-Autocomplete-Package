@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSVolumeEnumerationOptions
-]]></content>
-	<tabTrigger>NSVolumeEnumerationOptions</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

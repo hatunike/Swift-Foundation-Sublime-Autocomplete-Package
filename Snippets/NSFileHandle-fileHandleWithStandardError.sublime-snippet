@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileHandle.fileHandleWithStandardError(${1:})]]></content>
-	<tabTrigger>NSFileHandle.fileHandleWithStandardError</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSFileHandle -> NSFileHandle</description></snippet>

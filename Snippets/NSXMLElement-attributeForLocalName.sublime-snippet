@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-attributeForLocalName(${1:String}, URI:${2:String?})]]></content>
-	<tabTrigger>attributeForLocalName</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLElement -> NSXMLNode?</description></snippet>

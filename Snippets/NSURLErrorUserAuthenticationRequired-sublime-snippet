@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorUserAuthenticationRequired
-]]></content>
-	<tabTrigger>NSURLErrorUserAuthenticationRequired</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

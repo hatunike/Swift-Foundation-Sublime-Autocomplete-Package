@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeObjectForKey(${1:AnyObject})]]></content>
-	<tabTrigger>removeObjectForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableDictionary -> void</description></snippet>

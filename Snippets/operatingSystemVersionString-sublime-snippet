@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-operatingSystemVersionString
-]]></content>
-	<tabTrigger>operatingSystemVersionString</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

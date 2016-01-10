@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSObject.classForKeyedUnarchiver(${1:})]]></content>
-	<tabTrigger>NSObject.classForKeyedUnarchiver</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSObject -> AnyClass</description></snippet>

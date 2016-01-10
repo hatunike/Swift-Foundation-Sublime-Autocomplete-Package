@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Bool(_:${1:NSNumber})]]></content>
-	<tabTrigger>Bool</tabTrigger>
-	<scope>source.swift</scope>	<description>_:</description></snippet>

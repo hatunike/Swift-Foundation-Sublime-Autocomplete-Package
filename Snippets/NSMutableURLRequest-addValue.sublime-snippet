@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addValue(${1:String}, forHTTPHeaderField:${2:String})]]></content>
-	<tabTrigger>addValue</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableURLRequest -> void</description></snippet>

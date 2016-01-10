@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-lastPathComponent
-]]></content>
-	<tabTrigger>lastPathComponent</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

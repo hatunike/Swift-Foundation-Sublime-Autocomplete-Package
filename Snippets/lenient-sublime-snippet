@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-lenient
-]]></content>
-	<tabTrigger>lenient</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

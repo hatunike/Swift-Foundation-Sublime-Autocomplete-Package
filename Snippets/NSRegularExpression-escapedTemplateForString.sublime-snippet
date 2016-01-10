@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSRegularExpression.escapedTemplateForString(${1:String})]]></content>
-	<tabTrigger>NSRegularExpression.escapedTemplateForString</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSRegularExpression -> String</description></snippet>

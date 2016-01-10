@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSStreamNetworkServiceTypeVoice
-]]></content>
-	<tabTrigger>NSStreamNetworkServiceTypeVoice</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSBlockOperation(${1: -> Void})]]></content>
-	<tabTrigger>NSBlockOperation</tabTrigger>
-	<scope>source.swift</scope>	<description>block:</description></snippet>

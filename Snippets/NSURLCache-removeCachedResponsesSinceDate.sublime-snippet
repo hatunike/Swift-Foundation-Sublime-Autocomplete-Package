@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeCachedResponsesSinceDate(${1:NSDate})]]></content>
-	<tabTrigger>removeCachedResponsesSinceDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLCache -> void</description></snippet>

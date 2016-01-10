@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSValue(${1:NSRect})]]></content>
-	<tabTrigger>NSValue</tabTrigger>
-	<scope>source.swift</scope>	<description>rect:</description></snippet>

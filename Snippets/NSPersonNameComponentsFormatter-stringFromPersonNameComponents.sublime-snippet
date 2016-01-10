@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringFromPersonNameComponents(${1:NSPersonNameComponents})]]></content>
-	<tabTrigger>stringFromPersonNameComponents</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSPersonNameComponentsFormatter -> String</description></snippet>

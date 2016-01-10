@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMessagePort
-]]></content>
-	<tabTrigger>NSMessagePort</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

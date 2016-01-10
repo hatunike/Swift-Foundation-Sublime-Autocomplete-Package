@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-subdataWithRange(${1:NSRange})]]></content>
-	<tabTrigger>subdataWithRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSData -> NSData</description></snippet>

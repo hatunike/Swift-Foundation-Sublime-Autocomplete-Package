@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSThread.sleepUntilDate(${1:NSDate})]]></content>
-	<tabTrigger>NSThread.sleepUntilDate</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSThread -> void</description></snippet>

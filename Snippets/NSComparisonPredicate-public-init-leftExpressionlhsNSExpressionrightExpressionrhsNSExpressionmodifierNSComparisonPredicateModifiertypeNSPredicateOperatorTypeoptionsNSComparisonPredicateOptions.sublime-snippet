@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSComparisonPredicate(leftExpression:${1:NSExpression}, rightExpression:${2:NSExpression}, modifier:${3:NSComparisonPredicateModifier}, type:${4:NSPredicateOperatorType}, options:${5:NSComparisonPredicateOptions})]]></content>
-	<tabTrigger>NSComparisonPredicate</tabTrigger>
-	<scope>source.swift</scope>	<description>leftExpression: rightExpression: modifier: type: options:</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSTextCheckingResult.regularExpressionCheckingResultWithRanges(${1:NSRangePointer}, count:${2:Int}, regularExpression:${3:NSRegularExpression})]]></content>
-	<tabTrigger>NSTextCheckingResult.regularExpressionCheckingResultWithRanges</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSTextCheckingResult -> NSTextCheckingResult</description></snippet>

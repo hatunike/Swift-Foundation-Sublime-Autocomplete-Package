@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-propertyForKey(${1:String})]]></content>
-	<tabTrigger>propertyForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSStream -> AnyObject?</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSThread.isMultiThreaded(${1:})]]></content>
-	<tabTrigger>NSThread.isMultiThreaded</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSThread -> Bool</description></snippet>

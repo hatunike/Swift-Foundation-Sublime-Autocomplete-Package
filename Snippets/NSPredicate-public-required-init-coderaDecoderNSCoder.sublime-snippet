@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSPredicate(coder:${1:NSCoder})]]></content>
-	<tabTrigger>NSPredicate</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

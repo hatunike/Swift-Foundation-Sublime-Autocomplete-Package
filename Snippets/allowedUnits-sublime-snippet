@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-allowedUnits
-]]></content>
-	<tabTrigger>allowedUnits</tabTrigger>
-	<scope>source.swift</scope>	<description>NSCalendarUnit</description></snippet>

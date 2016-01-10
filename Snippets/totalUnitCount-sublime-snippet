@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-totalUnitCount
-]]></content>
-	<tabTrigger>totalUnitCount</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNodeExpandEmptyElement
-]]></content>
-	<tabTrigger>NSXMLNodeExpandEmptyElement</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNodeOptionRawType</description></snippet>

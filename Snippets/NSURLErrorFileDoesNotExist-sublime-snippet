@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorFileDoesNotExist
-]]></content>
-	<tabTrigger>NSURLErrorFileDoesNotExist</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringsByAppendingPaths(${1:[String]})]]></content>
-	<tabTrigger>stringsByAppendingPaths</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> [String]</description></snippet>

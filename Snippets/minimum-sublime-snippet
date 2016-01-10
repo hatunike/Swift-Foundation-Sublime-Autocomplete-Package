@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-minimum
-]]></content>
-	<tabTrigger>minimum</tabTrigger>
-	<scope>source.swift</scope>	<description>NSNumber</description></snippet>

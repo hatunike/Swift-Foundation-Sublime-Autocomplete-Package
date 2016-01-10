@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSBundle(URL:${1:NSURL})]]></content>
-	<tabTrigger>NSBundle</tabTrigger>
-	<scope>source.swift</scope>	<description>URL:</description></snippet>

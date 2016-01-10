@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalNumber.defaultBehavior(${1:})]]></content>
-	<tabTrigger>NSDecimalNumber.defaultBehavior</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSDecimalNumber -> NSDecimalNumberBehaviors</description></snippet>

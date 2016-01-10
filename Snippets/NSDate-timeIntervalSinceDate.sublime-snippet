@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-timeIntervalSinceDate(${1:NSDate})]]></content>
-	<tabTrigger>timeIntervalSinceDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSDate -> NSTimeInterval</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-timeoutIntervalForResource
-]]></content>
-	<tabTrigger>timeoutIntervalForResource</tabTrigger>
-	<scope>source.swift</scope>	<description>NSTimeInterval</description></snippet>

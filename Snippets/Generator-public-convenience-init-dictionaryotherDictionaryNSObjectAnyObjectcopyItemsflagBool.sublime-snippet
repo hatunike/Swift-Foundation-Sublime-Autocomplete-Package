@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Generator(${1:[NSObject }, copyItems:${2:Bool})]]></content>
-	<tabTrigger>Generator</tabTrigger>
-	<scope>source.swift</scope>	<description>dictionary: copyItems:</description></snippet>

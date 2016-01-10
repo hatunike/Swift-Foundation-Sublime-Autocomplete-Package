@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSPersonNameComponentsFormatterOptions(${1:UInt})]]></content>
-	<tabTrigger>NSPersonNameComponentsFormatterOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

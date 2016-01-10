@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileOwnerAccountID
-]]></content>
-	<tabTrigger>NSFileOwnerAccountID</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

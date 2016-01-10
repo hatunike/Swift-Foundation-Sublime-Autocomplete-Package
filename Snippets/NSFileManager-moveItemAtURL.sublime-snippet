@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-moveItemAtURL(${1:NSURL}, toURL:${2:NSURL})]]></content>
-	<tabTrigger>moveItemAtURL</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> void</description></snippet>

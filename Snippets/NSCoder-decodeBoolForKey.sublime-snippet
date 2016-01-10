@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decodeBoolForKey(${1:String})]]></content>
-	<tabTrigger>decodeBoolForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> Bool</description></snippet>

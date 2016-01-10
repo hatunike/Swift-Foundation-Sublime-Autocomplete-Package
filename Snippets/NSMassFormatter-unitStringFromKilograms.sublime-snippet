@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unitStringFromKilograms(${1:Double}, usedUnit:${2:UnsafeMutablePointer<NSMassFormatterUnit>})]]></content>
-	<tabTrigger>unitStringFromKilograms</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMassFormatter -> String</description></snippet>

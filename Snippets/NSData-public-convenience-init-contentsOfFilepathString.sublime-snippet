@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSData(contentsOfFile:${1:String})]]></content>
-	<tabTrigger>NSData</tabTrigger>
-	<scope>source.swift</scope>	<description>contentsOfFile:</description></snippet>

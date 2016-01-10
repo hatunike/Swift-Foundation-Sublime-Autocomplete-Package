@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSTimer
-]]></content>
-	<tabTrigger>NSTimer</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

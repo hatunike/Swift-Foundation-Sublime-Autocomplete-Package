@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-fileHandleForReading
-]]></content>
-	<tabTrigger>fileHandleForReading</tabTrigger>
-	<scope>source.swift</scope>	<description>NSFileHandle</description></snippet>

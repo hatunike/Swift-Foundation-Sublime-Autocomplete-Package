@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-includesCount
-]]></content>
-	<tabTrigger>includesCount</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

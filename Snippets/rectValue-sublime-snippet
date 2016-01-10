@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-rectValue
-]]></content>
-	<tabTrigger>rectValue</tabTrigger>
-	<scope>source.swift</scope>	<description>NSRect</description></snippet>

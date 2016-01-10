@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileHandle(forReadingFromURL:${1:NSURL})]]></content>
-	<tabTrigger>NSFileHandle</tabTrigger>
-	<scope>source.swift</scope>	<description>forReadingFromURL:</description></snippet>

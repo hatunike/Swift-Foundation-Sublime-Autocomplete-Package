@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-scanHexInt(${1:})]]></content>
-	<tabTrigger>scanHexInt</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSScanner -> UInt32?</description></snippet>

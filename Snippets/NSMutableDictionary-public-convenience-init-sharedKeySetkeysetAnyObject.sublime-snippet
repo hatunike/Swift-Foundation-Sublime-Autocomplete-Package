@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMutableDictionary(sharedKeySet:${1:AnyObject})]]></content>
-	<tabTrigger>NSMutableDictionary</tabTrigger>
-	<scope>source.swift</scope>	<description>sharedKeySet:</description></snippet>

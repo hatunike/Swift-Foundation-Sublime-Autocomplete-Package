@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-closeWrite(${1:})]]></content>
-	<tabTrigger>closeWrite</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURLSessionStreamTask -> void</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSExpression.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSExpression.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSExpression -> Bool</description></snippet>

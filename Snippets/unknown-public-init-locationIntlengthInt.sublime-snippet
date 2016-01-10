@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unknown(${1:Int}, length:${2:Int})]]></content>
-	<tabTrigger>unknown</tabTrigger>
-	<scope>source.swift</scope>	<description>location: length:</description></snippet>

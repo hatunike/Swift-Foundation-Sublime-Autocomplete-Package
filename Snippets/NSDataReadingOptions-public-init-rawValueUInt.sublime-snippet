@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDataReadingOptions(${1:UInt})]]></content>
-	<tabTrigger>NSDataReadingOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

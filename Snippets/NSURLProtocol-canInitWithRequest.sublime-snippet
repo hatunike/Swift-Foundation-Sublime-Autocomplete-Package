@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtocol.canInitWithRequest(${1:NSURLRequest})]]></content>
-	<tabTrigger>NSURLProtocol.canInitWithRequest</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSURLProtocol -> Bool</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-boolForKey(${1:String})]]></content>
-	<tabTrigger>boolForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUserDefaults -> Bool</description></snippet>

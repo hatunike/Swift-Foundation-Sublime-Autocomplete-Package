@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorCancelledReasonUserForceQuitApplication
-]]></content>
-	<tabTrigger>NSURLErrorCancelledReasonUserForceQuitApplication</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

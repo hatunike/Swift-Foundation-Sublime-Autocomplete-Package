@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isWritableFileAtPath(${1:String})]]></content>
-	<tabTrigger>isWritableFileAtPath</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> Bool</description></snippet>

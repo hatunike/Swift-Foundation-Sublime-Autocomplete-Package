@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSNumber(longLong:${1:Int64})]]></content>
-	<tabTrigger>NSNumber</tabTrigger>
-	<scope>source.swift</scope>	<description>longLong:</description></snippet>

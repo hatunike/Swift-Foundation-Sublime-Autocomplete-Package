@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMutableDictionary(${1:UnsafePointer<AnyObject>}, forKeys:${2:UnsafePointer<NSObject>}, count:${3:Int})]]></content>
-	<tabTrigger>NSMutableDictionary</tabTrigger>
-	<scope>source.swift</scope>	<description>objects: forKeys: count:</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-enumerateObjectsUsingBlock(${1:AnyObject}, UnsafeMutablePointer<ObjCBool>:${2:})]]></content>
-	<tabTrigger>enumerateObjectsUsingBlock</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSSet -> Void)</description></snippet>

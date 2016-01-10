@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-countForObject(${1:AnyObject})]]></content>
-	<tabTrigger>countForObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCountedSet -> Int</description></snippet>

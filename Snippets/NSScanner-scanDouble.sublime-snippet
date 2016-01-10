@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-scanDouble(${1:})]]></content>
-	<tabTrigger>scanDouble</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSScanner -> Double?</description></snippet>

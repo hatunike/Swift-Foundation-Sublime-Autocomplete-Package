@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unknown(${1:})]]></content>
-	<tabTrigger>unknown</tabTrigger>
-	<scope>source.swift</scope>	<description>:</description></snippet>

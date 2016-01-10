@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-CGPoint(${1:CGFloat}, y:${2:CGFloat})]]></content>
-	<tabTrigger>CGPoint</tabTrigger>
-	<scope>source.swift</scope>	<description>x: y:</description></snippet>

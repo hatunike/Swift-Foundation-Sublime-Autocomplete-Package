@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCalendarIdentifierCoptic
-]]></content>
-	<tabTrigger>NSCalendarIdentifierCoptic</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

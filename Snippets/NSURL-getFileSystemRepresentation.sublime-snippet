@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getFileSystemRepresentation(${1:UnsafeMutablePointer<Int8>}, maxLength:${2:Int})]]></content>
-	<tabTrigger>getFileSystemRepresentation</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSURL -> Bool</description></snippet>

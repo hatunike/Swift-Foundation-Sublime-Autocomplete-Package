@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtectionSpace.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSURLProtectionSpace.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSURLProtectionSpace -> Bool</description></snippet>

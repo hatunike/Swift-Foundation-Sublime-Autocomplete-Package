@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSSet(${1:Set<NSObject>}, copyItems:${2:Bool})]]></content>
-	<tabTrigger>NSSet</tabTrigger>
-	<scope>source.swift</scope>	<description>set: copyItems:</description></snippet>

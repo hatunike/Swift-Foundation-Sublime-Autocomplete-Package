@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNode.document(${1:})]]></content>
-	<tabTrigger>NSXMLNode.document</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSXMLNode -> AnyObject</description></snippet>

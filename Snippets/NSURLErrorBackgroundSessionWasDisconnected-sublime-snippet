@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorBackgroundSessionWasDisconnected
-]]></content>
-	<tabTrigger>NSURLErrorBackgroundSessionWasDisconnected</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

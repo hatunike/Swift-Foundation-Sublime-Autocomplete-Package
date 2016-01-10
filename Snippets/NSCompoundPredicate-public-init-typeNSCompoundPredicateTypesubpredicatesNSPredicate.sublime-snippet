@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCompoundPredicate(${1:NSCompoundPredicateType}, subpredicates:${2:[NSPredicate]})]]></content>
-	<tabTrigger>NSCompoundPredicate</tabTrigger>
-	<scope>source.swift</scope>	<description>type: subpredicates:</description></snippet>

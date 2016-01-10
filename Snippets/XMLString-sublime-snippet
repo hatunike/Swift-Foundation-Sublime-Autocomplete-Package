@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-XMLString
-]]></content>
-	<tabTrigger>XMLString</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

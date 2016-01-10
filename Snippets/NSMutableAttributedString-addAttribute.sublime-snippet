@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addAttribute(${1:String}, value:${2:AnyObject}, range:${3:NSRange})]]></content>
-	<tabTrigger>addAttribute</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableAttributedString -> void</description></snippet>

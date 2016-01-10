@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Double(_:${1:CGFloat})]]></content>
-	<tabTrigger>Double</tabTrigger>
-	<scope>source.swift</scope>	<description>_:</description></snippet>

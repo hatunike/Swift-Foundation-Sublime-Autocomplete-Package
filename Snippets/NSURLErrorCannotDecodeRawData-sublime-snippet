@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorCannotDecodeRawData
-]]></content>
-	<tabTrigger>NSURLErrorCannotDecodeRawData</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

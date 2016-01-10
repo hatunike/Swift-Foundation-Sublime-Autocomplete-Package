@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-socket
-]]></content>
-	<tabTrigger>socket</tabTrigger>
-	<scope>source.swift</scope>	<description>NSSocketNativeHandle</description></snippet>

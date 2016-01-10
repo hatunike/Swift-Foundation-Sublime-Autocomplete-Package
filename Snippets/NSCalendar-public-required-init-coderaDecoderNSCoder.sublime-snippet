@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCalendar(coder:${1:NSCoder})]]></content>
-	<tabTrigger>NSCalendar</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

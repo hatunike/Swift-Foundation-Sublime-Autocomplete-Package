@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-isValidationError
-]]></content>
-	<tabTrigger>isValidationError</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

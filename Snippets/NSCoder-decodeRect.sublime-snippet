@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-decodeRect(${1:})]]></content>
-	<tabTrigger>decodeRect</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCoder -> NSRect</description></snippet>

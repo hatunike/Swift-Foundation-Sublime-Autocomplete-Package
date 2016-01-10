@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-formattingContext
-]]></content>
-	<tabTrigger>formattingContext</tabTrigger>
-	<scope>source.swift</scope>	<description>NSFormattingContext</description></snippet>

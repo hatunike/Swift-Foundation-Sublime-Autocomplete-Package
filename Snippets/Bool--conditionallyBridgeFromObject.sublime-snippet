@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Bool._conditionallyBridgeFromObject(${1:NSNumber}, inout:${2:Bool?})]]></content>
-	<tabTrigger>Bool._conditionallyBridgeFromObject</tabTrigger>
-	<scope>source.swift</scope>	<description>static Bool -> Bool</description></snippet>

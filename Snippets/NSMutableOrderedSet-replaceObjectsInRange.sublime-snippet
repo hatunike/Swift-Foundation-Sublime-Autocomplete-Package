@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-replaceObjectsInRange(${1:NSRange}, withObjects:${2:UnsafePointer<AnyObject?>}, count:${3:Int})]]></content>
-	<tabTrigger>replaceObjectsInRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

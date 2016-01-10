@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURL(coder:${1:NSCoder})]]></content>
-	<tabTrigger>NSURL</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

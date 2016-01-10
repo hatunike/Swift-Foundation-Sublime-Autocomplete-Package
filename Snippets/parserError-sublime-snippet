@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-parserError
-]]></content>
-	<tabTrigger>parserError</tabTrigger>
-	<scope>source.swift</scope>	<description>NSError</description></snippet>

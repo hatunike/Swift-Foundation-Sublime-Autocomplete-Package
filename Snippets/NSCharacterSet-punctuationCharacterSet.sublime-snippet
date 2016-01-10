@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCharacterSet.punctuationCharacterSet(${1:})]]></content>
-	<tabTrigger>NSCharacterSet.punctuationCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSCharacterSet -> NSCharacterSet</description></snippet>

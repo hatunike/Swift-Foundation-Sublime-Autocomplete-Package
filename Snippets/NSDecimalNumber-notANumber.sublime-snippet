@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalNumber.notANumber(${1:})]]></content>
-	<tabTrigger>NSDecimalNumber.notANumber</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSDecimalNumber -> NSDecimalNumber</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-adaptive
-]]></content>
-	<tabTrigger>adaptive</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

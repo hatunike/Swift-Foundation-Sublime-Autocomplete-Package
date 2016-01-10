@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-nextSibling
-]]></content>
-	<tabTrigger>nextSibling</tabTrigger>
-	<scope>source.swift</scope>	<description>NSXMLNode</description></snippet>

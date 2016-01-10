@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLSessionConfiguration.ephemeralSessionConfiguration(${1:})]]></content>
-	<tabTrigger>NSURLSessionConfiguration.ephemeralSessionConfiguration</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSURLSessionConfiguration -> NSURLSessionConfiguration</description></snippet>

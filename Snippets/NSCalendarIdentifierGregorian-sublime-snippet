@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCalendarIdentifierGregorian
-]]></content>
-	<tabTrigger>NSCalendarIdentifierGregorian</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

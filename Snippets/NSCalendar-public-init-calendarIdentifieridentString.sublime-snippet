@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCalendar(calendarIdentifier:${1:String})]]></content>
-	<tabTrigger>NSCalendar</tabTrigger>
-	<scope>source.swift</scope>	<description>calendarIdentifier:</description></snippet>

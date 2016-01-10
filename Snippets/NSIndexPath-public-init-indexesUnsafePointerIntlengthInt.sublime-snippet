@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSIndexPath(${1:UnsafePointer<Int>}, length:${2:Int})]]></content>
-	<tabTrigger>NSIndexPath</tabTrigger>
-	<scope>source.swift</scope>	<description>indexes: length:</description></snippet>

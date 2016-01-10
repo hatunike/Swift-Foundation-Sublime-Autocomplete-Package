@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSTimeZone.knownTimeZoneNames(${1:})]]></content>
-	<tabTrigger>NSTimeZone.knownTimeZoneNames</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSTimeZone -> [String]</description></snippet>

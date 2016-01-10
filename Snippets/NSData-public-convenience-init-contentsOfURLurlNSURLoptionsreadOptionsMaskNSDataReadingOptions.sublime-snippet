@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSData(contentsOfURL:${1:NSURL}, options:${2:NSDataReadingOptions})]]></content>
-	<tabTrigger>NSData</tabTrigger>
-	<scope>source.swift</scope>	<description>contentsOfURL: options:</description></snippet>

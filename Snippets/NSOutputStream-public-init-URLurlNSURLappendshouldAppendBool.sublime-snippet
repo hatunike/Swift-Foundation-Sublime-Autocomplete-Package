@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSOutputStream(URL:${1:NSURL}, append:${2:Bool})]]></content>
-	<tabTrigger>NSOutputStream</tabTrigger>
-	<scope>source.swift</scope>	<description>URL: append:</description></snippet>

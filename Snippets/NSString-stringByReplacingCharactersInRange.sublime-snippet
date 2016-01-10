@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringByReplacingCharactersInRange(${1:NSRange}, withString:${2:String})]]></content>
-	<tabTrigger>stringByReplacingCharactersInRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

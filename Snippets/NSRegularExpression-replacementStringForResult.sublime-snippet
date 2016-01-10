@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-replacementStringForResult(${1:NSTextCheckingResult}, inString:${2:String}, offset:${3:Int}, template:${4:String})]]></content>
-	<tabTrigger>replacementStringForResult</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSRegularExpression -> String</description></snippet>

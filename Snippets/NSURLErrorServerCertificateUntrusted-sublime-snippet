@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLErrorServerCertificateUntrusted
-]]></content>
-	<tabTrigger>NSURLErrorServerCertificateUntrusted</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

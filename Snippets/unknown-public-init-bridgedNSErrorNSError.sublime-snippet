@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-unknown(${1:NSError})]]></content>
-	<tabTrigger>unknown</tabTrigger>
-	<scope>source.swift</scope>	<description>_bridgedNSError:</description></snippet>

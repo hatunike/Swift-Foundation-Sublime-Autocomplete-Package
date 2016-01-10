@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSNotification(coder:${1:NSCoder})]]></content>
-	<tabTrigger>NSNotification</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

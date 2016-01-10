@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-CGRect
-]]></content>
-	<tabTrigger>CGRect</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-componentsInTimeZone(${1:NSTimeZone}, fromDate:${2:NSDate})]]></content>
-	<tabTrigger>componentsInTimeZone</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> NSDateComponents?</description></snippet>

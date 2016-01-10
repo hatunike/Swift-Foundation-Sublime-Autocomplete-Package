@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocale(coder:${1:NSCoder})]]></content>
-	<tabTrigger>NSLocale</tabTrigger>
-	<scope>source.swift</scope>	<description>coder:</description></snippet>

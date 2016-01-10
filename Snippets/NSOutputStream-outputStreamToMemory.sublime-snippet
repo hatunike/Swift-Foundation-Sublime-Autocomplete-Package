@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSOutputStream.outputStreamToMemory(${1:})]]></content>
-	<tabTrigger>NSOutputStream.outputStreamToMemory</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSOutputStream -> Self</description></snippet>

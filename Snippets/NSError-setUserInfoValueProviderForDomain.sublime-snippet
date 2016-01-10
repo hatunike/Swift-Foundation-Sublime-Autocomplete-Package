@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSError.setUserInfoValueProviderForDomain(${1:String}, provider:${2:NSError}, String:${3:})]]></content>
-	<tabTrigger>NSError.setUserInfoValueProviderForDomain</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSError -> AnyObject?)?)</description></snippet>

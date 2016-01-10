@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLProtocol.propertyForKey(${1:String}, inRequest:${2:NSURLRequest})]]></content>
-	<tabTrigger>NSURLProtocol.propertyForKey</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSURLProtocol -> AnyObject?</description></snippet>

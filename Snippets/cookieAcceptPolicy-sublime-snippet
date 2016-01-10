@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-cookieAcceptPolicy
-]]></content>
-	<tabTrigger>cookieAcceptPolicy</tabTrigger>
-	<scope>source.swift</scope>	<description>NSHTTPCookieAcceptPolicy</description></snippet>

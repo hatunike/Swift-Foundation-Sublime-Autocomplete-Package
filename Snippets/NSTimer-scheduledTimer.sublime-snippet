@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSTimer.scheduledTimer(${1:NSTimeInterval}, repeats:${2:Bool}, fire:${3:NSTimer -> Void})]]></content>
-	<tabTrigger>NSTimer.scheduledTimer</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSTimer -> Void)</description></snippet>

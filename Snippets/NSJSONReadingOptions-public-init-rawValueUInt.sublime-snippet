@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSJSONReadingOptions(${1:UInt})]]></content>
-	<tabTrigger>NSJSONReadingOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

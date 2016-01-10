@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileTypeBlockSpecial
-]]></content>
-	<tabTrigger>NSFileTypeBlockSpecial</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

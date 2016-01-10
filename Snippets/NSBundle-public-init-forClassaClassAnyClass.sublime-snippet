@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSBundle(forClass:${1:AnyClass})]]></content>
-	<tabTrigger>NSBundle</tabTrigger>
-	<scope>source.swift</scope>	<description>forClass:</description></snippet>

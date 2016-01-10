@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSValue(edgeInsets:${1:NSEdgeInsets})]]></content>
-	<tabTrigger>NSValue</tabTrigger>
-	<scope>source.swift</scope>	<description>edgeInsets:</description></snippet>

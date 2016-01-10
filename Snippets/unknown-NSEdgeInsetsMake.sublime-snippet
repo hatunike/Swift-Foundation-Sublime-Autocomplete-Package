@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSEdgeInsetsMake(${1:CGFloat}, _:${2:CGFloat}, _:${3:CGFloat}, _:${4:CGFloat})]]></content>
-	<tabTrigger>NSEdgeInsetsMake</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> NSEdgeInsets</description></snippet>

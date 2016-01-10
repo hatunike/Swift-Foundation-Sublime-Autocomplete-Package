@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-reverseObjectEnumerator(${1:})]]></content>
-	<tabTrigger>reverseObjectEnumerator</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> NSEnumerator</description></snippet>

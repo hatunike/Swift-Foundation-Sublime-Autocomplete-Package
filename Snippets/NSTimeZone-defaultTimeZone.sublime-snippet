@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSTimeZone.defaultTimeZone(${1:})]]></content>
-	<tabTrigger>NSTimeZone.defaultTimeZone</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSTimeZone -> NSTimeZone</description></snippet>

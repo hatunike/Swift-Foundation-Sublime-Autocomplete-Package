@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-removeLastObject(${1:})]]></content>
-	<tabTrigger>removeLastObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableArray -> void</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSProgressFileOperationKindCopying
-]]></content>
-	<tabTrigger>NSProgressFileOperationKindCopying</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

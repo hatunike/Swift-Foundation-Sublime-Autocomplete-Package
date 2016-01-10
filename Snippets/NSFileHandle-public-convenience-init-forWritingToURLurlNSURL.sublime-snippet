@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileHandle(forWritingToURL:${1:NSURL})]]></content>
-	<tabTrigger>NSFileHandle</tabTrigger>
-	<scope>source.swift</scope>	<description>forWritingToURL:</description></snippet>

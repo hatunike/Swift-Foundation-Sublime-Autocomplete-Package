@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSString.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>NSString.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static NSString -> Bool</description></snippet>

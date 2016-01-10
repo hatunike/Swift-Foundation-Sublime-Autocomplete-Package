@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-secure
-]]></content>
-	<tabTrigger>secure</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

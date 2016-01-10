@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSOperation(${1:})]]></content>
-	<tabTrigger>NSOperation</tabTrigger>
-	<scope>source.swift</scope>	<description>:</description></snippet>

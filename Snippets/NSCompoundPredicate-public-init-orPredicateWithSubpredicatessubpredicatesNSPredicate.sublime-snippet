@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCompoundPredicate(orPredicateWithSubpredicates:${1:[NSPredicate]})]]></content>
-	<tabTrigger>NSCompoundPredicate</tabTrigger>
-	<scope>source.swift</scope>	<description>orPredicateWithSubpredicates:</description></snippet>

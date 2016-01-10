@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSOutputStream(toBuffer:${1:UnsafeMutablePointer<UInt8>}, capacity:${2:Int})]]></content>
-	<tabTrigger>NSOutputStream</tabTrigger>
-	<scope>source.swift</scope>	<description>toBuffer: capacity:</description></snippet>

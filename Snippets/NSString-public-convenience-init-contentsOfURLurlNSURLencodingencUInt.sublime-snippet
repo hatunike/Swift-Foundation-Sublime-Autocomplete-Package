@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSString(contentsOfURL:${1:NSURL}, encoding:${2:UInt})]]></content>
-	<tabTrigger>NSString</tabTrigger>
-	<scope>source.swift</scope>	<description>contentsOfURL: encoding:</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSJSONWritingOptions(${1:UInt})]]></content>
-	<tabTrigger>NSJSONWritingOptions</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

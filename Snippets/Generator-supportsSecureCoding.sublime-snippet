@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Generator.supportsSecureCoding(${1:})]]></content>
-	<tabTrigger>Generator.supportsSecureCoding</tabTrigger>
-	<scope>source.swift</scope>	<description>static Generator -> Bool</description></snippet>

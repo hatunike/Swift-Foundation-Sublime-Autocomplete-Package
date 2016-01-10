@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCharacterSet.newlineCharacterSet(${1:})]]></content>
-	<tabTrigger>NSCharacterSet.newlineCharacterSet</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSCharacterSet -> NSCharacterSet</description></snippet>

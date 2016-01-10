@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSAffineTransformStruct(${1:})]]></content>
-	<tabTrigger>NSAffineTransformStruct</tabTrigger>
-	<scope>source.swift</scope>	<description>:</description></snippet>

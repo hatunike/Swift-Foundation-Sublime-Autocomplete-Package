@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-String._forceBridgeFromObject(${1:NSString}, inout:${2:String?})]]></content>
-	<tabTrigger>String._forceBridgeFromObject</tabTrigger>
-	<scope>source.swift</scope>	<description>static String -> void</description></snippet>

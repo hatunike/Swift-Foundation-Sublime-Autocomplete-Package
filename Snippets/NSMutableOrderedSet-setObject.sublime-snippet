@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-setObject(${1:AnyObject}, atIndex:${2:Int})]]></content>
-	<tabTrigger>setObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSMutableOrderedSet -> void</description></snippet>

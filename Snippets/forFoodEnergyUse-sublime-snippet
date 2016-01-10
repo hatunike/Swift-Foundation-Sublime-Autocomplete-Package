@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-forFoodEnergyUse
-]]></content>
-	<tabTrigger>forFoodEnergyUse</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

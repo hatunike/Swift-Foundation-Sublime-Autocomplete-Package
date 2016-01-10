@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLAuthenticationMethodHTTPDigest
-]]></content>
-	<tabTrigger>NSURLAuthenticationMethodHTTPDigest</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSSortDescriptor(${1:String?}, ascending:${2:Bool})]]></content>
-	<tabTrigger>NSSortDescriptor</tabTrigger>
-	<scope>source.swift</scope>	<description>key: ascending:</description></snippet>

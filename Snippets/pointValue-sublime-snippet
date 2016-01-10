@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-pointValue
-]]></content>
-	<tabTrigger>pointValue</tabTrigger>
-	<scope>source.swift</scope>	<description>NSPoint</description></snippet>

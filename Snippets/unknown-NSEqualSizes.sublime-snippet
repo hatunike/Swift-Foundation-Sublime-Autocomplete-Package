@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSEqualSizes(${1:NSSize}, _:${2:NSSize})]]></content>
-	<tabTrigger>NSEqualSizes</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> Bool</description></snippet>

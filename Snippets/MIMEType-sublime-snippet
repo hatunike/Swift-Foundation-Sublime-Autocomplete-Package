@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-MIMEType
-]]></content>
-	<tabTrigger>MIMEType</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

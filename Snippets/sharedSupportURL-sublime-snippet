@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sharedSupportURL
-]]></content>
-	<tabTrigger>sharedSupportURL</tabTrigger>
-	<scope>source.swift</scope>	<description>NSURL</description></snippet>

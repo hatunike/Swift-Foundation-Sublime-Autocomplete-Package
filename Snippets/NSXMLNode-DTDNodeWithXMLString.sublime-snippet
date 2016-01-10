@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLNode.DTDNodeWithXMLString(${1:String})]]></content>
-	<tabTrigger>NSXMLNode.DTDNodeWithXMLString</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSXMLNode -> AnyObject?</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Set._conditionallyBridgeFromObject(${1:NSSet}, inout:${2:Set?})]]></content>
-	<tabTrigger>Set._conditionallyBridgeFromObject</tabTrigger>
-	<scope>source.swift</scope>	<description>static Set -> Bool</description></snippet>

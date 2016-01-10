@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-positivePrefix
-]]></content>
-	<tabTrigger>positivePrefix</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

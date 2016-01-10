@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalNumberHandler(${1:NSRoundingMode}, scale:${2:Int16}, raiseOnExactness:${3:Bool}, raiseOnOverflow:${4:Bool}, raiseOnUnderflow:${5:Bool}, raiseOnDivideByZero:${6:Bool})]]></content>
-	<tabTrigger>NSDecimalNumberHandler</tabTrigger>
-	<scope>source.swift</scope>	<description>roundingMode: scale: raiseOnExactness: raiseOnOverflow: raiseOnUnderflow: raiseOnDivideByZero:</description></snippet>

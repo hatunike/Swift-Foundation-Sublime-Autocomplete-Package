@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-anyObject(${1:})]]></content>
-	<tabTrigger>anyObject</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSSet -> AnyObject?</description></snippet>

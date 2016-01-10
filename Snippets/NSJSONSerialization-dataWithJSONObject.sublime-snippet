@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSJSONSerialization.dataWithJSONObject(${1:AnyObject}, options:${2:NSJSONWritingOptions})]]></content>
-	<tabTrigger>NSJSONSerialization.dataWithJSONObject</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSJSONSerialization -> NSData</description></snippet>

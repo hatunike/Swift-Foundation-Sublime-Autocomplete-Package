@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSCalendar.autoupdatingCurrentCalendar(${1:})]]></content>
-	<tabTrigger>NSCalendar.autoupdatingCurrentCalendar</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSCalendar -> NSCalendar</description></snippet>

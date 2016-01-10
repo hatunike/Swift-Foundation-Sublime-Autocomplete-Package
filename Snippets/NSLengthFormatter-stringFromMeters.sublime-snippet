@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringFromMeters(${1:Double})]]></content>
-	<tabTrigger>stringFromMeters</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSLengthFormatter -> String</description></snippet>

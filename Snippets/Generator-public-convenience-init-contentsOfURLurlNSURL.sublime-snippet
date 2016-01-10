@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Generator(contentsOfURL:${1:NSURL})]]></content>
-	<tabTrigger>Generator</tabTrigger>
-	<scope>source.swift</scope>	<description>contentsOfURL:</description></snippet>

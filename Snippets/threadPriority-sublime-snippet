@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-threadPriority
-]]></content>
-	<tabTrigger>threadPriority</tabTrigger>
-	<scope>source.swift</scope>	<description>Double</description></snippet>

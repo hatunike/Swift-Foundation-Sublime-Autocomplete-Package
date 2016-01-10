@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDateFormatter.localizedStringFromDate(${1:NSDate}, dateStyle:${2:NSDateFormatterStyle}, timeStyle:${3:NSDateFormatterStyle})]]></content>
-	<tabTrigger>NSDateFormatter.localizedStringFromDate</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSDateFormatter -> String</description></snippet>

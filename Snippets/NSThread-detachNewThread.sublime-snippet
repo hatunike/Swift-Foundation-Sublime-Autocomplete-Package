@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSThread.detachNewThread(${1:Void -> Void})]]></content>
-	<tabTrigger>NSThread.detachNewThread</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSThread -> Void)</description></snippet>

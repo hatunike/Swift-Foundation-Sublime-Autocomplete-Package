@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSXMLElement(XMLString:${1:String})]]></content>
-	<tabTrigger>NSXMLElement</tabTrigger>
-	<scope>source.swift</scope>	<description>XMLString:</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLResponse(${1:NSURL}, MIMEType:${2:String?}, expectedContentLength:${3:Int}, textEncodingName:${4:String?})]]></content>
-	<tabTrigger>NSURLResponse</tabTrigger>
-	<scope>source.swift</scope>	<description>URL: MIMEType: expectedContentLength: textEncodingName:</description></snippet>

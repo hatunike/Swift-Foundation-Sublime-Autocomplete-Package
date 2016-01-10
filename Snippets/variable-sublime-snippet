@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-variable
-]]></content>
-	<tabTrigger>variable</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

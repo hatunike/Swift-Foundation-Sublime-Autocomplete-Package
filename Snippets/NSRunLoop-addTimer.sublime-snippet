@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addTimer(${1:NSTimer}, forMode:${2:String})]]></content>
-	<tabTrigger>addTimer</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSRunLoop -> void</description></snippet>

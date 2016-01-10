@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSOrderedSet(arrayLiteral:${1:AnyObject...})]]></content>
-	<tabTrigger>NSOrderedSet</tabTrigger>
-	<scope>source.swift</scope>	<description>arrayLiteral:</description></snippet>

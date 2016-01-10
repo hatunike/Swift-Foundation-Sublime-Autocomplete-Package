@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-getUUIDBytes(${1:UnsafeMutablePointer<UInt8>})]]></content>
-	<tabTrigger>getUUIDBytes</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSUUID -> void</description></snippet>

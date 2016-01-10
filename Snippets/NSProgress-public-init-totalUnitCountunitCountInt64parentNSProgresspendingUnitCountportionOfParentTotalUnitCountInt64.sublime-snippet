@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSProgress(totalUnitCount:${1:Int64}, parent:${2:NSProgress}, pendingUnitCount:${3:Int64})]]></content>
-	<tabTrigger>NSProgress</tabTrigger>
-	<scope>source.swift</scope>	<description>totalUnitCount: parent: pendingUnitCount:</description></snippet>

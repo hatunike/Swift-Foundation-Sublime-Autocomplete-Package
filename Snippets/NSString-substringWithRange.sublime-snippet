@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-substringWithRange(${1:NSRange})]]></content>
-	<tabTrigger>substringWithRange</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSString -> String</description></snippet>

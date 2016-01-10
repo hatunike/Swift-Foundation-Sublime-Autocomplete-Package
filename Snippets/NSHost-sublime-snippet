@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSHost
-]]></content>
-	<tabTrigger>NSHost</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

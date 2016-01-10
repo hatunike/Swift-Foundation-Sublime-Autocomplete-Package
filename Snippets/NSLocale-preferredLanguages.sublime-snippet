@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocale.preferredLanguages(${1:})]]></content>
-	<tabTrigger>NSLocale.preferredLanguages</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSLocale -> [String]</description></snippet>

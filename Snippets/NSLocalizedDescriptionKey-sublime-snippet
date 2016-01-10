@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSLocalizedDescriptionKey
-]]></content>
-	<tabTrigger>NSLocalizedDescriptionKey</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

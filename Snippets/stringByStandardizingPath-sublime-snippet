@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-stringByStandardizingPath
-]]></content>
-	<tabTrigger>stringByStandardizingPath</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

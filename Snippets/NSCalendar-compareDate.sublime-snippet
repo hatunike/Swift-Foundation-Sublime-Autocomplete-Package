@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-compareDate(${1:NSDate}, toDate:${2:NSDate}, toUnitGranularity:${3:NSCalendarUnit})]]></content>
-	<tabTrigger>compareDate</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSCalendar -> NSComparisonResult</description></snippet>

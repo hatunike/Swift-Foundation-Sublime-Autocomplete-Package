@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSDecimalNumberOverflowException
-]]></content>
-	<tabTrigger>NSDecimalNumberOverflowException</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>

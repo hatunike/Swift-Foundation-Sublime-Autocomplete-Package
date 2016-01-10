@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-bytes
-]]></content>
-	<tabTrigger>bytes</tabTrigger>
-	<scope>source.swift</scope>	<description>UnsafePointer</description></snippet>

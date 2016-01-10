@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSOperationQueue.currentQueue(${1:})]]></content>
-	<tabTrigger>NSOperationQueue.currentQueue</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSOperationQueue -> NSOperationQueue?</description></snippet>

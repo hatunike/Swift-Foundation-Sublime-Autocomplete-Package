@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSFileHandle.fileHandleWithNullDevice(${1:})]]></content>
-	<tabTrigger>NSFileHandle.fileHandleWithNullDevice</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSFileHandle -> NSFileHandle</description></snippet>

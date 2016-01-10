@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-includesApproximationPhrase
-]]></content>
-	<tabTrigger>includesApproximationPhrase</tabTrigger>
-	<scope>source.swift</scope>	<description>Bool</description></snippet>

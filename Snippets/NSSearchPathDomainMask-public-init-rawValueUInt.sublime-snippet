@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSSearchPathDomainMask(${1:UInt})]]></content>
-	<tabTrigger>NSSearchPathDomainMask</tabTrigger>
-	<scope>source.swift</scope>	<description>rawValue:</description></snippet>

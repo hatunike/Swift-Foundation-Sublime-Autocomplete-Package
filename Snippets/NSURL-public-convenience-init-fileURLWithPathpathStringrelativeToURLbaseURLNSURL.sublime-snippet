@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURL(fileURLWithPath:${1:String}, relativeToURL:${2:NSURL?})]]></content>
-	<tabTrigger>NSURL</tabTrigger>
-	<scope>source.swift</scope>	<description>fileURLWithPath: relativeToURL:</description></snippet>

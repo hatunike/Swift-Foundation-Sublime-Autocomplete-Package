@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-run(${1:})]]></content>
-	<tabTrigger>run</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSRunLoop -> void</description></snippet>

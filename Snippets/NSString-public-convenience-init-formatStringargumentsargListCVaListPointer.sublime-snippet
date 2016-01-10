@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSString(${1:String}, arguments:${2:CVaListPointer})]]></content>
-	<tabTrigger>NSString</tabTrigger>
-	<scope>source.swift</scope>	<description>format: arguments:</description></snippet>

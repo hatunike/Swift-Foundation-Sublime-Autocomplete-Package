@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-y
-]]></content>
-	<tabTrigger>y</tabTrigger>
-	<scope>source.swift</scope>	<description>CGFloat</description></snippet>

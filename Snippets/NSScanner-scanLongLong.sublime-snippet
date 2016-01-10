@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-scanLongLong(${1:})]]></content>
-	<tabTrigger>scanLongLong</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSScanner -> Int64?</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURL(string:${1:String}, relativeToURL:${2:NSURL?})]]></content>
-	<tabTrigger>NSURL</tabTrigger>
-	<scope>source.swift</scope>	<description>string: relativeToURL:</description></snippet>

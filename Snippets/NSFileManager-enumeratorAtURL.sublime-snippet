@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-enumeratorAtURL(${1:NSURL}, includingPropertiesForKeys:${2:[String]?}, options:${3:NSDirectoryEnumerationOptions}, errorHandler:${4:NSURL}, NSError:${5:})]]></content>
-	<tabTrigger>enumeratorAtURL</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSFileManager -> Bool)?)</description></snippet>

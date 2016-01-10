@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSPredicate(${1:AnyObject}, [String:${2:AnyObject]? -> Bool})]]></content>
-	<tabTrigger>NSPredicate</tabTrigger>
-	<scope>source.swift</scope>	<description>block: [String:</description></snippet>

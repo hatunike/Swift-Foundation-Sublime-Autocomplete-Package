@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSUserDefaults
-]]></content>
-	<tabTrigger>NSUserDefaults</tabTrigger>
-	<scope>source.swift</scope>	<description></description></snippet>

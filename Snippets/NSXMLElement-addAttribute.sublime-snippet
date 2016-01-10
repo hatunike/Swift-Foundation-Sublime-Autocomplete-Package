@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-addAttribute(${1:NSXMLNode})]]></content>
-	<tabTrigger>addAttribute</tabTrigger>
-	<scope>source.swift</scope>	<description>func NSXMLElement -> void</description></snippet>

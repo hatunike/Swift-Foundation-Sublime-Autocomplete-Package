@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSURLSessionTransferSizeUnknown
-]]></content>
-	<tabTrigger>NSURLSessionTransferSizeUnknown</tabTrigger>
-	<scope>source.swift</scope>	<description>Int</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSMidX(${1:NSRect})]]></content>
-	<tabTrigger>NSMidX</tabTrigger>
-	<scope>source.swift</scope>	<description>func unknown -> CGFloat</description></snippet>

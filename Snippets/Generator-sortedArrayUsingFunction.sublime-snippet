@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sortedArrayUsingFunction(comparator:${1:@conventionc AnyObject}, AnyObject:${2:}, UnsafeMutablePointer<Void>:${3:}, context:${4:UnsafeMutablePointer<Void>}, hint:${5:NSData?})]]></content>
-	<tabTrigger>sortedArrayUsingFunction</tabTrigger>
-	<scope>source.swift</scope>	<description>func Generator -> Int,</description></snippet>

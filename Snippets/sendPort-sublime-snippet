@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-sendPort
-]]></content>
-	<tabTrigger>sendPort</tabTrigger>
-	<scope>source.swift</scope>	<description>NSPort</description></snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSScanner.localizedScannerWithString(${1:String})]]></content>
-	<tabTrigger>NSScanner.localizedScannerWithString</tabTrigger>
-	<scope>source.swift</scope>	<description>class NSScanner -> AnyObject</description></snippet>

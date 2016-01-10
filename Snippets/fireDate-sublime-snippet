@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-fireDate
-]]></content>
-	<tabTrigger>fireDate</tabTrigger>
-	<scope>source.swift</scope>	<description>NSDate</description></snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-NSProgressFileOperationKindDecompressingAfterDownloading
-]]></content>
-	<tabTrigger>NSProgressFileOperationKindDecompressingAfterDownloading</tabTrigger>
-	<scope>source.swift</scope>	<description>String</description></snippet>
